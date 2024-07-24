@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-logo: "/assets/images/just-the-docs.png"
-
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
