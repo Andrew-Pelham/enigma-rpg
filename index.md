@@ -1,9 +1,9 @@
-logo: "/assets/images/just-the-docs.png"
-
 ---
 title: Home
 layout: home
 ---
+
+logo: "/assets/images/just-the-docs.png"
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
