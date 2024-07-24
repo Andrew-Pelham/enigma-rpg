@@ -3,9 +3,4 @@ title: Home
 layout: home
 ---
 
----
-title: Test
-layout: home
----
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+This is where my home page will be!
