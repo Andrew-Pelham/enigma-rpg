@@ -1,3 +1,5 @@
+logo: "/assets/images/just-the-docs.png"
+
 ---
 title: Home
 layout: home
