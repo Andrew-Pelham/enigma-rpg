@@ -4,5 +4,3 @@ theme: just-the-docs
 
 url: https://Andrew-Pelham.github.io/enigma-rpg
 
-custom_scss: assets/css/default.scss
-custom_css: assets/css/default.css
