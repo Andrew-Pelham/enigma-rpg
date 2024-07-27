@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # ENIGMA System Reference Document V1.0
+
 {: .no_toc }
 
 <details close markdown="block">
@@ -123,5 +124,3 @@ Specialties take the form of “-ing something”. Your character might have a s
 ### Next Steps
 
 Once you’ve built out your character, generate  your Lucky Saves by rolling 1d6. Then, you’re done! Stress, Curiosities, and Insights will grow and change as you progress on your adventure!
-
-
