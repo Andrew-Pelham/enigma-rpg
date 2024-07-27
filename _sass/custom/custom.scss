@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@font-face {
+    font-family: 'Tintin Title';
+    src: url('/assets/fonts/Tintin Majuscules Bold.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Tintin Text';
+    src: url('/assets/fonts/Remi Script.ttf') format('truetype')
+}
+
+$body-font-family: 'Courier Prime', monospace;
+$heading-font-family: 'Carter One', system-ui;
+
+// Apply custom fonts
+input, body {
+    font-family: $body-font-family;
+}
+
+.site-title, nav, h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+}
+
+tr:nth-child(odd) td{
+    background-color: #f2f2f2;
+  }
+  
+  th, td {
+    min-width: initial;
+    padding-top: .35rem;
+    padding-bottom: .35rem;
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
+  
+  td {
+    border-bottom: 0;
+    border-left: 0;
+  }
+  
+  tbody tr:last-of-type td{
+    padding-bottom: .35rem;
+  }
