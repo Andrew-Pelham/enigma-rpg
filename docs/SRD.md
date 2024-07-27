@@ -286,11 +286,11 @@ During character creation, as well as the start of each new lrg of an adventure,
 
 #### Before Rolling
 
-For each Lucky Save you spend before making a [*Beat The Odds*](#beat-the-odds) roll, you may add one bonus die to the roll.
+For each [*Lucky Save*](#lucky-saves) you spend before making a [*Beat The Odds*](#beat-the-odds) roll, you may add one bonus die to the roll.
 
 #### After Rolling
 
-For each Lucky Save you spend after making a [*Beat The Odds*](#beat-the-odds) roll, you may increase the value on a die by one. Note that if rolling with penalty dice, you still take the lowest result. For example, if you roll two 3’s, and spend a Lucky Save to increase one to a 4, you still take the 3.
+For each [*Lucky Save*](#lucky-saves) you spend after making a [*Beat The Odds*](#beat-the-odds) roll, you may increase the value on a die by one. For example, if you rolled a 4, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 5.
 
 Both modes of Lucky Saves can be used on the same roll as well, so you can add bonus dice and increase the values if you really need a good result. Keep in mind that you won’t get more points until the next Leg.
 
@@ -465,8 +465,8 @@ Even though you have an iron grip on the Stress stat, you shouldn’t rely on it
 
 [*Lucky Saves*](#lucky-saves)
 
-- For each Lucky Save you spend before making a roll, you may add one bonus die to the roll.
-- For each Lucky Save you spend after making a roll, you may increase the value on a die by one. 
+- For each [*Lucky Save*](#lucky-saves) you spend before making a roll, you may add one bonus die to the roll.
+- For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one. 
 - Both can be used on 1 roll
 
 [*Curiosities*](#curiosities)
