@@ -270,8 +270,6 @@ When you attempt an action, you are asking “Does my character get what they wa
 
 On a Success, the player describes what happens in detail. They can take creative liberty as long as it fits within the bounds set by the [*Director*](#the-director). On a Partial Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion. On a Failure, the attempted action fails, with either the [*Director*](#the-director) or the player explaining how. On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes the catastrophic failure.
 
-Yes and No are pretty straightforward - they tell you whether the action succeeded or not. The and and but are qualifiers that modify how good the success or how bad the failure was. When you get a qualifier the [*Director*](#the-director) makes an extra statement about how the action succeeded or failed.
-
 ### Modifiers
 
 Sometimes circumstances, [*Equipment*](#equipment), and skill will make [*Beat The Odds*](#beat-the-odds) rolls easier or harder. Modifiers change the number of dice you get to roll when taking action. When rolling multiple dice, the grouping is called your dice pool.
