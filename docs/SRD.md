@@ -36,27 +36,7 @@ ENIGMA takes its players back to a familiar history roughly between both World W
 
 ## The Basics
 
-### What you need
-
-To play ENIGMA you will need to gather a few things. Here is what you need from your next supply run:
-
-- Dice: Standard six-sided dice are used to resolve action in ENIGMA. You will need at least one, but it would be better if players had about three each. Six-sided dice are referred to throughout the rules as d6. If a number appears in front (such as 2d6 or 4d6) this indicates you should roll that many dice.
-
-- Pencil and Paper: Players will need to record the details of their character, important notes about their mission, and all kinds of other things. The [*Director*](#the-director) will also need paper for keeping track of different elements
-of the story.
-
-- Scrap Paper: Directors will find it useful to keep a supply of paper handy, to draw rough diagrams, or keep track of the events of a story. A small whiteboard is also handy for such purposes.
-
-### What You Do
-
-You and your friends are going to work together to tell a dramatic, exciting story. Each player will create an adventurer to aid whilst on their journey. An adventurer has their own strengths, weaknesses, and goals that will help you roleplay them. One player will be the [*Director*](#the-director), who helps everyone along, presents challenges for the characters to overcome, and adjudicates the rules when needed.
-
-Play is a kind of conversation, where everyone works together to put the characters in cool and/or entertaining situations. Then you will use the dice to help work out
-what happens next. Sometimes you will all be working together, throwing ideas around, suggesting things, and talking over the top of each other. It is chaos, but hopefully productive, fun chaos. At other times you are going to take turns to describe what your character is doing and see the results.
-
-### How You Do It
-
-To resolve any action where the outcome is not clear, roll a d6. Your objective is to ‘beat the odds’ by rolling high. When the environment, skills, tools, or abilities make an action easier or harder you will get to roll multiple dice and keep the best or worst result.
+In order to play ENIGMA, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game as well. You will be telling a story as a group, faciliated by the [*Director*](#the-director).
 
 ## Making an Adventurer
 
@@ -77,9 +57,9 @@ Although a balanced group of characters often helps to diversify skill sets, by 
 
 Furthermore, your character doesn’t have to be a human, and often the best companions aren’t! Whether you are a detective robot or a snowy white dog, you have as much creative liberty to morph the sheet to your will.
 
-### Descriptors
+### Description
 
-Once you have a general idea as to the type of character you want to create, descriptors allow you to shape them.
+Once you have a general idea of the type of character you want to create, you can begin to describe them with the following fields.
 
 #### Profession
 
@@ -95,11 +75,11 @@ This is where you can truly describe your character’s look. What’s your rest
 
 #### Relationships
 
-Choose at least one other character that will take part in the story and write a short statement about your relationship with them. This should be clear and add some interesting depth to both characters' backgrounds. For example, you could be old drinking buddies, have dated the same woman, fought in the war together, or were trained by the same master.
+Select one other person at the table, and form a connection between your character and theirs. You could have been war buddies, old rivals, or even something as simple as childhood friends. As the party adds relationships between themselves, they form a web that links the characters together and provides depth.
 
-### Equipment
+### Equipment FIXME: remove FU
 
-The gear, gadgets, and weapons that a character will use on their adventures encompasses [*Equipment*](#equipment). All characters have the basic clothes or items that are appropriate to their concept. [*Equipment*](#equipment) is the important and cool stuff that a character carries. A character’s [*Equipment*](#equipment) will grant bonus dice and can be anything - guns and knives to fancy clothes, wads of cash, a horse, flares, or even a dinghy.
+The gear, gadgets, and weapons that a character will use on their adventures encompasses [*Equipment*](#equipment). All characters have the basic clothes or items that are appropriate to their concept. [*Equipment*](#equipment) is the important and cool stuff that a character carries. A character’s [*Equipment*](#equipment) will grant [*Bonus Dice*](#bonus-dice) and can be anything - guns and knives to fancy clothes, wads of cash, a horse, flares, or even a dinghy.
 
 [*Equipment*](#equipment) is always made up of an adjective and noun; Rusting Sword, Long Rope, Fast Horse, Long-ranged Rifle, Father’s Model-T, Heavy Helmet. Your character has two pieces of [*Equipment*](#equipment). Choose two items for your character; if you get stuck, there is a sample table of [*Equipment*](#equipment) on each archetype description page. Just don’t forget to add an adjective to each item!
 
@@ -107,7 +87,7 @@ Items should be “iconic” to your character. Think Indiana Jones’s Well-wor
 
 Discuss your [*Equipment*](#equipment) with the table. Everyone needs to be clear on what you are describing; what the [*Equipment*](#equipment) will be useful for, and when it might be a hindrance.
 
-### Specialties
+### Specialties FIXME: remove FU
 
 This is your chance to say what your character is great at. Sometimes a character’s specialty might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
@@ -225,19 +205,19 @@ Each [*Leg*](#legs) essentially works as a oneshot that can be strung together i
 
 As you can see, each [*Leg*](#legs) is a contained segment of the story, like an episode of a TV show. There is a central antagonist to each, but they slowly build up from a cat burglar to the Baron.
 
-### Scenes
+### Scenes FIXME: remove FU - Encounter?
 
 A [*Scene*](#scenes) is a period of the story involving a specific situation, location, or group of characters. [*Scenes*](#scenes) are the primary building blocks of the story and can represent anything from a few seconds to many hours of time. Each [*Scene*](#scenes) should have a specific objective and the [*Scene*](#scenes) ends when that objective has been addressed. A [*Scene*](#scenes) should advance the plot of the story, reveal information about a character, or add background color to the events being described. Often a [*Scene*](#scenes) will do all of these things at the same time.
 
 One example would be the chase after the cat burglar in [*Leg*](#legs) 1 of our example adventure. This is an enclosed [*Scene*](#scenes) that might involve multiple beat the odds rolls to test the characters throughout. We can think of scenes like story beats - if someone had 30 seconds to recount the adventure, the [*Scenes*](#scenes) are what get recounted first.
 
-### Turns
+### Turns FIXME: remove FU
 
 When it is important to know the specific actions of each character and the order in which they occur, a [*Scene*](#scenes) is broken into turns. A turn is a period long enough for each character to take a single action, whether that be to make an attack, deliver a rousing speech, throw an object to a companion, look up some information in their books, or perform some other task. The order within a turn is often dictated by the [*Director*](#the-director), but they may also allow the players to select an order depending on the situation.
 
 On a turn, players declare what action their characters are taking, while the [*Director*](#the-director) decides what the other characters and enemies are going to do. When all the characters involved have had a chance to act the turn ends. A new turn will begin, if necessary.
 
-[*Turns*](#turns) are essentially like slowing down time so we can get a better picture of what is going on. This is the action packed [*Scene*](#scenes) in an adventure film, so we wanna get it right! [*Turns*](#turns) are often utilized in combat scenarios, or a [*Tumult*](#tumult)
+[*Turns*](#turns) are essentially like slowing down time so we can get a better picture of what is going on. This is the action packed scene in an adventure film, so we wanna get it right! [*Turns*](#turns) are often utilized in combat scenarios, or a [*Tumult*](#tumult)   
 
 ### Tumults
 
@@ -245,38 +225,44 @@ Sometimes all hell breaks loose and the characters find themselves in a combat s
 
 A [*Tumult*](#tumult) acts like a standard [*Scene*](#scenes), and players act on a turn so as to establish some sense of order. However, depending on the scenario, the players may not always act first. One example would be if the characters were ambushed while walking lazily through a bazaar.
 
-At the beginning of a [*Tumult*](#tumult), each player rolls to see how many [*Blammo! Dice*](#Blammo! Dice) are available to them during the [*Tumult*](#tumult). [*Blammo! Dice*](#Blammo! Dice) are detailed later, but in essence, they define how many things a player can do during the [*Tumult*](#tumult).
+At the beginning of a [*Tumult*](#tumult), each player rolls to see how many [*Blammo! Dice*](#blammo-dice) are available to them during the [*Tumult*](#tumult). [*Blammo! Dice*](#blammo-dice) are detailed later, but in essence, they define how many things a player can do during the [*Tumult*](#tumult).
 
 In a [*Tumult*](#tumult), failed rolls on the players’ end as well as successful rolls on the opponents’ end can translate to an increase of [*Stress*](#stress). No actual damage is tracked or taken, but it is assumed that the character deals with a wound through an increase in [*Stress*](#stress).
 
-A [*Tumult*](#tumult) will typically end when one side is knocked out, fleeing, or surrendered. In the player's case, if they collectively run out of [*Blammo! Dice*](#Blammo! Dice) then their best course of action is to turn tail and run, since they can't make many more daring moves. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumult) is over.
+A [*Tumult*](#tumult) will typically end when one side is knocked out, fleeing, or surrendered. In the player's case, if they collectively run out of [*Blammo! Dice*](#blammo-dice) then their best course of action is to turn tail and run, since they can't make many more daring moves. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumult) is over.
 
-### Beat The Odds
+### Gambles
 
-When a character attempts an action where the outcome is not immediately and/or completely obvious, you make a [*Beat The Odds*](#beat-the-odds) roll. To resolve an action roll a d6. Your objective is to ‘beat the odds’ by rolling as high as possible. If you roll low, the action either failed or wasn’t quite as good as needed or expected. The lower the number, the worse the result.
+Whenever a character wants to do something that has a chance of failure, they make a [*Gamble*](#gamble). To do this, the player rolls 1d6.
 
 | Roll | Result |
 | ---- | ---- |
-| **6** | Success |
-| **5** | Partial Success |
-| **4** | Partial Success |
-| **3** | Failure |
-| **2** | Failure |
+| **6** | Critical Success |
+| **5** | Success |
+| **4** | Success |
+| **3** | Blunder |
+| **2** | Blunder |
 | **1** | Blunder |
 
-When you make a [*Beat The Odds*](#beat-the-odds) roll your character will either succeed at what they were attempting, or they won't. This is usually enough to push your story further along, but other things can happen too.
+#### Blunder
 
-When you attempt an action, you are asking “Does my character get what they want?”
+On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed. 
 
-On a Success, the player describes what happens in detail. They can take creative liberty as long as it fits within the bounds set by the [*Director*](#the-director). On a Partial Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion. On a Failure, the attempted action fails, with either the [*Director*](#the-director) or the player explaining how. On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes the catastrophic failure.
+#### Success
+
+On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion. 
+
+#### Critical Success
+
+On a Critical Success, the player takes full narrative agency and describes how the action succeeds. They can take any creative liberty as long as it fits within the bounds set by the [*Director*](#the-director).
 
 ### Modifiers
 
-Sometimes circumstances, [*Equipment*](#equipment), and skill will make [*Beat The Odds*](#beat-the-odds) rolls easier or harder. Modifiers change the number of dice you get to roll when taking action. When rolling multiple dice, the grouping is called your dice pool.
+Often times, you won't only be rolling a single dice on a [*Gamble*](#gamble). Depending on what you have at your disposal, and the situation you've been thrust into, you may get to add more dice to your pool.
 
 #### Bonus Dice
 
-Roll an additional die for each Specialty, piece of [*Equipment*](#equipment), or external factor that provides some advantage to the action being taken. The result is the single best die roll, as the player chooses.
+Roll an additional die for each [*Specialty*](#specialties), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Curiosity*](#curiosities), or external factor that provides some advantage to the action being taken. The result is the single best die roll, as the player chooses.
 
 #### Penalties
 
@@ -284,17 +270,7 @@ Sometimes a player might have a penalty applied from [*Equipment*](#equipment) o
 
 ### Lucky Saves
 
-During character creation, as well as the start of each new lrg of an adventure, your character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. Although they are considered modifiers Lucky Saves are spent in two ways:
-
-#### Before Rolling
-
-For each [*Lucky Save*](#lucky-saves) you spend before making a [*Beat The Odds*](#beat-the-odds) roll, you may add one bonus die to the roll.
-
-#### After Rolling
-
-For each [*Lucky Save*](#lucky-saves) you spend after making a [*Beat The Odds*](#beat-the-odds) roll, you may increase the value on a die by one. For example, if you rolled a 4, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 5.
-
-Both modes of Lucky Saves can be used on the same roll as well, so you can add bonus dice and increase the values if you really need a good result. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
+During character creation, as well as the start of each new leg of an adventure, your character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gamble), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
 
 ### Curiosities
 
@@ -302,7 +278,7 @@ As adventurers encounter the weird, strange, and sinister, they can add to their
 
 Often this occurs at the end of a [*Leg*](#legs). The characters bust the secret hideout of a dastardly cult and thus earn a [*Curiosity*](#curiosities) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Curiosity*](#curiosities) for said civilization.
 
-[*Curiosities*](#curiosities) can then be leveraged as Modifiers when making [*Beat The Odds*](#beat-the-odds) rolls. If a roll involves something a player has a [*Curiosity*](#curiosities) about, it grants them a bonus die. If a player has a [*Curiosity*](#curiosities) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
+[*Curiosities*](#curiosities) can then be leveraged as Modifiers when making a [*Gamble*](#gamble). If a roll involves something a player has a [*Curiosity*](#curiosities) about, it grants them a bonus die. If a player has a [*Curiosity*](#curiosities) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
 
 Each character can have a maximum of two [*Curiosities*](#curiosities). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
 
@@ -310,7 +286,7 @@ Each character can have a maximum of two [*Curiosities*](#curiosities). If you h
 
 No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Stress*](#stress) and the resulting [*Knockouts*](#knockouts).
 
-Whenever a character has something negative happen to them, the [*Director*](#the-director) can give that character [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often accumulated from negative [*Beat The Odds*](#beat-the-odds) dice rolls. A character might gain a point of [*Stress*](#stress) by rolling a 1 when attempting to climb a cliffside and subsequently falling to their doom. Alternatively, a character might gain a point of [*Stress*](#stress) when a thug scores a successful hit on them with his club.
+Whenever a character has something negative happen to them, a character often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
 
 [*Stress*](#stress) can be managed anytime the characters are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all characters are allowed to make a [*Stress Test*](#stress).
 
@@ -330,7 +306,7 @@ Once a character gains a [*Knockout*](#knockouts), their [*Stress*](#stress) res
 
 Not even pulp characters are invincible, and eventually they must meet their end. If your character reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
 
-Retired characters continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive bonus dice Modifiers to any roll.
+Retired characters continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) Modifiers to any roll.
 
 ### Insights
 
@@ -344,25 +320,25 @@ Your own rolls can’t be modified by your own [*Insight*](#insights). In good p
 
 ### Blammo! Dice
 
-As detailed in the [*Tumult*](#tumult) section, [*Blammo! Dice*](#Blammo! Dice) create the action economy for a combat scenario. To generate them, each player gets 1d6 to roll but can add more bonus dice for [*Equipment*](#equipment) and [*Curiosities*](#curiosities) like any other roll.
+As detailed in the [*Tumult*](#tumult) section, [*Blammo! Dice*](#blammo-dice) create the action economy for a combat scenario. To generate them, each player gets 1d6 to roll but can add more [*Bonus Dice*](#bonus-dice) for [*Equipment*](#equipment), [*Curiosities*](#curiosities), etc.
 
-To do anything in the [*Tumult*](#tumult) that would require daring wits or skill, you must spend a [*Blammo! Dice*](#Blammo! Dice). When you want to narrate your character’s action, you can ask the [*Director*](#the-director) if said action would cost any [*Blammo! Dice*](#Blammo! Dice).
+To do anything in the [*Tumult*](#tumult) that would require daring wits or skill, you must spend a [*Blammo! Dice*](#blammo-dice). When you want to narrate your character’s action, you can ask the [*Director*](#the-director) if said action would cost any [*Blammo! Dice*](#blammo-dice).
 
-Some examples of times when you would have to spend a [*Blammo! Dice*](#Blammo! Dice) include:
+Some examples of times when you would have to spend a [*Blammo! Dice*](#blammo-dice) include:
 
 - Running past a group of guards to snatch a precious idol
 - Firing a volley of bullets into a crowd of thugs
 - Cracking a safe whilst being pursued by the police
 
-Examples of non [*Blammo! Dice*](#Blammo! Dice) actions include:
+Examples of non [*Blammo! Dice*](#blammo-dice) actions include:
 
 - Putting distance between you and a growling hound
 - Pulling a lever to open a portcullis
 - Firing warning shots into the air
 
-Spending a [*Blammo! Dice*](#Blammo! Dice) allow you to make a [*Beat The Odds*](#beat-the-odds) roll with one dice. The only way to add bonus dice to this roll is by spending more [*Blammo! Dice*](#Blammo! Dice). For example, if you spend 5 [*Blammo! Dice*](#Blammo! Dice), you get to make your [*Beat The Odds*](#beat-the-odds) roll with 4 bonus dice.
+Spending a [*Blammo! Dice*](#blammo-dice) allow you to make a [*Gamble*](#gamble) with one dice. The only way to add more dice to this roll is by spending more [*Blammo! Dice*](#blammo-dice). For example, if you spend 5 [*Blammo! Dice*](#blammo-dice), you get to make your [*Gamble*](#gamble) with 5 dice.
 
-Moreover, at the end of a [*Tumult*](#tumult), you enter the recovery phase. For each [*Blammo! Dice*](#Blammo! Dice) you have remaining, you can roll 1d6. For every 6 you roll, you can redirect your bravery and reduce your [*Stress*](#stress) by 1 point.
+At the end of a [*Tumult*](#tumult), roll any remaining [*Blammo! Dice*](#blammo-dice). For each 6, you can  redirect your bravery to reduce your [*Stress*](#stress) by 1 point.
 
 ## Running The Show
 
@@ -370,17 +346,17 @@ Moreover, at the end of a [*Tumult*](#tumult), you enter the recovery phase. For
 
 In order to facilitate the massive adventures the players will take on, someone must take on the role of the [*Director*](#the-director). They help to weave the players’ story together, creating a good time for all.
 
-#### Talking is Good
+#### Talking is Good FIXME: remove FU
 
 Start your game with a conversation. Talk about what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the tone of your shared story. Talk about this stuff too, so that everyone is clear of the specifics.
 
 Talk during the game too. Encourage players to share ideas and give input into [*Scenes*](#scenes), objectives, and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
 
-#### Listening is Good
-
+#### Listening is Good FIXME: remove FU
+ 
 If there is going to be talk there needs to be listening. Listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the things written on the player’s character sheets, because that is what they think is cool
 
-#### When Playing
+#### When Playing FIXME: remove FU
 
 When running games don’t plan too much ahead of time. The dice rolls are going to direct a lot of the action, and you and the players will fill in the gaps by applying Conditions and Details. Here are some tips to keep things moving and help you enjoy the game as much as the players do.
 
@@ -392,13 +368,13 @@ When running games don’t plan too much ahead of time. The dice rolls are going
 
 - Make rolls meaningful: Every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESULT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story
 
-### Rest and Recuperation
+### Rest and Recuperation FIXME: remove FU
 
 During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress*](#stress) Test.
 
 That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
 
-### Rewards and Treasure
+### Rewards and Treasure FIXME: remove FU
 
 As the party moves along with their journey, they should earn rewards in a variety of ways. While not always Holy Grails, the rewards should equal the risk involved.
 
@@ -418,50 +394,41 @@ This doesn’t mean that characters don’t get injured, but rather, any injurie
 
 As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stress) when necessary. Here is a list of some common places this might happen:
 
-- When a player rolls a 1 on a [*Beat The Odds*](#beat-the-odds) roll
-- When an enemy rolls a 6 on a [*Beat The Odds*](#beat-the-odds) roll
-- When an enemy rolls a 4 or 5 on a [*Beat The Odds*](#beat-the-odds) roll with 2+ bonus dice
+- When a player rolls a Blunder on a [*Gamble*](#gamble)
+- When an enemy rolls a Success or Critical Success on a [*Gamble*](#gamble)
 - When the environment is particularly unforgiving, weather, etc.
 - When they encounter the weird, strange, odd, or eldritch
 - When you feel like it
 
-### Enemies and Obstacles
+### Dangers
 
-All the characters, monsters, traps, villains, terrain features, creatures, and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
+As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
 
-NPC’s and other figures you control typically don’t manage Stress in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). To gauge when an opponent may be out for the count (or ready to run), you can tally the Stress they rack up during a [*Tumult*](#tumult). Follow the table below for sample thresholds.
+NPC’s and other figures you control typically don’t manage [*Stress*](#stress) or [*Blammo! Dice*](#blammo-dice) in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). To gauge when an opponent may be out for the count (or ready to run), you can tally the [*Stress*](#stress) they rack up during a [*Tumult*](#tumult). For generating [*Blammo! Dice*](#blammo-dice), simply start them with a static amount. Follow the table below for sample thresholds.
 
-| **Enemy Type** |**Stress Maximum** |
-| Minion | 1 |
-| Lieutenant | 2-3 |
-| Villain | 4-5 |
+| **Enemy Type** |**Stress Maximum** | **Blammo! Dice** |
+| Minion | 1 | 2 |
+| Lieutenant | 2-3 | 5 |
+| Villain | 4-5 | 10 |
 
-### Interpreting Dice Rolls
+## Interpreting Dice Rolls
 
-As a [*Director*](#the-director), it is up to you to manage what the pips on the cubes really mean.
-
-When a player rolls well, feel free to ask them how they envision the result; it’s totally fine to give them more agency as a reward! If a player rolls poorly, or has a setback as part of their roll (4,2,1), you have to inject some sort of modifier to the desired outcome. This begs the question: How do I fairly detract from the original idea?
-
-One option is to consider the severity of the roll. For something trivial, like looking for a figure in a crowd, a bad roll shouldn’t result in a cataclysmic result - they might just lose sight of the desired target.
-
-As a [*Director*](#the-director), you also have complete control over the characters’ Stress. You can always rely on this stat when interpreting dice rolls. Unsure on how to narratively explain a failure? Increase their stress. This also applies to positive rolls; players escape with the perfect plan? Feel free to take a point off.
-
-Even though you have an iron grip on the Stress stat, you shouldn’t rely on it as a penalty too much. Narrative options are usually more fun, and add complexity to the story.
+insert info here
 
 ## Rules Cheat Sheet
 
-| Roll | Result |
-| ---- | ---- |
-| **6** | Success |
-| **5** | Partial Success |
-| **4** | Partial Success |
-| **3** | Failure |
-| **2** | Failure |
-| **1** | Blunder |
+| Roll | Result | Translation |
+| ---- | ---- | ---- |
+| **6** | Critical Success | Player takes narrative agency |
+| **5** | Success | Director narrates success |
+| **4** | Success | Director narrates success |
+| **3** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
+| **2** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
+| **1** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
 
 [*Bonus Dice*](#bonus-dice)
 
-- Add one dice for [*Specialties*](#specialties), pieces of [*Equipment*](#equipment), [*Curiosities*](#curiosities), or external factors that provides some advantage to the action being taken.
+- Roll an additional die for each [*Specialty*](#specialties), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Curiosity*](#curiosities), or external factor that provides some advantage to the action being taken.
 
 [*Penalties*](#penalties)
 
@@ -469,37 +436,41 @@ Even though you have an iron grip on the Stress stat, you shouldn’t rely on it
 
 [*Lucky Saves*](#lucky-saves)
 
-- For each [*Lucky Save*](#lucky-saves) you spend before making a roll, you may add one bonus die to the roll.
-- For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one. 
-- Both can be used on 1 roll
+- For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one.
 
 [*Curiosities*](#curiosities)
 
-- Gained when prompted by [*Director*](#the-director) (can be requested)
+- Gained when prompted by [*Director*](#the-director)
 - Grants bonus die to any roll involving it
+- Can focus on a maximum of two
 
 [*Stress*](#stress)
 
-- Ranges from 0-5
+- Ranges from 0-6
 - Accumulated from negative dice rolls, positive opponent rolls, or at the Director’s discretion
-- While resting, can make a [*Stress Test*](#stress-test) -> Roll 1d6, if higher than current Stress, reduce by 1
+- While resting, can make a [*Stress Test*](#stress-test) to recover
+
+[*Stress Test*](#stress-test)
+
+- Roll 1d6, if higher than current [*Stress*](#stress), reduce by 1
 
 [*Knockouts*](#knockouts)
 
-- When a character reaches 6 Stress, they gain a Knockout
-- Once a character gains a Knockout, their Stress reset to 0 and they are incapacitated for the rest of the [*Scene*](#scenes) or [*Tumult*](#tumults)
+- When a character reaches 6 [*Stress*](#stress), they gain a Knockout
+- Once a character gains a Knockout, their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Scene*](#scenes) or [*Tumult*](#tumults)
 - If you accrue 4, your character must enter [*Retirement*](#retirement)
 
 [*Insights*](#insights)
 
 - Gained when you gain a Knockout
 - Reflects nature of knockout, i.e. “slipping on ice”
-- Grants a bonus dice to other players when they face a similar situation
+- Grants a [*Bonus Dice*](#bonus-dice) to other players when they face a similar situation
 - Can’t use them on your own rolls.
 
 [*Blammo! Dice*](#blammo-dice)
 
-- Always have 1d6 to roll at start of [*Tumult*](#tumult)
-- Can modify with bonus dice
-- Must spend one point per daring action, and can spend more to add bonus dice
+- Always generate 1d6 to at the start of a [*Tumult*](#tumult)
+- You can modify the generation roll with [*Bonus Dice*](#bonus-dice) to get more [*Blammo! Dice*](#blammo-dice)
+- Making a [*Gamble*](#gamble) in a [*Tumult*](#tumult) costs [*Blammo! Dice*](#blammo-dice)
+- You may add more [*Blammo! Dice*](#blammo-dice) to increase that dice pool
 - At the end of a [*Tumult*](#tumult), roll all remaining Blammo! Dice. Reduce [*Stress*](#stress) by 1 for each 6 rolled.
