@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# ENIGMA System Reference Document V1.0
+# ENIGMA SRD V1.0
 {: .no_toc }
 
 <details close markdown="block">
@@ -87,7 +87,7 @@ Select up to three pieces of [*Equipment*](#equipment) that help shape your char
 
 This is your chance to say what your character is great at. Sometimes a character’s [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
-[*Knacks*](#knacks) take the form of “-ing something”. Your character might have a [*Knack*](#knacks) in Throwing large nets, Climbing over walls, or even Listening to music. These [*Knacks*](#knacks) help to build out your character as well as give you an edge during encounters. Select three [*Knacks*](#knacks) for your character, discussing with the table as you did with [*Equipment*](#equipment).
+[*Knacks*](#knacks) take the form of “-ing something”. Your character might have a [*Knack*](#knacks) in Throwing large nets, Climbing over walls, or even Listening to music. These [*Knacks*](#knacks) help to build out your character as well as give you an edge during [*Encounters*](#encounters). Select three [*Knacks*](#knacks) for your character, discussing with the table as you did with [*Equipment*](#equipment).
 
 ### Next Steps
 
