@@ -18,8 +18,6 @@ nav_order: 2
 
 ## Licensing
 
-This work is based on FU: The Freeform Universal RPG (found at <http://freeformuniversal.com>), by Nathan Russell, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (<http://creativecommons.org/licenses/by/3.0/>).
-
 ENIGMA System Reference Document V1.0, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
 
 ## Introduction
@@ -42,7 +40,7 @@ In order to play ENIGMA, you simply need these rules, some 6 sided dice, pencils
 
 ### Archetypes
 
-In ENIGMA there are 6 different archetypes that are used to represent the different types of adventurers which can appear. An archetype defines the outline of your character, but by no means limits it. Functionally they help to guide you when choosing [*Equipment*](#equipment), identifying [*Specialties*](#specialties), and finding your fit in the party; your archetype is like your trusty backup tool that can always be called on.
+In ENIGMA there are 6 different archetypes that are used to represent the different types of adventurers which can appear. An archetype defines the outline of your character, but by no means limits it. Functionally they help to guide you when choosing [*Equipment*](#equipment), identifying [*Knacks*](#knacks), and finding your fit in the party; your archetype is like your trusty backup tool that can always be called on.
 
 The six archetypes are as follows:
 
@@ -85,15 +83,15 @@ Each piece of [*Equipment*](#equipment) your character has should help tell thei
 
 Select up to three pieces of [*Equipment*](#equipment) that help shape your character. Think of evocative descriptions - the more specific the better. Discuss with your fellow adventurers what you're bringing along, and when it might be useful.
 
-### Specialties
+### Knacks
 
-This is your chance to say what your character is great at. Sometimes a character’s [*Specialty*](#specialties) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
+This is your chance to say what your character is great at. Sometimes a character’s [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
-[*Specialties*](#specialties) take the form of “-ing something”. Your character might have a specialty in Throwing large nets, Climbing over walls, or even Listening to music. These [*Specialties*](#specialties) help to build out your character as well as give you an edge during encounters. Select three [*Specialties*](#specialties) for your character, discussing with the table as you did with [*Equipment*](#equipment).
+[*Knacks*](#knacks) take the form of “-ing something”. Your character might have a [*Knack*](#knacks) in Throwing large nets, Climbing over walls, or even Listening to music. These [*Knacks*](#knacks) help to build out your character as well as give you an edge during encounters. Select three [*Knacks*](#knacks) for your character, discussing with the table as you did with [*Equipment*](#equipment).
 
 ### Next Steps
 
-Once you’ve built out your character, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Stress*](#stress), [*Curiosities*](#curiosities), and [*Insight*](#insights) will grow and change as you progress on your adventure!
+Once you’ve built out your character, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Stress*](#stress), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
 
 ## The Archetypes
 
@@ -252,7 +250,7 @@ Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). 
 
 #### Bonus Dice
 
-Roll an additional die for each [*Specialty*](#specialties), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Curiosity*](#curiosities), or external factor that provides some advantage to the action being taken. The result is the single best die roll, as the player chooses.
+Roll an additional die for each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), or external factor that provides some advantage to the action being taken. The result is the single best die roll, as the player chooses.
 
 #### Penalties
 
@@ -262,15 +260,15 @@ Sometimes a player might have a penalty applied from [*Equipment*](#equipment) o
 
 During character creation, as well as the start of each new leg of an adventure, your character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
 
-### Curiosities
+### Threads
 
-As adventurers encounter the weird, strange, and sinister, they can add to their [*Curiosities*](#curiosities). At the Director’s discretion, the players can add an idea, group, or person to their sheet after learning more about it.  
+As adventurers encounter the weird, strange, and sinister, they can add to their [*Threads*](#threads). At the Director’s discretion, the players can add an idea, group, or person to their sheet after learning more about it.  
 
-Often this occurs at the end of a [*Leg*](#legs). The characters bust the secret hideout of a dastardly cult and thus earn a [*Curiosity*](#curiosities) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Curiosity*](#curiosities) for said civilization.
+Often this occurs at the end of a [*Leg*](#legs). The characters bust the secret hideout of a dastardly cult and thus earn a [*Thread*](#threads) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Thread*](#threads) for said civilization.
 
-[*Curiosities*](#curiosities) can then be leveraged as Modifiers when making a [*Gamble*](#gambles). If a roll involves something a player has a [*Curiosity*](#curiosities) about, it grants them a bonus die. If a player has a [*Curiosity*](#curiosities) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
+[*Threads*](#threads) can then be leveraged as Modifiers when making a [*Gamble*](#gambles). If a roll involves something a player has a [*Thread*](#threads) about, it grants them a bonus die. If a player has a [*Thread*](#threads) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
 
-Each character can have a maximum of two [*Curiosities*](#curiosities). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
+Each character can have a maximum of two [*Threads*](#threads). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
 
 ### Stress
 
@@ -304,13 +302,11 @@ The silver lining to gaining [*Knockouts*](#knockouts) is that you also simultan
 
 An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Stress*](#stress) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
 
-[*Insight*](#insights) can be used whenever you have another player in your situation, granting them a bonus die. You learned your lesson about drowning, and will happily pass some words of encouragement to your party members.
-
-Your own rolls can’t be modified by your own [*Insight*](#insights). In good pulp adventure fashion, it is a comedy to have the same character suffer from recurring pain, even if their friends learn from their mistakes
+[*Insight*](#insights) can be used whenever you or another player find themselves in a similar situation, granting them a bonus die. You learned your lesson about drowning, and your fellow adventurers also learn by avoiding your same mistakes.
 
 ### Blammo! Dice
 
-As detailed in the [*Tumult*](#tumults) section, [*Blammo! Dice*](#blammo-dice) create the action economy for a combat scenario. To generate them, each player gets 1d6 to roll but can add more [*Bonus Dice*](#bonus-dice) for [*Equipment*](#equipment), [*Curiosities*](#curiosities), etc.
+As detailed in the [*Tumult*](#tumults) section, [*Blammo! Dice*](#blammo-dice) create the action economy for a combat scenario. To generate them, each player gets 1d6 to roll but can add more [*Bonus Dice*](#bonus-dice) for [*Equipment*](#equipment), [*Threads*](#threads), etc.
 
 To do anything in the [*Tumult*](#tumults) that would require daring wits or skill, you must spend a [*Blammo! Dice*](#blammo-dice). When you want to narrate your character’s action, you can ask the [*Director*](#the-director) if said action would cost any [*Blammo! Dice*](#blammo-dice).
 
@@ -336,45 +332,31 @@ At the end of a [*Tumult*](#tumults), roll any remaining [*Blammo! Dice*](#blamm
 
 In order to facilitate the massive adventures the players will take on, someone must take on the role of the [*Director*](#the-director). They help to weave the players’ story together, creating a good time for all.
 
-#### Talking is Good FIXME: remove FU
+As the [*Director*](#the-director) you will present the [*Encounters*](#encounters) and adjudicate the [*Gambles*](#gambles) made by the players. Here are some things to keep in mind while running a game:
 
-Start your game with a conversation. Talk about what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the tone of your shared story. Talk about this stuff too, so that everyone is clear of the specifics.
+- Don't feel the need to add lots of sub-plots and things happening in the background. It's certainly a good thing to have a twist or a secret to deploy, but the players will liekly be driving the main focus of the adventure
 
-Talk during the game too. Encourage players to share ideas and give input into [*Encounters*](#encounters), objectives, and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
+- You are not the villain. You might be playing a villainous character sometimes, but you are still a friend at the table. You should be rooting for the characters, helping them find whatever bonuses they can get.
 
-#### Listening is Good FIXME: remove FU
- 
-If there is going to be talk there needs to be listening. Listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the things written on the player’s character sheets, because that is what they think is cool
+- When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
-#### When Playing FIXME: remove FU
-
-When running games don’t plan too much ahead of time. The dice rolls are going to direct a lot of the action, and you and the players will fill in the gaps by applying Conditions and Details. Here are some tips to keep things moving and help you enjoy the game as much as the players do.
-
-- Keep things simple: Do not complicate your job by introducing lots of sub-plots or convoluted twists. Things will get all messed about by themselves and the story will run off on tangents that you never dreamed of. That being said, should there be too many threads, they can all lead back to the evil overlord.
-
-- You are not the enemy: this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to exhaust everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adversaries and are expected to do so vigorously but fairly. Other times you will get to be an ally, companion, or peer, and once again you should be true to the spirit of the game.
-
-- Say “Yes”: if players make suggestions or ask questions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. Encourage this and confidently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players introduce elements into the story when the time is right.
-
-- Make rolls meaningful: Every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESULT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story
-
-### Rest and Recuperation FIXME: remove FU
+### Adventuring Strain
 
 During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress*](#stress) Test.
 
 That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
 
-### Rewards and Treasure FIXME: remove FU
+### Uncovering Treasure
 
-As the party moves along with their journey, they should earn rewards in a variety of ways. While not always Holy Grails, the rewards should equal the risk involved.
+As the party moves along with their journey, they should earn rewards in a variety of ways. While not always Holy Grails, the rewards should equal the risk involved. Here are some forms treasure might take:
 
-- Physical Treasure: It never hurts to have a box of jewels or an expensive painting inside of a secret lair, but as a [*Director*](#the-director) you will need to be careful; often treasure can be used as a MacGuffin to the plot, so an overabundance of it can confuse or dilute the main objective.
+- Physical Treasure. It never hurts to have a box of jewels or an expensive painting inside of a secret lair, but as a [*Director*](#the-director) you will need to be careful; often treasure can be used as a MacGuffin to the plot, so an overabundance of it can confuse or dilute the main objective.
 
-- Allies and Connections: Having a pal in this line of business is always useful. Once the party can sufficiently help out an NPC, you can have them return in countless scenarios. These connections can also unlock new modes of travel, money-making schemes, or even inside information
+- Allies and Connections. Having a pal in this line of business is always useful. Once the party can sufficiently help out an NPC, you can have them return in countless scenarios. These connections can also unlock new modes of travel, money-making schemes, or even inside information
 
-- Insights: As noted in the Gameplay section, Insights are a natural reward for screwing up. When a player earns one, work with them to develop a succinct description of the insight. For example, if the knockout was from fleeing a large lizard, the Insight should be specific to capture the fear of a creature but generic enough to apply to more than just lizards.
+- [*Insights*](#insights). As noted in the Gameplay section, [*Insights*](#insights) are a natural reward for screwing up. When a player earns one, work with them to develop a succinct description of the insight. For example, if the knockout was from fleeing a large lizard, the [*Insights*](#insights) should be specific to capture the fear of a creature but generic enough to apply to more than just lizards.
 
-- Shortcuts: All of the above rewards can be boiled down into shortcuts. If the players think critically and roleplay well, they should be rewarded with skipping over obstacles and getting themselves into a better position than before.
+- Shortcuts. All of the above rewards can be boiled down into shortcuts. If the players think critically and roleplay well, they should be rewarded with skipping over obstacles and getting themselves into a better position than before.
 
 ### Damage and Stress
 
@@ -401,10 +383,6 @@ NPC’s and other figures you control typically don’t manage [*Stress*](#stres
 | Lieutenant | 2-3 | 5 |
 | Villain | 4-5 | 10 |
 
-## Interpreting Dice Rolls
-
-insert info here
-
 ## Rules Cheat Sheet
 
 | Roll | Result | Translation |
@@ -418,7 +396,7 @@ insert info here
 
 [*Bonus Dice*](#bonus-dice)
 
-- Roll an additional die for each [*Specialty*](#specialties), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Curiosity*](#curiosities), or external factor that provides some advantage to the action being taken.
+- Roll an additional die for each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), or external factor that provides some advantage to the action being taken.
 
 [*Penalties*](#penalties)
 
@@ -428,7 +406,7 @@ insert info here
 
 - For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one.
 
-[*Curiosities*](#curiosities)
+[*Threads*](#threads)
 
 - Gained when prompted by [*Director*](#the-director)
 - Grants bonus die to any roll involving it

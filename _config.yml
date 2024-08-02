@@ -15,3 +15,5 @@ sass:
 # Include custom SCSS file
 include:
   - _sass/custom/_custom.scss
+
+favicon_ico: "/assets/favicon.png"
