@@ -1,3 +1,1 @@
-# ENIGMA
-
-## A Pulp Adventure TTRPG
+# ENIGMA - A Pulp Adventure TTRPG
