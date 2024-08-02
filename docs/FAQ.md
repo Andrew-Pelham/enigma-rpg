@@ -8,21 +8,20 @@ nav_order: 3
 
 ## What bonus dice go where?
 
-In ENIGMA there are two types of dice rolls to be had, and the distinction defines how you can apply bonus dice to the roll.
+In ENIGMA there are two types of dice rolls and the distinction defines how you can apply bonus dice to the roll.
 
-“Beat The Odds” Rolls:
+Gamble Rolls:
 
-- Lucky Saves
-- Curiosities
+- Threads
 - Insights
 - Equipment
-- Specialties
+- Knacks
 
 Blammo! Dice Rolls:
 
 - More Blammo! Dice
 
-So to clarify, the only dice roll which you can’t apply bonus dice to is when you are rolling Blammo! Dice. However, when you generate your Blammo! Dice at the start of a Tumult, that is a “Beat The Odds” roll, and all other bonus dice can be applied.
+So to clarify, the only dice roll which you can’t apply bonus dice to is when you are rolling Blammo! Dice. However, when you generate your Blammo! Dice at the start of a Tumult, that is a Gamble, and all other bonus dice can be applied.
 
 ## So weapons don’t do anything?
 
