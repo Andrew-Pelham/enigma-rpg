@@ -5,4 +5,4 @@ nav_order: 1
 permalink: /
 ---
 
-# ENIGMA - A Pulp Adventure RPG
+A Pulp Adventure RPG

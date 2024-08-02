@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://Andrew-Pelham.github.io/enigma-rpg
 
 color_scheme: default
+favicon_ico: "/assets/favicon.png"
 
 # Custom styles
 sass:
@@ -15,5 +16,3 @@ sass:
 # Include custom SCSS file
 include:
   - _sass/custom/_custom.scss
-
-favicon_ico: "/assets/favicon.png"
