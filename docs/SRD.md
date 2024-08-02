@@ -344,24 +344,6 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 - When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
-### Adventuring Strain
-
-During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress*](#stress) Test.
-
-That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
-
-### Uncovering Treasure
-
-As the party moves along with their journey, they should earn rewards in a variety of ways. While not always Holy Grails, the rewards should equal the risk involved. Here are some forms treasure might take:
-
-- Physical Treasure. It never hurts to have a box of jewels or an expensive painting inside of a secret lair, but as a [*Director*](#the-director) you will need to be careful; often treasure can be used as a MacGuffin to the plot, so an overabundance of it can confuse or dilute the main objective.
-
-- Allies and Connections. Having a pal in this line of business is always useful. Once the party can sufficiently help out an NPC, you can have them return in countless scenarios. These connections can also unlock new modes of travel, money-making schemes, or even inside information
-
-- [*Insights*](#insights). As noted in the Gameplay section, [*Insights*](#insights) are a natural reward for screwing up. When a player earns one, work with them to develop a succinct description of the insight. For example, if the knockout was from fleeing a large lizard, the [*Insights*](#insights) should be specific to capture the fear of a creature but generic enough to apply to more than just lizards.
-
-- Shortcuts. All of the above rewards can be boiled down into shortcuts. If the players think critically and roleplay well, they should be rewarded with skipping over obstacles and getting themselves into a better position than before.
-
 ### Damage and Stress
 
 In ENIGMA, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
@@ -376,6 +358,12 @@ As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stres
 - When they encounter the weird, strange, odd, or eldritch
 - When you feel like it
 
+### Adventuring Strain
+
+During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress*](#stress) Test.
+
+That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
+
 ### Dangers
 
 As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
@@ -386,6 +374,18 @@ NPC’s and other figures you control typically don’t manage [*Stress*](#stres
 | Minion | 1 | 2 |
 | Lieutenant | 2-3 | 5 |
 | Villain | 4-5 | 10 |
+
+### Uncovering Treasure
+
+As the party moves along with their journey, they should earn rewards in a variety of ways. While not always Holy Grails, the rewards should equal the risk involved. Here are some forms treasure might take:
+
+- Physical Treasure. It never hurts to have a box of jewels or an expensive painting inside of a secret lair, but as a [*Director*](#the-director) you will need to be careful; often treasure can be used as a MacGuffin to the plot, so an overabundance of it can confuse or dilute the main objective.
+
+- Allies and Connections. Having a pal in this line of business is always useful. Once the party can sufficiently help out an NPC, you can have them return in countless scenarios. These connections can also unlock new modes of travel, money-making schemes, or even inside information
+
+- [*Insights*](#insights). As noted in the Gameplay section, [*Insights*](#insights) are a natural reward for screwing up. When a player earns one, work with them to develop a succinct description of the insight. For example, if the knockout was from fleeing a large lizard, the [*Insights*](#insights) should be specific to capture the fear of a creature but generic enough to apply to more than just lizards.
+
+- Shortcuts. All of the above rewards can be boiled down into shortcuts. If the players think critically and roleplay well, they should be rewarded with skipping over obstacles and getting themselves into a better position than before.
 
 ## Rules Cheat Sheet
 
