@@ -313,13 +313,17 @@ To do anything in the [*Tumult*](#tumults) that would require daring wits or ski
 Some examples of times when you would have to spend a [*Blammo! Dice*](#blammo-dice) include:
 
 - Running past a group of guards to snatch a precious idol
+
 - Firing a volley of bullets into a crowd of thugs
+
 - Cracking a safe whilst being pursued by the police
 
 Examples of non [*Blammo! Dice*](#blammo-dice) actions include:
 
 - Putting distance between you and a growling hound
+
 - Pulling a lever to open a portcullis
+
 - Firing warning shots into the air
 
 Spending a [*Blammo! Dice*](#blammo-dice) allow you to make a [*Gamble*](#gambles) with one dice. The only way to add more dice to this roll is by spending more [*Blammo! Dice*](#blammo-dice). For example, if you spend 5 [*Blammo! Dice*](#blammo-dice), you get to make your [*Gamble*](#gambles) with 5 dice.
@@ -432,8 +436,7 @@ NPC’s and other figures you control typically don’t manage [*Stress*](#stres
 
 - Gained when you gain a Knockout
 - Reflects nature of knockout, i.e. “slipping on ice”
-- Grants a [*Bonus Dice*](#bonus-dice) to other players when they face a similar situation
-- Can’t use them on your own rolls.
+- Grants a [*Bonus Dice*](#bonus-dice) to you and other players when they face a similar situation
 
 [*Blammo! Dice*](#blammo-dice)
 
