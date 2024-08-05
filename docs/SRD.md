@@ -30,7 +30,7 @@ ENIGMA was designed to create the feel of high octane adventures, where players 
 
 ### Setting
 
-ENIGMA takes its players back to a familiar history roughly between both World Wars. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps different weapons or technology have been produced, leading to new types of war. The one consistency is that there are always villains acting upon some secret (or not-so-secret) agenda, and it is up to the players to meddle in as many ways as possible.
+ENIGMA takes its players back to a familiar history roughly between the two World Wars. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps different weapons or technology have been produced, leading to new types of war. The one consistency is that there are always villains acting upon some secret (or not-so-secret) agenda, and it is up to the players to meddle in as many ways as possible.
 
 ## The Basics
 
