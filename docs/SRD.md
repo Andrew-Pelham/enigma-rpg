@@ -71,6 +71,10 @@ This is all the government form-type information on your character. How old are 
 
 This is where you can truly describe your character’s look. What’s your resting expression? How do you stand? Do you look disheveled? You can also use this section to add clothes and other items. You can give your character whatever makes sense for them here, it just won’t have any major effect on gameplay.
 
+#### Drives
+
+This is what keeps your character going. You may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep you adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives](#drives) you can use if you get stuck.
+
 #### Relationships
 
 Select one other person at the table, and form a connection between your character and theirs. You could have been war buddies, old rivals, or even something as simple as childhood friends. As the party adds relationships between themselves, they form a web that links the characters together and provides depth.
@@ -101,6 +105,21 @@ With a need to uncover the hidden, characters who choose the Investigator archet
 
 Investigators often have occupations like detectives, reporters, or even agents. They are keen-eyed, with a knack for puzzle-solving.
 
+For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercule Poirot, Tintin, or Lupin III.
+
+#### Sample Investigator Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To uncover the truth behind a conspiracy         |
+| 2    | To prove oneself as the best in the field       |
+| 3    | To gain recognition and prestige                |
+| 4    | To expose corruption and injustice              |
+| 5    | To find personal closure on a past case         |
+| 6    | To make the next big news story                 |
+
+#### Sample Investigator Equipment
+
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
 | **1** | Magnifying glass | Trench coat | Lockpicking set | Shortwave radio | Auto Pistol | Hip Flask |
@@ -115,6 +134,21 @@ Investigators often have occupations like detectives, reporters, or even agents.
 Always ready for a fight, the Brawler archetype is cruisin’ for a bruisin’. Characters who choose the Brawler archetype often are ready for action at a moment’s notice, weapon at the ready.
 
 Brawlers can come from a wide variety of backgrounds, from soldiers to thugs. Proficient in all sorts of weaponry, Brawlers typically make up for social skills with thick skin.
+
+For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Haddock, Rick O'Connell, or Ryo Saeba.
+
+#### Sample Brawler Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To seek out the next thrilling fight            |
+| 2    | To prove one's strength and skill               |
+| 3    | To protect the innocent from harm               |
+| 4    | To earn respect and admiration from peers        |
+| 5    | To overcome personal demons through combat      |
+| 6    | To challenge powerful foes for personal gain |
+
+#### Sample Brawler Equipment
 
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -131,6 +165,21 @@ This archetype would much rather have their head in a good book as opposed to a 
 
 As the name implies, Researchers typically come from a STEM background. Scientists, teachers, historians, and even musicians can classify as Researchers, given a certain devotion to their work.
 
+For inspiration, look towards figures like Dr. Ellie Satler, Professor X, Richard Feynman, Professor Calculus, or Gendo Ikari.
+
+#### Sample Researcher Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To discover lost knowledge or ancient secrets  |
+| 2    | To contribute to scientific or academic fields  |
+| 3    | To solve complex puzzles and riddles            |
+| 4    | To gain access to rare and exclusive resources  |
+| 5    | To achieve breakthroughs in their field         |
+| 6    | To document and preserve important information  |
+
+#### Sample Researcher Equipment
+
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
 | **1** | Microscope | Encyclopedia set | Magnifying glass | Telegraph key | Reading glasses | Vacuum Tube |
@@ -145,6 +194,21 @@ As the name implies, Researchers typically come from a STEM background. Scientis
 Not to be confused with the Scott Joplin classic, Entertainers are charismatic assets to any group. They convey many layers of thought in their speech, motion, and even stance.
 
 Entertainer characters might be singers, dancers, or other performers, but they may also come from backgrounds like salesmen.
+
+For inspiration, look towards figures like Charlie Chaplin, Bianca Casafiore, Faye Valentine, Violet Evergarden, or Elvis Presley.
+
+#### Sample Entertainer Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To captivate and enchant audiences              |
+| 2    | To become renowned and celebrated in their art  |
+| 3    | To bring joy and laughter to those around them  |
+| 4    | To use their platform for a greater cause       |
+| 5    | To find new and exciting ways to perform        |
+| 6    | To escape personal troubles through their craft |
+
+#### Sample Entertainer Equipment
 
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -161,6 +225,21 @@ With wanderlust at their core, the Explorer archetype is not designed to stay in
 
 Explorer archetype characters are often the easiest to dream up. Dilettantes, nomads, and even industrialists can act as Explorer characters.
 
+For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amundsen, Captain Nemo, or Nathan Drake.
+
+#### Sample Explorer Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To discover uncharted territories               |
+| 2    | To seek adventure and excitement                |
+| 3    | To unravel the mysteries of ancient cultures    |
+| 4    | To push the boundaries of human experience      |
+| 5    | To find lost treasures or artifacts             |
+| 6    | To experience the world in all its diversity    |
+
+#### Sample Explorer Equipment
+
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
 | **1** | Compass | Flint and steel | Pith helmet | Machete | Revolver | Bug repellent |
@@ -175,6 +254,21 @@ Explorer archetype characters are often the easiest to dream up. Dilettantes, no
 Filling the gaps left by the previous five archetypes, the Operator specializes in something significant. Despite being an expert in what they do, Operator characters bring more than just expertise to the table.
 
 Characters with the Operator archetype could be pilots, sea captains, authors, stock brokers, or even gurus. The one thing uniting them is that they know their craft better than anyone else.
+
+For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut, Morpheus, or Jock Lindsey
+
+#### Sample Operator Drives
+
+| (1d6) | Drive                                           |
+|------|-------------------------------------------------|
+| 1    | To master their unique skill         |
+| 2    | To achieve recognition amongst their peers |
+| 3    | To use their expertise to solve complex problems |
+| 4    | To gain control and become a necessity |
+| 5    | To innovate and push the boundaries of their discipline |
+| 6    | To leave a lasting legacy through their work    |
+
+#### Sample Operator Equipment
 
 |  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
 |-----|-----|-----|-----|-----|-----|-----|
