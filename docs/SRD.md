@@ -73,7 +73,7 @@ This is where you can truly describe your character’s look. What’s your rest
 
 #### Drives
 
-This is what keeps your character going. You may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep you adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives](#drives) you can use if you get stuck.
+This is what keeps your character going. You may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep you adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives*](#drives) you can use if you get stuck.
 
 #### Relationships
 
@@ -195,7 +195,7 @@ Not to be confused with the Scott Joplin classic, Entertainers are charismatic a
 
 Entertainer characters might be singers, dancers, or other performers, but they may also come from backgrounds like salesmen.
 
-For inspiration, look towards figures like Charlie Chaplin, Bianca Casafiore, Faye Valentine, Violet Evergarden, or Elvis Presley.
+For inspiration, look towards figures like Charlie Chaplin, Bianca Castafiore, Faye Valentine, Violet Evergarden, or Elvis Presley.
 
 #### Sample Entertainer Drives
 
