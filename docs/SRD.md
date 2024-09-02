@@ -515,6 +515,10 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 - For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one.
 
+[*Flashpoints*](#flashpoints)
+
+- Costs [*Lucky Saves*](#lucky-saves) equal to the player count, spent collectively. e.g 5 players must pool together 5 [*Lucky Saves*](#lucky-saves). Initiating a [*Flashpoint*](#flashpoints) adds a new complication to an [*Encounter*](#encounters).
+
 [*Threads*](#threads)
 
 - Gained when prompted by [*Director*](#the-director)
