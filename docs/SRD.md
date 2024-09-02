@@ -332,7 +332,7 @@ On a Blunder, the player's character instantly increases their [*Stress*](#stres
 
 #### Success
 
-On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion. 
+On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion.
 
 #### Critical Success
 
@@ -353,6 +353,17 @@ Sometimes a player might have a penalty applied from [*Equipment*](#equipment) o
 ### Lucky Saves
 
 During character creation, as well as the start of each new leg of an adventure, your character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
+
+### Flashpoints
+
+Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During an [*Encounter*](#encounters) or a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. If taking turns during a [*Tumult*](#tumults) this happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing the situation's entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
+
+- A friendly NPC appears
+- A not-so-friendly NPC appears
+- A 3rd party or other faction appears
+- A natural disaster strikes
+- The authorities show up, for better or for worse
+- Explosions, lots of explosions
 
 ### Threads
 
