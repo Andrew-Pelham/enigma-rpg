@@ -348,7 +348,7 @@ Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). 
 
 #### Bonus Dice
 
-Roll an additional die for each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), or external factor that provides some advantage to the action being taken. The result is the single best die roll, as the player chooses.
+For each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads) or external factor that provides some advantage to the action being taken, roll one additional dice.
 
 #### Penalties
 
@@ -397,7 +397,7 @@ The players should narrate how their character recovers (or doesn’t) during th
 
 When a character reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a character finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a character becoming too tired to go on.
 
-Once a character gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent, and once you accrue them you can never get rid of them. Should your character obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter Retirement.
+Once a character gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent, and once you accrue them you can never get rid of them. Should your character obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
 
 ### Retirement
 
@@ -447,7 +447,7 @@ In order to facilitate the massive adventures the players will take on, someone 
 
 As the [*Director*](#the-director) you will present the [*Encounters*](#encounters) and adjudicate the [*Gambles*](#gambles) made by the players. Here are some things to keep in mind while running a game:
 
-- Don't feel the need to add lots of sub-plots and things happening in the background. It's certainly a good thing to have a twist or a secret to deploy, but the players will liekly be driving the main focus of the adventure
+- Don't feel the need to add lots of sub-plots and things happening in the background. It's certainly a good thing to have a twist or a secret to deploy, but the players will likely be driving the main focus of the adventure
 
 - You are not the villain. You might be playing a villainous character sometimes, but you are still a friend at the table. You should be rooting for the characters, helping them find whatever bonuses they can get.
 
@@ -469,7 +469,7 @@ As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stres
 
 ### Adventuring Strain
 
-During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress*](#stress) Test.
+During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress Test*](#stress-test).
 
 That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
 
