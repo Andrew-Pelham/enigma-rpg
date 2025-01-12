@@ -109,14 +109,15 @@ For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercu
 
 #### Sample Investigator Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To uncover the truth behind a conspiracy         |
-| 2    | To prove oneself as the best in the field       |
-| 3    | To gain recognition and prestige                |
-| 4    | To expose corruption and injustice              |
-| 5    | To find personal closure on a past case         |
-| 6    | To make the next big news story                 |
+| Drive (1d6)       | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Expose the Truth   | You are compelled to uncover secrets and lies, even at personal risk.       |
+| Seek Justice       | You feel a duty to bring wrongdoers to light and ensure they face consequences. |
+| Connect the Dots   | Obsessive curiosity drives you to link disparate clues into a cohesive picture. |
+| Challenge Authority| You distrust power and seek to hold the powerful accountable.               |
+| Uncover the Past   | You are fascinated by forgotten histories and the truth buried within them. |
+| Understand People  | You seek to unravel the motives and stories behind everyone you meet.       |
+
 
 #### Sample Investigator Equipment
 
@@ -139,14 +140,15 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 
 #### Sample Brawler Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To seek out the next thrilling fight            |
-| 2    | To prove one's strength and skill               |
-| 3    | To protect the innocent from harm               |
-| 4    | To earn respect and admiration from peers        |
-| 5    | To overcome personal demons through combat      |
-| 6    | To challenge powerful foes for personal gain |
+| Drive (1d6)              | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| Protect the Vulnerable | You will not stand by while others are threatened or harmed.             |
+| Prove Your Strength  | You seek to test your mettle and show you're the toughest in the room.     |
+| Settle Old Scores    | Personal vendettas or unresolved conflicts push you to confront challenges head-on. |
+| Break the Rules      | You thrive in chaos and feel alive when disrupting order.                  |
+| Face the Challenge   | You seek out dangerous opponents or impossible odds to push your limits.   |
+| Defend Your Honor    | You won’t tolerate insults to your reputation or those you care about.     |
+
 
 #### Sample Brawler Equipment
 
@@ -169,14 +171,14 @@ For inspiration, look towards figures like Dr. Ellie Satler, Professor X, Richar
 
 #### Sample Researcher Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To discover lost knowledge or ancient secrets  |
-| 2    | To contribute to scientific or academic fields  |
-| 3    | To solve complex puzzles and riddles            |
-| 4    | To gain access to rare and exclusive resources  |
-| 5    | To achieve breakthroughs in their field         |
-| 6    | To document and preserve important information  |
+| Drive (1d6)             | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Understand the Unknown | You are driven to comprehend what others cannot, no matter how obscure. |
+| Preserve Knowledge  | You see it as your duty to safeguard important information or artifacts.   |
+| Solve the Problem   | A puzzle, mystery, or question becomes your obsession until you crack it.  |
+| Expand the Field    | You aim to make discoveries that will change the world or earn recognition.|
+| Debunk the Myths    | You seek to separate fact from fiction, proving or disproving the incredible. |
+| Recover Lost Secrets| You are obsessed with retrieving knowledge that has been forgotten or hidden.|
 
 #### Sample Researcher Equipment
 
@@ -199,14 +201,15 @@ For inspiration, look towards figures like Charlie Chaplin, Bianca Castafiore, F
 
 #### Sample Entertainer Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To captivate and enchant audiences              |
-| 2    | To become renowned and celebrated in their art  |
-| 3    | To bring joy and laughter to those around them  |
-| 4    | To use their platform for a greater cause       |
-| 5    | To find new and exciting ways to perform        |
-| 6    | To escape personal troubles through their craft |
+| Drive (1d6)             | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Captivate the Crowd | You live for the attention and adoration of others, seeking to win them over. |
+| Defuse Tension      | You take it upon yourself to ease tempers and smooth over conflicts with charm. |
+| Inspire Others      | You strive to spark hope, joy, or passion in those who have lost their way. |
+| Seek the Spotlight  | You hunger for fame, recognition, or the thrill of performing.             |
+| Change Minds        | You believe in the power of art and words to persuade and transform others.|
+| Celebrate Life      | You want to bring joy to dark places and make the most of every moment.    |
+
 
 #### Sample Entertainer Equipment
 
@@ -229,14 +232,15 @@ For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amun
 
 #### Sample Explorer Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To discover uncharted territories               |
-| 2    | To seek adventure and excitement                |
-| 3    | To unravel the mysteries of ancient cultures    |
-| 4    | To push the boundaries of human experience      |
-| 5    | To find lost treasures or artifacts             |
-| 6    | To experience the world in all its diversity    |
+| Drive (1d6)              | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Push the Boundaries | You crave the thrill of discovery and the challenge of venturing where others fear. |
+| Map the Unknown     | You feel compelled to chart new territories, leaving no detail undocumented. |
+| Seek the Sublime    | You are drawn to the beauty and wonder of the world, seeking awe-inspiring experiences. |
+| Escape the Past     | You run from a former life, finding solace in new horizons.                |
+| Test Your Limits    | You seek to survive in the harshest conditions and prove your endurance.   |
+| Discover Hidden Places | You are fascinated by secret locations and forgotten worlds.            |
+
 
 #### Sample Explorer Equipment
 
@@ -259,14 +263,14 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 #### Sample Operator Drives
 
-| (1d6) | Drive                                           |
-|------|-------------------------------------------------|
-| 1    | To master their unique skill         |
-| 2    | To achieve recognition amongst their peers |
-| 3    | To use their expertise to solve complex problems |
-| 4    | To gain control and become a necessity |
-| 5    | To innovate and push the boundaries of their discipline |
-| 6    | To leave a lasting legacy through their work    |
+| Drive (1d6)             | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Master Your Craft   | You aim to achieve unparalleled skill with tools, technology, or vehicles. |
+| Be the Best Support | You take pride in keeping the team moving and solving problems behind the scenes. |
+| Prove Your Worth    | You want to show that your expertise is essential, even if it's not always glamorous. |
+| Outwit the System   | You enjoy bending technology or rules to your will in clever ways.         |
+| Stay in Control     | You feel at peace when you can command machines, vehicles, or processes.   |
+| Innovate Boldly     | You are driven to invent, hack, or improve technology beyond its intended limits. |
 
 #### Sample Operator Equipment
 
