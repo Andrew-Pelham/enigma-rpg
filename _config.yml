@@ -4,7 +4,8 @@ theme: just-the-docs
 
 url: https://Andrew-Pelham.github.io/enigma-rpg
 
-color_scheme: default
+just_the_docs:
+  color_scheme: auto
 favicon_ico: "/assets/favicon.png"
 
 # Custom styles

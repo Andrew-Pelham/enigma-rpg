@@ -21,24 +21,3 @@ input, body {
 .site-title, nav, h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
 }
-
-tr:nth-child(odd) td{
-    background-color: #f2f2f2;
-  }
-  
-  th, td {
-    min-width: initial;
-    padding-top: .35rem;
-    padding-bottom: .35rem;
-    padding-right: .5rem;
-    padding-left: .5rem;
-  }
-  
-  td {
-    border-bottom: 0;
-    border-left: 0;
-  }
-  
-  tbody tr:last-of-type td{
-    padding-bottom: .35rem;
-  }
