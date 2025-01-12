@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
 
 @font-face {
     font-family: 'Tintin Title';
@@ -10,7 +12,7 @@
     src: url('/assets/fonts/Remi Script.ttf') format('truetype')
 }
 
-$body-font-family: 'Courier Prime', monospace;
+$body-font-family: 'Merriweather', serif;
 $heading-font-family: 'Carter One', system-ui;
 
 // Apply custom fonts
