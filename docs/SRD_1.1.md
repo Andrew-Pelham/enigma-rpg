@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# ENIGMA SRD V1.0
+# ENIGMA SRD V1.1
 {: .no_toc }
 
 <details close markdown="block">
@@ -328,11 +328,11 @@ Whenever a character wants to do something that has a chance of failure, they ma
 
 #### Blunder
 
-On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed. 
+On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
 
 #### Success
 
-On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion. 
+On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion.
 
 #### Critical Success
 
