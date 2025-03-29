@@ -1,18 +1,14 @@
 title: ENIGMA
-description: a pulp adventure roleplaying game
+description: a pulp adventure roleplaying game #TODO: Update with better description
 theme: just-the-docs
 
-url: https://Andrew-Pelham.github.io/enigma-rpg
+url: https://www.enigma-rpg.com
 
-color_scheme: default
 favicon_ico: "/assets/favicon.png"
 
-# Custom styles
-sass:
-  load_paths:
-    - _sass
-  style: compressed
+color_scheme: default
 
-# Include custom SCSS file
-include:
-  - _sass/custom/_custom.scss
+# Load custom SCSS file
+just_the_docs:
+  custom_css:
+    - _sass/custom/_custom.scss
