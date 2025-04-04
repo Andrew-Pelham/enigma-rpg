@@ -118,7 +118,6 @@ For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercu
 | Uncover the Past   | You are fascinated by forgotten histories and the truth buried within them. |
 | Understand People  | You seek to unravel the motives and stories behind everyone you meet.       |
 
-
 #### Sample Investigator Equipment
 
 | Magnifying glass | Trench coat | Lockpicking set | Shortwave radio | Auto Pistol | Hip Flask |
@@ -146,7 +145,6 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 | Break the Rules      | You thrive in chaos and feel alive when disrupting order.                  |
 | Face the Challenge   | You seek out dangerous opponents or impossible odds to push your limits.   |
 | Defend Your Honor    | You won’t tolerate insults to your reputation or those you care about.     |
-
 
 #### Sample Brawler Equipment
 
@@ -231,7 +229,6 @@ For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amun
 | Escape the Past     | You run from a former life, finding solace in new horizons.                |
 | Test Your Limits    | You seek to survive in the harshest conditions and prove your endurance.   |
 | Discover Hidden Places | You are fascinated by secret locations and forgotten worlds.            |
-
 
 #### Sample Explorer Equipment
 
@@ -320,7 +317,7 @@ Whenever a adventurer wants to do something that has a chance of failure, they m
 #### Blunder
 
 On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
-On a Blunder, the player's adventurer instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed. 
+On a Blunder, the player's adventurer instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
 
 #### Success
 
