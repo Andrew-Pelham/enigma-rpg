@@ -24,19 +24,25 @@ ENIGMA System Reference Document V1.1, by Andrew Pelham, is licensed under the C
 
 ### Background
 
-ENIGMA is a roleplaying game designed for adventure. Inspired by old pulp adventure novels and Franco-Belgian comics with evil villains, ENIGMA’s system allows players to go on flashy adventures and foil dastardly plots. Just like in the books, players usually triumph and rarely ever die; ENIGMA channels this, focusing on how the players interact in scenarios and the results that linger with them for the rest of their careers.
+ENIGMA is a roleplaying game designed for high-stakes adventure. Inspired by old pulp adventure novels and Franco-Belgian comics with cliche villains, ENIGMA’s system allows players to go on flashy adventures and foil dastardly plots. Just like legendary heroes, players usually triumph and rarely ever die; ENIGMA embraces this, focusing on how the adventurers interact and the results that linger with them for the rest of their careers.
 
 ENIGMA was designed to create the feel of high octane adventures where players can become death defying, luck toting, cartoon pulp heros. It is an engine to tell fantastic stories with your friends.
 
 ### Setting
 
-ENIGMA takes its players back to a familiar history in the early 20th century. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps advanced technologies are common. Always though, there are villains acting upon some secret (or not-so-secret) agenda; it is up to the players to meddle in as many ways as possible.
+ENIGMA takes its players back to a familiar history in the early 20th century. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps advanced technologies are common. There are always villains acting upon some secret (or not-so-secret) agenda, and it is up to the players to meddle in as many ways as possible.
 
 ## The Basics
 
 In order to play ENIGMA, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game. You will be telling a story as a group, faciliated by the [*Director*](#the-director).
 
 ## Making an Adventurer
+
+### The Adventurer Spirit
+
+Your adventurer isn't a villain, a ruthless killer, or a cruel mercenary. You're an adventurer; the type of character who would throw a punch in a bar brawl but wouldn't murder someone in cold blood. You might smash a chair over a goon's head or wallop someone's gun out of their hand, but your spirit is good-hearted. You are bold, brave, imperfect, but fundamentally heroic. When you create your character, ask yourself: Would a child cheer for this person? Would they seem larger-than-life, colorful, and brave, even when they stumble?
+
+In essence: You can be tough. You can be scrappy. But you should always feel like a "good guy".
 
 ### Archetypes
 
@@ -51,7 +57,7 @@ The six archetypes are as follows:
 - [*The Explorer*](#the-explorer)
 - [*The Operator*](#the-operator)
 
-Although a balanced group of adventurers often helps to diversify skill sets, by no means should the archetypes limit your choices. A group of five entertainers can be just as fun as a mix of roles.
+Although a balanced group of adventurers keeps things diverse, by no means should the archetypes limit your choices. A group of five entertainers can be just as fun as a mix of roles.
 
 Furthermore, your adventurer doesn’t have to be a human, and often the best companions aren’t! Whether you are a detective robot or a snowy white dog, you'll fit right in.
 
@@ -69,7 +75,7 @@ This is all the government form-type information on your adventurer. How old are
 
 #### Appearance
 
-This is where you can truly describe your adventurer's look. What’s your resting expression? How do you stand? Do you look disheveled? You can also use this section to add clothes and other non-trivial items, whatever makes sense for your adventurer.
+This is where you can truly describe your adventurer's look. What’s your resting expression? How do you stand? Do you look disheveled or refined? What stands out as unique? You can also use this section to add clothes and other non-trivial items, whatever makes sense for your adventurer.
 
 #### Drives
 
@@ -91,7 +97,7 @@ Select up to two pieces of [*Equipment*](#equipment) that help shape your advent
 
 This is your chance to say what your adventurer is great at. Sometimes a adventurer's [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
-[*Knacks*](#knacks) take the form of “-ing something”. Your adventurer might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to music". Select three [*Knacks*](#knacks) for your adventurer, discussing with the table as you did with [*Equipment*](#equipment).
+[*Knacks*](#knacks) are meant to be specific. Avoid generics like "Listening" or "Shooting". Instead, your adventurer might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to music". Select up to three [*Knacks*](#knacks) for your adventurer, discussing with the table as you did with [*Equipment*](#equipment).
 
 ### Next Steps
 
@@ -105,7 +111,7 @@ With a need to uncover the hidden, adventurers who choose the Investigator arche
 
 Investigators often have occupations like detectives, reporters, or even agents. They are keen-eyed, with a knack for puzzle-solving.
 
-For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercule Poirot, Tintin, or Lupin III.
+For inspiration, look towards figures like Captain Francis Blake, Master Keaton, Hercule Poirot, Tintin, or Lupin III.
 
 #### Sample Investigator Drives
 
@@ -157,11 +163,11 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 
 ### The Researcher
 
-This archetype would much rather have their head in a good book as opposed to a high-octane adventure. Sometimes ignorant of their surroundings, Researcher adventurers have a hunger for knowledge and can provide critical for coming to an answer.
+This archetype would much rather have their head in a good book as opposed to a high-octane adventure. Sometimes ignorant of their surroundings, Researchers have a hunger for knowledge and can provide critical for unearthing valuable information.
 
 As the name implies, Researchers typically come from a STEM background. Scientists, teachers, historians, and even musicians can classify as Researchers, given a certain devotion to their work.
 
-For inspiration, look towards figures like Dr. Ellie Satler, Professor X, Richard Feynman, Professor Calculus, or Gendo Ikari.
+For inspiration, look towards figures like Dr. Ellie Satler, Professor Phillip Mortimer, Richard Feynman, Professor Calculus, or Gendo Ikari.
 
 #### Sample Researcher Drives
 
@@ -269,6 +275,97 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 ## Gameplay
 
+### Gambles
+
+Whenever a adventurer wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player rolls 1d6.
+
+#### Success
+
+If the player rolls a 5 or a 6, their action succeeds. The player then describes how this success looks with their adventurer.
+
+#### Blunder
+
+If the player only rolls 1-4, their action fails. The [*Director*](#the-director) then describes how the action failed and any consequences.
+
+Pulp adventurers never fail forever though, and eventually they'll have their big break. Whenever a gamble results in a blunder, that player adds 1 [*Blammo! Dice*](#blammo-dice) to their sheet.
+
+### Modifiers
+
+Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). Depending on what you have at your disposal you may get to add more dice to your pool.
+
+#### Bonus Dice
+
+For each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads) or external factor that provides some advantage to the action being taken, roll one additional dice.
+
+#### Penalties
+
+Sometimes a player might have a penalty applied from [*Equipment*](#equipment) or other external factors. For each penalty applied, the player rolls one less dice. Penalties can only ever reduce your dice pool to 1.
+
+### Lucky Saves
+
+At the start of each new leg of an adventure, your adventurer generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure adventurers have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
+
+### Blammo! Dice
+
+Every dog has their day, and every adventuerer has an opportunity to do something daring. Whenever a player fails a [*Gamble*](#gambles), they gain a [*Blammo! Dice*](#blammo-dice). There is no limit to how many [*Blammo! Dice*](#blammo-dice) an adventurer may accrue, and they can be used on any [*Gamble*](#gambles). Unlike [*Lucky Saves*](#lucky-saves), these dice cannot be used retroactively; that is, if a [*Gamble*](#gambles) is failed but the adventurer still has [*Blammo! Dice*](#blammo-dice) to spend, they cannot roll more dice. Once the [*Gamble*](#gambles) is made, the die are cast.
+
+### Flashpoints
+
+This is an optional rule which can be used at the [*Director's*](#the-director) discretion. Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. This happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
+
+- A friendly NPC appears
+- A not-so-friendly NPC appears
+- A 3rd party or other faction appears
+- A natural disaster strikes
+- The authorities show up, for better or for worse
+- Explosions, lots of explosions
+
+### Threads
+
+As adventurers encounter the weird, strange, and sinister, they can add to their [*Threads*](#threads). At the Director’s discretion, the players can add an idea, group, or person to their sheet after learning more about it.  
+
+Often this occurs at the end of a [*Leg*](#legs). The adventurers bust the secret hideout of a dastardly cult and thus earn a [*Thread*](#threads) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Thread*](#threads) for said civilization.
+
+[*Threads*](#threads) can then be leveraged as Modifiers when making a [*Gamble*](#gambles). If a roll involves something a player has a [*Thread*](#threads) about, it grants them a bonus die. If a player has a [*Thread*](#threads) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
+
+Each adventurer can only have one [*Thread*](#threads) at a time. If you have one and the [*Director*](#the-director) offers another, you can choose to replace your current [*Thread*](#threads).
+
+### Stress
+
+No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Stress*](#stress) and the resulting [*Knockouts*](#knockouts).
+
+Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
+
+[*Stress*](#stress) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Stress Test*](#stress).
+
+### Stress Test
+
+During a [*Stress Test*](#stress), each player rolls 1d6. If the result is lower than their current [*Stress*](#stress), it decreases by one. For example, if a player has 3 [*Stress*](#stress), and they roll a 2 on their [*Stress Test*](#stress), their [*Stress*](#stress) decreases to 2.
+
+The players should narrate how their adventurer recovers (or doesn’t) during this [*Stress Test*](#stress). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
+
+### Knockouts
+
+When a adventurer reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to continue.
+
+Once a adventurer gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
+
+### Retirement
+
+Not even pulp adventurers are invincible, and eventually they must meet their end. If your adventurer reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
+
+Retired adventurers continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) modifiers to any roll.
+
+### Insights
+
+The silver lining to gaining [*Knockouts*](#knockouts) is that you also simultaneously gain an [*Insight*](#insights).
+
+An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Stress*](#stress) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
+
+[*Insight*](#insights) can be used whenever you or another player find themselves in a similar situation, granting them a bonus die. You learned your lesson about drowning, and your fellow adventurers also learn by avoiding your same mistakes.
+
+## Running The Show
+
 ### Legs
 
 A [*Leg*](#legs) is a portion of a larger adventure. Typically every adventure has 3-5 [*Legs*](#legs), but there can be more or less depending on the type of adventure your [*Director*](#the-director) creates. [*Legs*](#legs) are often enclosed and have their own arc, but relate to a larger idea or plot.
@@ -295,137 +392,7 @@ Regardless of whether an [*Encounter*](#encounters) ends well for the players, t
 
 Sometimes all hell breaks loose and the adventurers find themselves in a high stakes scenario. This is known as a [*Tumult*](#tumults). In a [*Tumult*](#tumults), time is slowed down, and players act on a turn so as to establish some sense of order.
 
-At the beginning of a [*Tumult*](#tumults), each player rolls to see how many [*Blammo! Dice*](#blammo-dice) are available to them during the [*Tumult*](#tumults). [*Blammo! Dice*](#blammo-dice) are pooled for each adventurer at the start of a [*Tumult*](#tumults) and are spent to perform daring actions.
-
-In a [*Tumult*](#tumults), failed rolls on the players’ end as well as successful rolls on the opponents’ end can translate to an increase of [*Stress*](#stress). No actual damage is tracked or taken, but it is assumed that the adventurer deals with a wound through an increase in [*Stress*](#stress).
-
-A [*Tumult*](#tumults) will typically end when one side is knocked out, fleeing, or surrendered. In the player's case, if they collectively run out of [*Blammo! Dice*](#blammo-dice) then their best course of action is to turn tail and run, since they can't make many more daring moves. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumults) is over.
-
-### Gambles
-
-Whenever a adventurer wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player rolls 1d6.
-
-| Roll | Result |
-| ---- | ---- |
-| **6** | Critical Success |
-| **5** | Success |
-| **4** | Success |
-| **3** | Blunder |
-| **2** | Blunder |
-| **1** | Blunder |
-
-#### Blunder
-
-On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
-On a Blunder, the player's adventurer instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
-
-#### Success
-
-On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion.
-On a Success, the [*Director*](#the-director) describes how the action succeeds, but can give some descriptive agency to the player.
-
-#### Critical Success
-
-On a Critical Success, the player takes full narrative agency and describes how the action succeeds. They can take any creative liberty as long as it fits within the bounds set by the [*Director*](#the-director).
-
-### Modifiers
-
-Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). Depending on what you have at your disposal you may get to add more dice to your pool.
-
-#### Bonus Dice
-
-For each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads) or external factor that provides some advantage to the action being taken, roll one additional dice.
-
-#### Penalties
-
-Sometimes a player might have a penalty applied from [*Equipment*](#equipment) or other external factors. For each penalty applied, the player rolls one less dice. Penalties can only ever reduce your dice pool to 1.
-
-### Lucky Saves
-
-At the start of each new leg of an adventure, your adventurer generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure adventurers have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
-
-### Flashpoints
-
-Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. This happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
-
-- A friendly NPC appears
-- A not-so-friendly NPC appears
-- A 3rd party or other faction appears
-- A natural disaster strikes
-- The authorities show up, for better or for worse
-- Explosions, lots of explosions
-
-### Threads
-
-As adventurers encounter the weird, strange, and sinister, they can add to their [*Threads*](#threads). At the Director’s discretion, the players can add an idea, group, or person to their sheet after learning more about it.  
-
-Often this occurs at the end of a [*Leg*](#legs). The adventurers bust the secret hideout of a dastardly cult and thus earn a [*Thread*](#threads) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Thread*](#threads) for said civilization.
-
-[*Threads*](#threads) can then be leveraged as Modifiers when making a [*Gamble*](#gambles). If a roll involves something a player has a [*Thread*](#threads) about, it grants them a bonus die. If a player has a [*Thread*](#threads) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
-
-Each adventurer can have a maximum of two [*Threads*](#threads). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
-
-### Stress
-
-No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Stress*](#stress) and the resulting [*Knockouts*](#knockouts).
-
-Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
-
-[*Stress*](#stress) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Stress Test*](#stress).
-
-### Stress Test
-
-During a [*Stress Test*](#stress), each player rolls 1d6. If the result is higher than their current [*Stress*](#stress), it decreases by one. For example, if a player has 3 [*Stress*](#stress), and they roll a 5 on their [*Stress Test*](#stress), their [*Stress*](#stress) decreases to 2.
-
-The players should narrate how their adventurer recovers (or doesn’t) during this [*Stress Test*](#stress). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
-
-### Knockouts
-
-When a adventurer reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to go on.
-
-Once a adventurer gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
-
-### Retirement
-
-Not even pulp adventurers are invincible, and eventually they must meet their end. If your adventurer reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
-
-Retired adventurers continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) modifiers to any roll.
-
-### Insights
-
-The silver lining to gaining [*Knockouts*](#knockouts) is that you also simultaneously gain an [*Insight*](#insights).
-
-An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Stress*](#stress) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
-
-[*Insight*](#insights) can be used whenever you or another player find themselves in a similar situation, granting them a bonus die. You learned your lesson about drowning, and your fellow adventurers also learn by avoiding your same mistakes.
-
-### Blammo! Dice
-
-As detailed in the [*Tumult*](#tumults) section, [*Blammo! Dice*](#blammo-dice) create the action economy for a combat scenario. To generate them, each player gets 1d6 to roll but can add more [*Bonus Dice*](#bonus-dice) for [*Equipment*](#equipment), [*Threads*](#threads), etc.
-
-To do anything in the [*Tumult*](#tumults) that would require daring wits or skill, you must spend a [*Blammo! Dice*](#blammo-dice). When you want to narrate your character’s action, you can ask the [*Director*](#the-director) if said action would cost any [*Blammo! Dice*](#blammo-dice).
-
-Some examples of daring actions include:
-
-- Running past a group of guards to snatch a precious idol
-
-- Firing a volley of bullets into a crowd of thugs
-
-- Cracking a safe whilst being pursued by the police
-
-Examples of non daring actions include:
-
-- Putting distance between you and a growling hound
-
-- Pulling a lever to open a portcullis
-
-- Firing warning shots into the air
-
-Spending a [*Blammo! Dice*](#blammo-dice) allow you to make a [*Gamble*](#gambles) with one dice. The only way to add more dice to this roll is by spending more [*Blammo! Dice*](#blammo-dice). For example, if you spend 5 [*Blammo! Dice*](#blammo-dice), you get to make your [*Gamble*](#gambles) with 5 dice.
-
-At the end of a [*Tumult*](#tumults), roll any remaining [*Blammo! Dice*](#blammo-dice). For each 6, you can  redirect your bravery to reduce your [*Stress*](#stress) by 1 point.
-
-## Running The Show
+A [*Tumult*](#tumults) will typically end when one side is knocked out, fleeing, or surrendered. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumults) is over.
 
 ### The Director
 
@@ -435,7 +402,7 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 - Don't feel the need to add lots of sub-plots and things happening in the background. It's certainly a good thing to have a twist or a secret to deploy, but the players will likely be driving the main focus of the adventure
 
-- You are not the villain. You might be playing a villainous adventurer sometimes, but you are still a friend at the table. You should be rooting for the adventurers, helping them find whatever bonuses they can get.
+- You are not the villain. You might be playing a villainous character sometimes, but you are still a friend at the table. You should be rooting for the adventurers, helping them find whatever bonuses they can get.
 
 - When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
@@ -443,12 +410,12 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 In ENIGMA, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
 
-This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall Stress. If a adventurer twists their ankle, their Stress should increase yes, but they still narratively stop and bandage the wound or find a stick to walk with.
+This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall [*Stress*](#stress). If a adventurer twists their ankle, their [*Stress*](#stress) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
 
 As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stress) when necessary. Here is a list of some common places this might happen:
 
 - When a player rolls a Blunder on a [*Gamble*](#gambles)
-- When an enemy rolls a Success or Critical Success on a [*Gamble*](#gambles)
+- When an enemy rolls a Success on a [*Gamble*](#gambles)
 - When the environment is particularly unforgiving, weather, etc.
 - When they encounter the weird, strange, odd, or eldritch
 - When you feel like it
@@ -463,14 +430,18 @@ That being said, if every adventurer gets knocked out because of mismanaged [*St
 
 As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
 
-NPC’s and other figures you control typically don’t manage [*Stress*](#stress) or [*Blammo! Dice*](#blammo-dice) in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). To gauge when an opponent may be out for the count (or ready to run), you can tally the [*Stress*](#stress) they rack up during a [*Tumult*](#tumults). For generating [*Blammo! Dice*](#blammo-dice), simply start them with a static amount. Follow the table below for sample thresholds.
+NPC’s and other figures you control typically don’t manage [*Stress*](#stress) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director).
 
-| **Enemy Type** |**Stress Maximum** | **Blammo! Dice** |
-| Minion | 1 | 2 |
-| Lieutenant | 2-3 | 5 |
-| Villain | 4-5 | 10 |
+For each enemy, simply count the number of successful rolls made against it and compare to its threshold. For example, if an adventurer attempts to bonk a thug on the head with a frying pan, and succeeds, that is one success scored against it. This would be enough to incapacitate the thug.
 
-As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manpulating [*Stress*](#stress) or [*Blammo! Dice*](#blammo-dice) to smooth over the action.
+Each enemy also has a static dice pool they use when rolling against an adventurer to attack or cause harm. The table below has sample pool sizes.
+
+| **Enemy Type** |**Threshold** | **Dice Pool** |
+| Minion | 1 | 1 |
+| Lieutenant | 3 | 2 |
+| Villain | 5 | 4 |
+
+As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manpulating enemy thresholds or dice pools to smooth over the action.
 
 ### Uncovering Treasure
 
@@ -486,18 +457,13 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 ## Rules Cheat Sheet
 
-| Roll | Result | Translation |
-| ---- | ---- | ---- |
-| **6** | Critical Success | Player takes narrative agency |
-| **5** | Success | Director narrates success |
-| **4** | Success | Director narrates success |
-| **3** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
-| **2** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
-| **1** | Blunder | [*Stress*](#stress) +1, Director narrates failure |
+[*Gamble*](#gambles)
+
+- Success on a 5 or 6. Otherwise the player's action fails and they gain one [*Blammo! Dice*](#blammo-dice).
 
 [*Bonus Dice*](#bonus-dice)
 
-- Roll an additional die for each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), or external factor that provides some advantage to the action being taken.
+- Roll an additional die for each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Dice*](#blammo-dice) spent, or external factor that provides some advantage to the action being taken.
 
 [*Penalties*](#penalties)
 
@@ -507,15 +473,15 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 - For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one.
 
-[*Flashpoints*](#flashpoints)
+[*Blammo! Dice*](#blammo-dice)
 
-- Costs [*Lucky Saves*](#lucky-saves) equal to the player count, spent collectively. e.g 5 players must pool together 5 [*Lucky Saves*](#lucky-saves). Initiating a [*Flashpoint*](#flashpoints) adds a new complication to an [*Encounter*](#encounters).
+- Gained on a failed [*Gamble*](#gambles). Can be spent as [*Bonus Dice*](#bonus-dice). There is no maximum.
 
 [*Threads*](#threads)
 
 - Gained when prompted by [*Director*](#the-director)
-- Grants bonus die to any roll involving it
-- Can focus on a maximum of two
+- Grants [*Bonus Dice*](#bonus-dice) to any roll involving it
+- Can only have one thread at a time.
 
 [*Stress*](#stress)
 
@@ -525,24 +491,16 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Stress Test*](#stress-test)
 
-- Roll 1d6, if higher than current [*Stress*](#stress), reduce by 1
+- Roll 1d6, if lower than current [*Stress*](#stress), reduce by 1
 
 [*Knockouts*](#knockouts)
 
 - When a adventurer reaches 6 [*Stress*](#stress), they gain a Knockout
-- Once a adventurer gains a Knockout, their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
+- Their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
 - If you accrue 4, your adventurer must enter [*Retirement*](#retirement)
 
 [*Insights*](#insights)
 
-- Gained when you gain a Knockout
-- Reflects nature of knockout, i.e. “slipping on ice”
+- Gained when you experience a Knockout
+- Reflects cause of knockout, i.e. “slipping on ice”
 - Grants a [*Bonus Dice*](#bonus-dice) to you and other players when they face a similar situation
-
-[*Blammo! Dice*](#blammo-dice)
-
-- Always generate 1d6 to at the start of a [*Tumult*](#tumults)
-- You can modify the generation roll with [*Bonus Dice*](#bonus-dice) to get more [*Blammo! Dice*](#blammo-dice)
-- Making a [*Gamble*](#gambles) in a [*Tumult*](#tumults) costs [*Blammo! Dice*](#blammo-dice)
-- You may add more [*Blammo! Dice*](#blammo-dice) to increase that dice pool
-- At the end of a [*Tumult*](#tumults), roll all remaining Blammo! Dice. Reduce [*Stress*](#stress) by 1 for each 6 rolled.
