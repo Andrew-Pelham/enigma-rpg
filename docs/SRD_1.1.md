@@ -101,7 +101,7 @@ This is your chance to say what your adventurer is great at. Sometimes a adventu
 
 ### Next Steps
 
-Once you’ve built out your adventurer, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Stress*](#stress), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
+Once you’ve built out your adventurer, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Peril*](#peril), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
 
 ## The Archetypes
 
@@ -330,37 +330,37 @@ Often this occurs at the end of a [*Leg*](#legs). The adventurers bust the secre
 
 Each adventurer can only have one [*Thread*](#threads) at a time. If you have one and the [*Director*](#the-director) offers another, you can choose to replace your current [*Thread*](#threads).
 
-### Stress
+### Peril
 
-No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Stress*](#stress) and the resulting [*Knockouts*](#knockouts).
+No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Peril*](#peril) and the resulting [*Knockouts*](#knockouts).
 
-Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
+Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Peril*](#peril). Their [*Peril*](#peril) ranges from 0-6 at any given time and is often gained from a Blunder.
 
-[*Stress*](#stress) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Stress Test*](#stress).
+[*Peril*](#peril) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Resting*](#peril).
 
-### Stress Test
+### Resting
 
-During a [*Stress Test*](#stress), each player rolls 1d6. If the result is lower than their current [*Stress*](#stress), it decreases by one. For example, if a player has 3 [*Stress*](#stress), and they roll a 2 on their [*Stress Test*](#stress), their [*Stress*](#stress) decreases to 2.
+When [*Resting*](#resting), each player rolls 1d6. If the result is lower than their current [*Peril*](#peril), it decreases by one. For example, if a player has 4 [*Peril*](#peril), and they roll a 2, their [*Peril*](#peril) decreases to 3.
 
-The players should narrate how their adventurer recovers (or doesn’t) during this [*Stress Test*](#stress). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
+The players should narrate how their adventurer recovers (or doesn’t) when [*Resting*](#resting). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
 
 ### Knockouts
 
-When a adventurer reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to continue.
+When a adventurer reaches 6 [*Peril*](#peril), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to continue.
 
-Once a adventurer gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
+Once a adventurer gains a [*Knockout*](#knockouts), their [*Peril*](#peril) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
 
 ### Retirement
 
 Not even pulp adventurers are invincible, and eventually they must meet their end. If your adventurer reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
 
-Retired adventurers continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) modifiers to any roll.
+Retired adventurers continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Peril*](#peril) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) modifiers to any roll.
 
 ### Insights
 
 The silver lining to gaining [*Knockouts*](#knockouts) is that you also simultaneously gain an [*Insight*](#insights).
 
-An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Stress*](#stress) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
+An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Peril*](#peril) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
 
 [*Insight*](#insights) can be used whenever you or another player find themselves in a similar situation, granting them a bonus die. You learned your lesson about drowning, and your fellow adventurers also learn by avoiding your same mistakes.
 
@@ -406,13 +406,13 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 - When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
-### Damage and Stress
+### Damage and Peril
 
 In ENIGMA, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
 
-This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall [*Stress*](#stress). If a adventurer twists their ankle, their [*Stress*](#stress) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
+This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall [*Peril*](#peril). If a adventurer twists their ankle, their [*Peril*](#peril) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
 
-As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stress) when necessary. Here is a list of some common places this might happen:
+As the [*Director*](#the-director), it is your job to dole out [*Peril*](#peril) when necessary. Here is a list of some common places this might happen:
 
 - When a player rolls a Blunder on a [*Gamble*](#gambles)
 - When an enemy rolls a Success on a [*Gamble*](#gambles)
@@ -422,15 +422,15 @@ As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stres
 
 ### Adventuring Strain
 
-During games adventurers will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress Test*](#stress-test).
+During games adventurers will accumulate lots of [*Peril*](#peril). [*Peril*](#peril) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them reap the benefits of [*Resting*](#resting).
 
-That being said, if every adventurer gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
+That being said, if every adventurer gets knocked out because of mismanaged [*Peril*](#peril), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
 
 ### Dangers
 
 As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
 
-NPC’s and other figures you control typically don’t manage [*Stress*](#stress) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director).
+NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director).
 
 For each enemy, simply count the number of successful rolls made against it and compare to its threshold. For example, if an adventurer attempts to bonk a thug on the head with a frying pan, and succeeds, that is one success scored against it. This would be enough to incapacitate the thug.
 
@@ -483,20 +483,19 @@ As the party moves along with their journey, they should earn rewards in a varie
 - Grants [*Bonus Dice*](#bonus-dice) to any roll involving it
 - Can only have one thread at a time.
 
-[*Stress*](#stress)
+[*Peril*](#peril)
 
 - Ranges from 0-6
 - Accumulated from negative dice rolls, positive opponent rolls, or at the Director’s discretion
-- While resting, can make a [*Stress Test*](#stress-test) to recover
 
-[*Stress Test*](#stress-test)
+[*Resting*](#resting)
 
-- Roll 1d6, if lower than current [*Stress*](#stress), reduce by 1
+- Roll 1d6, if lower than current [*Peril*](#peril), reduce by 1
 
 [*Knockouts*](#knockouts)
 
-- When a adventurer reaches 6 [*Stress*](#stress), they gain a Knockout
-- Their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
+- When a adventurer reaches 6 [*Peril*](#peril), they gain a Knockout
+- Their [*Peril*](#peril) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
 - If you accrue 4, your adventurer must enter [*Retirement*](#retirement)
 
 [*Insights*](#insights)
