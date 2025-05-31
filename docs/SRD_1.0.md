@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 2
+nav_exclude: true
 ---
 
 # ENIGMA SRD V1.0
@@ -24,23 +24,23 @@ ENIGMA System Reference Document V1.0, by Andrew Pelham, is licensed under the C
 
 ### Background
 
-ENIGMA is a roleplaying game designed for adventure. Drawing upon old adventure novels as well as French comics with big bad recurring evil villains, ENIGMA’s system allows players to go on flashy adventures and foil dastardly plots. Just like in the books, players typically trump the baddies and rarely ever die; ENIGMA follows suit, focusing on how the players interact in scenarios and the results that linger with them for the rest of their careers.
+ENIGMA is a roleplaying game designed for adventure. Inspired by old pulp adventure novels and Franco-Belgian comics with evil villains, ENIGMA’s system allows players to go on flashy adventures and foil dastardly plots. Just like in the books, players usually triumph and rarely ever die; ENIGMA channels this, focusing on how the players interact in scenarios and the results that linger with them for the rest of their careers.
 
-ENIGMA was designed to create the feel of high octane adventures, where players can become death defying, luck toting, cartoon pulp heros. At its core, its a way for friends to gather and tell grand stories where the bad guys somehow always get away.
+ENIGMA was designed to create the feel of high octane adventures where players can become death defying, luck toting, cartoon pulp heros. It is an engine to tell fantastic stories with your friends.
 
 ### Setting
 
-ENIGMA takes its players back to a familiar history roughly between the two World Wars. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps different weapons or technology have been produced, leading to new types of war. The one consistency is that there are always villains acting upon some secret (or not-so-secret) agenda, and it is up to the players to meddle in as many ways as possible.
+ENIGMA takes its players back to a familiar history in the early 20th century. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps advanced technologies are common. Always though, there are villains acting upon some secret (or not-so-secret) agenda; it is up to the players to meddle in as many ways as possible.
 
 ## The Basics
 
-In order to play ENIGMA, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game as well. You will be telling a story as a group, faciliated by the [*Director*](#the-director).
+In order to play ENIGMA, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game. You will be telling a story as a group, faciliated by the [*Director*](#the-director).
 
 ## Making an Adventurer
 
 ### Archetypes
 
-In ENIGMA there are 6 different archetypes that are used to represent the different types of adventurers which can appear. An archetype defines the outline of your character, but by no means limits it. Functionally they help to guide you when choosing [*Equipment*](#equipment), identifying [*Knacks*](#knacks), and finding your fit in the party; your archetype is like your trusty backup tool that can always be called on.
+In ENIGMA there are 6 different archetypes that are used to represent the different types of adventurers which can appear. An archetype defines the outline of your adventurer, but by no means limits it. They help to guide you when choosing [*Equipment*](#equipment), identifying [*Knacks*](#knacks), and finding your fit in the crew.
 
 The six archetypes are as follows:
 
@@ -51,57 +51,57 @@ The six archetypes are as follows:
 - [*The Explorer*](#the-explorer)
 - [*The Operator*](#the-operator)
 
-Although a balanced group of characters often helps to diversify skill sets, by no means should the archetypes limit your choices. A group of five entertainers can be just as fun as a mix of characters.
+Although a balanced group of adventurers often helps to diversify skill sets, by no means should the archetypes limit your choices. A group of five entertainers can be just as fun as a mix of roles.
 
-Furthermore, your character doesn’t have to be a human, and often the best companions aren’t! Whether you are a detective robot or a snowy white dog, you have as much creative liberty to morph the sheet to your will.
+Furthermore, your adventurer doesn’t have to be a human, and often the best companions aren’t! Whether you are a detective robot or a snowy white dog, you'll fit right in.
 
 ### Description
 
-Once you have a general idea of the type of character you want to create, you can begin to describe them with the following fields.
+Once you have a general adventurer idea, you can describe them with the following fields.
 
 #### Profession
 
-This is what you do on a day-to-day basis. It doesn’t necessarily have to be a paid job, as your profession could be “drifter” or some other self-employed role.
+This is what you do on a day-to-day basis. It could be a paid job like "Accountant" or a descriptor like "Drifter"
 
 #### Biography
 
-This is all the government form-type information on your character. How old are you? Where were you born? Where do you live now? What is your full-given birth name? You can either fill this section out like a government form or sum it all into an elegant sentence or two.
+This is all the government form-type information on your adventurer. How old are you? Where were you born? Where do you live now? What is your full-given birth name? Either respond with stark form answers or write an elegant two-sentence description.
 
 #### Appearance
 
-This is where you can truly describe your character’s look. What’s your resting expression? How do you stand? Do you look disheveled? You can also use this section to add clothes and other items. You can give your character whatever makes sense for them here, it just won’t have any major effect on gameplay.
+This is where you can truly describe your adventurer's look. What’s your resting expression? How do you stand? Do you look disheveled? You can also use this section to add clothes and other non-trivial items, whatever makes sense for your adventurer.
 
 #### Drives
 
-This is what keeps your character going. You may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep you adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives*](#drives) you can use if you get stuck.
+This is what keeps your adventurer going. You may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep you adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives*](#drives) you can use if you get stuck.
 
 #### Relationships
 
-Select one other person at the table, and form a connection between your character and theirs. You could have been war buddies, old rivals, or even something as simple as childhood friends. As the party adds relationships between themselves, they form a web that links the characters together and provides depth.
+Select one other person at the table, and form a connection between your adventurer and theirs. You could have been war buddies, old rivals, or even something as simple as childhood friends.
 
 ### Equipment
 
-Every adventurer needs tools to help them brave the unknown. This is where [*Equipment*](#equipment) comes into play. Every character can carry the necessary items they need for survival on their person - clothes, food, and the like - but [*Equipment*](#equipment) describes the items that are iconic for them. These are the things that your character is never seen without: a trusty whip, your grandfather's revolver, a professor's folding trowel.
+Every adventurer needs tools to help them brave the unknown. This is where [*Equipment*](#equipment) comes into play. Every adventurer can carry the necessary items they need for survival on their person - clothes, food, and the like - but [*Equipment*](#equipment) describes the items that are iconic for them. These are the things that your adventurer is never seen without: a trusty whip, your grandfather's revolver, a professor's folding trowel.
 
-Each piece of [*Equipment*](#equipment) your character has should help tell their story. [*Equipment*](#equipment) can be anything, not just a tool; a moldy sandwich, a dirty washrag, and an ancient stick all become valuable items in the eyes of your character, as well as grant [*Bonus Dice*](#bonus-dice) when possible.
+Each piece of [*Equipment*](#equipment) your adventurer has should help tell their story. It can be anything, not just a tool: a moldy sandwich, a dirty washrag, and an ancient stick, etc. These all become valuable items in the eyes of your adventurer, as well as grant [*Bonus Dice*](#bonus-dice) whenever possible.
 
-Select up to three pieces of [*Equipment*](#equipment) that help shape your character. Think of evocative descriptions - the more specific the better. Discuss with your fellow adventurers what you're bringing along, and when it might be useful.
+Select up to two pieces of [*Equipment*](#equipment) that help shape your adventurer. Think of evocative descriptions - the more specific the better. Discuss with your fellow adventurers what you're bringing along, and when it might be useful.
 
 ### Knacks
 
-This is your chance to say what your character is great at. Sometimes a character’s [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
+This is your chance to say what your adventurer is great at. Sometimes a adventurer's [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
-[*Knacks*](#knacks) take the form of “-ing something”. Your character might have a [*Knack*](#knacks) in Throwing large nets, Climbing over walls, or even Listening to music. These [*Knacks*](#knacks) help to build out your character as well as give you an edge during [*Encounters*](#encounters). Select three [*Knacks*](#knacks) for your character, discussing with the table as you did with [*Equipment*](#equipment).
+[*Knacks*](#knacks) take the form of “-ing something”. Your adventurer might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to music". Select three [*Knacks*](#knacks) for your adventurer, discussing with the table as you did with [*Equipment*](#equipment).
 
 ### Next Steps
 
-Once you’ve built out your character, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Stress*](#stress), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
+Once you’ve built out your adventurer, generate  your Lucky Saves by rolling 1d6. Then, you’re done! [*Stress*](#stress), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
 
 ## The Archetypes
 
 ### The Investigator
 
-With a need to uncover the hidden, characters who choose the Investigator archetype are typically the driving force when busting open hidden plots.
+With a need to uncover the hidden, adventurers who choose the Investigator archetype are typically the driving force when busting open hidden plots.
 
 Investigators often have occupations like detectives, reporters, or even agents. They are keen-eyed, with a knack for puzzle-solving.
 
@@ -109,7 +109,7 @@ For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercu
 
 #### Sample Investigator Drives
 
-| Drive (1d6)       | Description                                                                 |
+| Drive       | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Expose the Truth   | You are compelled to uncover secrets and lies, even at personal risk.       |
 | Seek Justice       | You feel a duty to bring wrongdoers to light and ensure they face consequences. |
@@ -121,14 +121,12 @@ For inspiration, look towards figures like Sherlock Holmes, Master Keaton, Hercu
 
 #### Sample Investigator Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Magnifying glass | Trench coat | Lockpicking set | Shortwave radio | Auto Pistol | Hip Flask |
-| **2** | Notepad and pencil | Fake mustache/beard set | Fingerprint powder and brush | Signal mirror | Brass knuckles | Cigarette case and lighter |
-| **3** | Pocket flashlight | Wide-brimmed hat | Portable typewriter | Whistle | Small derringer | Handcuffs |
-| **4** | Miniature camera | Dark sunglasses | Telescoping baton | Morse code tapper | Wrist watch | Spyglass |
-| **5** | Map case with maps | Change of clothes | Stethoscope | Homing pigeon kit | Tranquilizer darts | Bag of marbles |
-| **6** | Pocket knife | Police badge | Codebook | Disposable phone | Throwing knife | False documents |
+| Magnifying glass | Trench coat | Lockpicking set | Shortwave radio | Auto Pistol | Hip Flask |
+| Notepad and pencil | Fake mustache set | Fingerprint powder | Signal mirror | Brass knuckles | Cigarette case |
+| Pocket flashlight | Wide-brimmed hat | Portable typewriter | Whistle | Small derringer | Handcuffs |
+| Miniature camera | Dark sunglasses | Telescoping baton | Morse code tapper | Wrist watch | Spyglass |
+| Map case with maps | Change of clothes | Stethoscope | Homing pigeon kit | Tranquilizer darts | Bag of marbles |
+| Pocket knife | Police badge | Codebook | Disposable phone | Throwing knife | False papers |
 
 ### The Brawler
 
@@ -140,7 +138,7 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 
 #### Sample Brawler Drives
 
-| Drive (1d6)              | Description                                                                 |
+| Drive              | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
 | Protect the Vulnerable | You will not stand by while others are threatened or harmed.             |
 | Prove Your Strength  | You seek to test your mettle and show you're the toughest in the room.     |
@@ -152,18 +150,16 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 
 #### Sample Brawler Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Heavy leather gloves | Brass knuckles | Leather jacket | Broken bottle | Motorcycle | Deck of cards |
-| **2** | Flask of whiskey | Billy club | Sturdy boots | Chair leg | Rusty pickup truck | Frying Pan |
-| **3** | Switchblade | Revolver | Flak vest | Length of chain | Handgrenade | Sandwich |
-| **4** | Dice set | Throwing axe | Flat Cap | Bar stool | Glass shard | Roll of duct tape |
-| **5** | Brass knuckles | Trench knife | Arm guards | Lead pipe | Cloth wrap | Rope |
-| **6** | Cigar case | Shotgun | Knee pads | Fire extinguisher | 2x4 | Set of keys |
+| Heavy leather gloves | Brass knuckles | Leather jacket | Broken bottle | Motorcycle | Deck of cards |
+|  Flask of whiskey | Billy club | Sturdy boots | Chair leg | Rusty pickup truck | Frying Pan |
+| Switchblade | Revolver | Flak vest | Length of chain | Handgrenade | Sandwich |
+| Dice set | Throwing axe | Flat Cap | Bar stool | Glass shard | Roll of duct tape |
+| Brass knuckles | Trench knife | Arm guards | Lead pipe | Cloth wrap | Rope |
+|  Cigar case | Shotgun | Knee pads | Fire extinguisher | Two-by-four | Set of keys |
 
 ### The Researcher
 
-This archetype would much rather have their head in a good book as opposed to a high-octane adventure. Sometimes ignorant of their surroundings, Researcher characters have a hunger for knowledge and can provide critical for coming to an answer.
+This archetype would much rather have their head in a good book as opposed to a high-octane adventure. Sometimes ignorant of their surroundings, Researcher adventurers have a hunger for knowledge and can provide critical for coming to an answer.
 
 As the name implies, Researchers typically come from a STEM background. Scientists, teachers, historians, and even musicians can classify as Researchers, given a certain devotion to their work.
 
@@ -171,7 +167,7 @@ For inspiration, look towards figures like Dr. Ellie Satler, Professor X, Richar
 
 #### Sample Researcher Drives
 
-| Drive (1d6)             | Description                                                                 |
+| Drive             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Understand the Unknown | You are driven to comprehend what others cannot, no matter how obscure. |
 | Preserve Knowledge  | You see it as your duty to safeguard important information or artifacts.   |
@@ -182,26 +178,24 @@ For inspiration, look towards figures like Dr. Ellie Satler, Professor X, Richar
 
 #### Sample Researcher Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Microscope | Encyclopedia set | Magnifying glass | Telegraph key | Reading glasses | Vacuum Tube |
-| **2** | Test tubes and chemicals | Field journal | Slide rule | Notebook and pen | Pocket protector | Chalk and blackboard |
-| **3** | Pocket watch | Rolodex of contacts | Portable generator | Portable radio | Lab coat | Compass |
-| **4** | Small telescope | Scientific journal | Soldering iron | Signal flags | Tweezers | Set of vials |
-| **5** | Sample jars | Dictionary | Tool kit | Semaphore kit | Clipboard | Magnifying glass |
-| **6** | Portable scale | Map collection | Geiger counter | Morse code book | Specimen jars | Weather balloon |
+|  Microscope | Encyclopedia set | Magnifying glass | Telegraph key | Reading glasses | Vacuum Tube |
+|  Test tubes and chemicals | Field journal | Slide rule | Notebook and pen | Pocket protector | Chalk and blackboard |
+|  Pocket watch | Rolodex of contacts | Portable generator | Portable radio | Lab coat | Compass |
+|  Small telescope | Scientific journal | Soldering iron | Signal flags | Tweezers | Set of vials |
+|  Sample jars | Dictionary | Tool kit | Semaphore kit | Clipboard | Magnifying glass |
+| Portable scale | Map collection | Geiger counter | Morse code book | Specimen jars | Weather balloon |
 
 ### The Entertainer
 
 Not to be confused with the Scott Joplin classic, Entertainers are charismatic assets to any group. They convey many layers of thought in their speech, motion, and even stance.
 
-Entertainer characters might be singers, dancers, or other performers, but they may also come from backgrounds like salesmen.
+Entertainer adventurers might be singers, dancers, or other performers, but they may also come from backgrounds like salesmen.
 
 For inspiration, look towards figures like Charlie Chaplin, Bianca Castafiore, Faye Valentine, Violet Evergarden, or Elvis Presley.
 
 #### Sample Entertainer Drives
 
-| Drive (1d6)             | Description                                                                 |
+| Drive             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Captivate the Crowd | You live for the attention and adoration of others, seeking to win them over. |
 | Defuse Tension      | You take it upon yourself to ease tempers and smooth over conflicts with charm. |
@@ -210,29 +204,26 @@ For inspiration, look towards figures like Charlie Chaplin, Bianca Castafiore, F
 | Change Minds        | You believe in the power of art and words to persuade and transform others.|
 | Celebrate Life      | You want to bring joy to dark places and make the most of every moment.    |
 
-
 #### Sample Entertainer Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Violin | Stage makeup kit | Autograph book | Portable megaphone | Tonic Water | Set of juggling balls |
-| **2** | Harmonica | Feathered boa | Flamboyant hat | Flashy business cards | Deck of cards | Bag of confetti |
-| **3** | Trumpet | Top hat and cane | Jewelry collection | Notebook and pen | Box of tricks | Stage light |
-| **4** | Tambourine | Tuxedo | Mirror compact | Phone book | Bottle of champagne | Small stage curtain |
-| **5** | Accordion | Clown outfit | Perfume bottle | Telegrapher’s key | Roll of tickets | Stilt set |
-| **6** | Ukulele | Magic wand | Cigarette holder | Public announcement flyers | Set of playing dice | Set of juggling pins |
+| Violin | Stage makeup kit | Autograph | Portable megaphone | Tonic Water | Set of balls|
+| Harmonica | Feather boa | Cane | Business cards | Deck of cards | Confetti|
+| Trumpet | Top hat | Jewelry collection | Notebook and pen | Box of tricks | Spotlight|
+| Tambourine | Tuxedo | Mirror | Phone book | Champagne | Curtain|
+| Accordion | Clown outfit | Perfume bottle | Rolodeck | Tickets | Stilt set|
+| Ukulele | Magic wand | Cigarette holder | Announcement flyers | Playing dice | Bouquet|
 
 ### The Explorer
 
 With wanderlust at their core, the Explorer archetype is not designed to stay in one place. Burdened with adventuring gear, they are used to traveling with various modes of transportation. Moreover, they have a keen sense of direction and usually have no difficulty with a map and compass.
 
-Explorer archetype characters are often the easiest to dream up. Dilettantes, nomads, and even industrialists can act as Explorer characters.
+Explorer archetype adventurers are often the easiest to dream up. Dilettantes, nomads, and even industrialists can act as Explorer adventurers.
 
 For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amundsen, Captain Nemo, or Nathan Drake.
 
 #### Sample Explorer Drives
 
-| Drive (1d6)              | Description                                                                 |
+| Drive              | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Push the Boundaries | You crave the thrill of discovery and the challenge of venturing where others fear. |
 | Map the Unknown     | You feel compelled to chart new territories, leaving no detail undocumented. |
@@ -244,18 +235,16 @@ For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amun
 
 #### Sample Explorer Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Compass | Flint and steel | Pith helmet | Machete | Revolver | Bug repellent |
-| **2** | Map and map case | Canteen | Hiking boots | Climbing gear | Lever Action Rifle | Specimen jars |
-| **3** | Sextant | First aid kit | Utility belt | Lantern | Bow and arrows | Local currency |
-| **4** | Altimeter | Hunting knife | Leather backpack | Portable stove | Throwing knives | Tribal mask |
-| **5** | Chronometer | Rope | Water purification tablets | Field journal | Whip | Pocketwatch |
-| **6** | Signal mirror | Binoculars | Sunblock | Shovel | Kukri | Compass |
+| Compass | Flint and steel | Pith helmet | Machete | Revolver | Bug repellent |
+| Map and map case | Canteen | Hiking boots | Climbing gear | Lever Action Rifle | Specimen jars |
+| Sextant | First aid kit | Utility belt | Lantern | Bow and arrows | Local currency |
+| Altimeter | Hunting knife | Leather backpack | Portable stove | Throwing knives | Tribal mask |
+| Chronometer | Rope | Water purification tablets | Field journal | Whip | Pocketwatch |
+| Signal mirror | Binoculars | Sunblock | Shovel | Kukri | Compass |
 
 ### The Operator
 
-Filling the gaps left by the previous five archetypes, the Operator specializes in something significant. Despite being an expert in what they do, Operator characters bring more than just expertise to the table.
+Filling the gaps left by the previous five archetypes, the Operator specializes in something significant. Despite being an expert in what they do, Operator adventurers bring more than just expertise to the table.
 
 Characters with the Operator archetype could be pilots, sea captains, authors, stock brokers, or even gurus. The one thing uniting them is that they know their craft better than anyone else.
 
@@ -263,7 +252,7 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 #### Sample Operator Drives
 
-| Drive (1d6)             | Description                                                                 |
+| Drive             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | Master Your Craft   | You aim to achieve unparalleled skill with tools, technology, or vehicles. |
 | Be the Best Support | You take pride in keeping the team moving and solving problems behind the scenes. |
@@ -274,28 +263,26 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 #### Sample Operator Equipment
 
-|  (2d6)   |  1  |  2  |  3  |  4  |  5  |  6  |
-|-----|-----|-----|-----|-----|-----|-----|
-| **1** | Wrench set | Shortwave radio | Aviator goggles | Compass | Trench gun | Thermos |
-| **2** | Screwdriver set | Signal flares | Leather flight jacket | Map and map case | Pocket knife | Cigarette case and lighter |
-| **3** | Oil can | Whistle | Pilot’s cap | Sextant | Bowie knife | Parachute |
-| **4** | Spare parts kit | Flashlight | Steel toe boots | Altimeter | Flare gun | Flight manual |
-| **5** | Tool belt | Notebook and pen | Bandana | Chronometer | Crowbar | Aviator sunglasses |
-| **6** | Socket set | Signal flags | Wristwatch | Signal mirror | Throwing knife | Box of rations |
+| Wrench set | Shortwave radio | Aviator goggles | Compass | Trench gun | Thermos |
+| Screwdriver set | Signal flares | Leather flight jacket | Map and map case | Pocket knife | Cigarette case and lighter |
+| Oil can | Whistle | Pilot’s cap | Sextant | Bowie knife | Parachute |
+| Spare parts kit | Flashlight | Steel toe boots | Altimeter | Flare gun | Flight manual |
+|  Tool belt | Notebook and pen | Bandana | Chronometer | Crowbar | Aviator sunglasses |
+|  Socket set | Signal flags | Wristwatch | Signal mirror | Throwing knife | Box of rations |
 
 ## Gameplay
 
 ### Legs
 
-A [*Leg*](#legs) is a portion of a larger adventure. Typically every adventure has 3-5 [*Legs*](#legs), but there can be more or less depending on the type of adventure your [*Director*](#the-director) creates. [*Legs*](#legs) are often enclosed and have their own arc, but relate to a bigger idea or plot.
+A [*Leg*](#legs) is a portion of a larger adventure. Typically every adventure has 3-5 [*Legs*](#legs), but there can be more or less depending on the type of adventure your [*Director*](#the-director) creates. [*Legs*](#legs) are often enclosed and have their own arc, but relate to a larger idea or plot.
 
-Each [*Leg*](#legs) essentially works as a oneshot that can be strung together into the larger story. Here's an example:
+Each [*Leg*](#legs) essentially works as mini adventure that can be strung together into the larger story. Here's an example:
 
 - Leg 1 - The Strange Auction: A mysterious idol goes missing at a high class auction and the adventurers need to hunt down it's whereabouts.  There are a few different story beats that occur like a chase and a puzzle, which result in the thief being captured. Clearly he is not the mastermind, and fenced off the idol to his boss, leading into leg 2
 
 - Leg 2 - The Journey to Cairo: After discovering that the idol was sent to a rich philanthropist named Baron Chomsky, the adventurers catch a direct flight to Cairo. There is trouble on the plane, and shortly it is hijacked by members of a strange cult. The plane goes down, and the adventurers find themselves struggling to survive in the desert. They find an outpost and resupply after clearing it of the cultists.
 
-- Leg 3 - An Unholy Weapon: The adventurers head into the city and find a tense struggle between the Baron and the Cultists. Both are vying for the idol and the Baron brought it one step closer to the city. The characters take a few leads from locals and head towards an abandoned temple. The Baron is attempting to use the idol to activate a powerful weapon, but the Baron and the adventurers are both ambushed by the cult!
+- Leg 3 - An Unholy Weapon: The adventurers head into the city and find a tense struggle between the Baron and the Cultists. Both are vying for the idol and the Baron brought it one step closer to the city. The adventurers take a few leads from locals and head towards an abandoned temple. The Baron is attempting to use the idol to activate a powerful weapon, but the Baron and the adventurers are both ambushed by the cult!
 
 As you can see, each [*Leg*](#legs) is a contained segment of the story, like an episode of a TV show. There is a central antagonist to each, but they slowly build up from a cat burglar to the Baron.
 
@@ -303,23 +290,23 @@ As you can see, each [*Leg*](#legs) is a contained segment of the story, like an
 
 Each [*Leg*](#legs) is broken up into a series of events, called [*Encounters*](#encounters). In each [*Encounter*](#encounters), there is a setting, cast, obstacles, and often a major objective. We can think of each [*Encounter*](#encounters) as a story beat; some result in high moments for the adventurers, while others plunge them into the depths of dispair.
 
-An [*Encounter*](#encounters) will often involve many [*Gambles*](#gambles) in order to determine the outcome of the players' actions. For example, one [*Encounter*](#encounters) in the example [*Leg*](#legs) 1 above might be the chase through the city streets. There is a clear goal, setting, cast and a gauntlet of obstacles.
+An [*Encounter*](#encounters) will often involve many [*Gambles*](#gambles) in order to determine the outcome of the players' actions. For example, one [*Encounter*](#encounters) in the example above might be the chase through the city streets. There is a clear goal, setting, cast and a gauntlet of obstacles.
 
 Regardless of whether an [*Encounter*](#encounters) ends well for the players, the story must go on. It is up to the [*Director*](#the-director) to provide new threads to follow so that even if the burgler gets away, there is a still a story to tell.
 
 ### Tumults
 
-Sometimes all hell breaks loose and the characters find themselves in a high stakes scenario. This is known as a [*Tumult*](#tumults). In a [*Tumult*](#tumults), time is slowed down, and players act on a turn so as to establish some sense of order.
+Sometimes all hell breaks loose and the adventurers find themselves in a high stakes scenario. This is known as a [*Tumult*](#tumults). In a [*Tumult*](#tumults), time is slowed down, and players act on a turn so as to establish some sense of order.
 
-At the beginning of a [*Tumult*](#tumults), each player rolls to see how many [*Blammo! Dice*](#blammo-dice) are available to them during the [*Tumult*](#tumults). [*Blammo! Dice*](#blammo-dice) are detailed later, but in essence, they define how many things a player can do during the [*Tumult*](#tumults).
+At the beginning of a [*Tumult*](#tumults), each player rolls to see how many [*Blammo! Dice*](#blammo-dice) are available to them during the [*Tumult*](#tumults). [*Blammo! Dice*](#blammo-dice) are pooled for each adventurer at the start of a [*Tumult*](#tumults) and are spent to perform daring actions.
 
-In a [*Tumult*](#tumults), failed rolls on the players’ end as well as successful rolls on the opponents’ end can translate to an increase of [*Stress*](#stress). No actual damage is tracked or taken, but it is assumed that the character deals with a wound through an increase in [*Stress*](#stress).
+In a [*Tumult*](#tumults), failed rolls on the players’ end as well as successful rolls on the opponents’ end can translate to an increase of [*Stress*](#stress). No actual damage is tracked or taken, but it is assumed that the adventurer deals with a wound through an increase in [*Stress*](#stress).
 
 A [*Tumult*](#tumults) will typically end when one side is knocked out, fleeing, or surrendered. In the player's case, if they collectively run out of [*Blammo! Dice*](#blammo-dice) then their best course of action is to turn tail and run, since they can't make many more daring moves. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumults) is over.
 
 ### Gambles
 
-Whenever a character wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player rolls 1d6.
+Whenever a adventurer wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player rolls 1d6.
 
 | Roll | Result |
 | ---- | ---- |
@@ -332,11 +319,13 @@ Whenever a character wants to do something that has a chance of failure, they ma
 
 #### Blunder
 
-On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed. 
+On a Blunder, the player's character instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed.
+On a Blunder, the player's adventurer instantly increases their [*Stress*](#stress) by 1, and the [*Director*](#the-director) then describes how the action failed. 
 
 #### Success
 
 On a Success, the [*Director*](#the-director) describes how the action succeeds, but can apply twists or caveats at their discretion.
+On a Success, the [*Director*](#the-director) describes how the action succeeds, but can give some descriptive agency to the player.
 
 #### Critical Success
 
@@ -344,7 +333,7 @@ On a Critical Success, the player takes full narrative agency and describes how 
 
 ### Modifiers
 
-Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). Depending on what you have at your disposal, and the situation you've been thrust into, you may get to add more dice to your pool.
+Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). Depending on what you have at your disposal you may get to add more dice to your pool.
 
 #### Bonus Dice
 
@@ -356,11 +345,11 @@ Sometimes a player might have a penalty applied from [*Equipment*](#equipment) o
 
 ### Lucky Saves
 
-During character creation, as well as the start of each new leg of an adventure, your character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
+At the start of each new leg of an adventure, your adventurer generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure adventurers have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
 
 ### Flashpoints
 
-Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During an [*Encounter*](#encounters) or a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. If taking turns during a [*Tumult*](#tumults) this happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing the situation's entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
+Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. This happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
 
 - A friendly NPC appears
 - A not-so-friendly NPC appears
@@ -373,37 +362,37 @@ Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towa
 
 As adventurers encounter the weird, strange, and sinister, they can add to their [*Threads*](#threads). At the Director’s discretion, the players can add an idea, group, or person to their sheet after learning more about it.  
 
-Often this occurs at the end of a [*Leg*](#legs). The characters bust the secret hideout of a dastardly cult and thus earn a [*Thread*](#threads) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Thread*](#threads) for said civilization.
+Often this occurs at the end of a [*Leg*](#legs). The adventurers bust the secret hideout of a dastardly cult and thus earn a [*Thread*](#threads) about the cult at large. Another example could be unearthing an idol of a lost civilization and thereby gaining a [*Thread*](#threads) for said civilization.
 
 [*Threads*](#threads) can then be leveraged as Modifiers when making a [*Gamble*](#gambles). If a roll involves something a player has a [*Thread*](#threads) about, it grants them a bonus die. If a player has a [*Thread*](#threads) about a cult, they could apply a bonus die to breaking into the cult’s secret door, escaping a monster the cult has summoned, or even punching a member of the cult in the face.
 
-Each character can have a maximum of two [*Threads*](#threads). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
+Each adventurer can have a maximum of two [*Threads*](#threads). If you have two and the [*Director*](#the-director) offers another, you can choose to discard one and add the new one to your sheet.
 
 ### Stress
 
 No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Stress*](#stress) and the resulting [*Knockouts*](#knockouts).
 
-Whenever a character has something negative happen to them, a character often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
+Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Stress*](#stress). Their [*Stress*](#stress) ranges from 0-6 at any given time and is often gained from a Blunder.
 
-[*Stress*](#stress) can be managed anytime the characters are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all characters are allowed to make a [*Stress Test*](#stress).
+[*Stress*](#stress) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Stress Test*](#stress).
 
 ### Stress Test
 
 During a [*Stress Test*](#stress), each player rolls 1d6. If the result is higher than their current [*Stress*](#stress), it decreases by one. For example, if a player has 3 [*Stress*](#stress), and they roll a 5 on their [*Stress Test*](#stress), their [*Stress*](#stress) decreases to 2.
 
-The players should narrate how their character recovers (or doesn’t) during this [*Stress Test*](#stress). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
+The players should narrate how their adventurer recovers (or doesn’t) during this [*Stress Test*](#stress). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
 
 ### Knockouts
 
-When a character reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a character finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a character becoming too tired to go on.
+When a adventurer reaches 6 [*Stress*](#stress), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to go on.
 
-Once a character gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent, and once you accrue them you can never get rid of them. Should your character obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
+Once a adventurer gains a [*Knockout*](#knockouts), their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
 
 ### Retirement
 
-Not even pulp characters are invincible, and eventually they must meet their end. If your character reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
+Not even pulp adventurers are invincible, and eventually they must meet their end. If your adventurer reaches 4 [*Knockouts*](#knockouts), fear not, because they are not out of the game immediately.
 
-Retired characters continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) Modifiers to any roll.
+Retired adventurers continue play until the end of the adventure’s [*Leg*](#legs). Until then, their [*Stress*](#stress) will not increase, but they cannot receive [*Bonus Dice*](#bonus-dice) modifiers to any roll.
 
 ### Insights
 
@@ -419,7 +408,7 @@ As detailed in the [*Tumult*](#tumults) section, [*Blammo! Dice*](#blammo-dice) 
 
 To do anything in the [*Tumult*](#tumults) that would require daring wits or skill, you must spend a [*Blammo! Dice*](#blammo-dice). When you want to narrate your character’s action, you can ask the [*Director*](#the-director) if said action would cost any [*Blammo! Dice*](#blammo-dice).
 
-Some examples of times when you would have to spend a [*Blammo! Dice*](#blammo-dice) include:
+Some examples of daring actions include:
 
 - Running past a group of guards to snatch a precious idol
 
@@ -427,7 +416,7 @@ Some examples of times when you would have to spend a [*Blammo! Dice*](#blammo-d
 
 - Cracking a safe whilst being pursued by the police
 
-Examples of non [*Blammo! Dice*](#blammo-dice) actions include:
+Examples of non daring actions include:
 
 - Putting distance between you and a growling hound
 
@@ -449,7 +438,7 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 - Don't feel the need to add lots of sub-plots and things happening in the background. It's certainly a good thing to have a twist or a secret to deploy, but the players will likely be driving the main focus of the adventure
 
-- You are not the villain. You might be playing a villainous character sometimes, but you are still a friend at the table. You should be rooting for the characters, helping them find whatever bonuses they can get.
+- You are not the villain. You might be playing a villainous adventurer sometimes, but you are still a friend at the table. You should be rooting for the adventurers, helping them find whatever bonuses they can get.
 
 - When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
@@ -457,7 +446,7 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 In ENIGMA, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
 
-This doesn’t mean that characters don’t get injured, but rather, any injuries manifest as an increase of overall Stress. If a character twists their ankle, their Stress should increase yes, but they still narratively stop and bandage the wound or find a stick to walk with.
+This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall Stress. If a adventurer twists their ankle, their Stress should increase yes, but they still narratively stop and bandage the wound or find a stick to walk with.
 
 As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stress) when necessary. Here is a list of some common places this might happen:
 
@@ -469,9 +458,9 @@ As the [*Director*](#the-director), it is your job to dole out [*Stress*](#stres
 
 ### Adventuring Strain
 
-During games characters will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress Test*](#stress-test).
+During games adventurers will accumulate lots of [*Stress*](#stress). [*Stress*](#stress) is always recovered at a time and rate appropriate to the story. If the players want to keep forging ahead through the night, don’t let them make a [*Stress Test*](#stress-test).
 
-That being said, if every character gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
+That being said, if every adventurer gets knocked out because of mismanaged [*Stress*](#stress), don’t let that halt the story progression. One simple solution is to have all the players awake, just to find themselves captured by the enemy!
 
 ### Dangers
 
@@ -483,6 +472,8 @@ NPC’s and other figures you control typically don’t manage [*Stress*](#stres
 | Minion | 1 | 2 |
 | Lieutenant | 2-3 | 5 |
 | Villain | 4-5 | 10 |
+
+As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manpulating [*Stress*](#stress) or [*Blammo! Dice*](#blammo-dice) to smooth over the action.
 
 ### Uncovering Treasure
 
@@ -513,7 +504,7 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Penalties*](#penalties)
 
-- Remove one dice per piece of [*Equipment*](#equipment) or external factor that hinders the character.
+- Remove one dice per piece of [*Equipment*](#equipment) or external factor that hinders the adventurer.
 
 [*Lucky Saves*](#lucky-saves)
 
@@ -541,9 +532,9 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Knockouts*](#knockouts)
 
-- When a character reaches 6 [*Stress*](#stress), they gain a Knockout
-- Once a character gains a Knockout, their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
-- If you accrue 4, your character must enter [*Retirement*](#retirement)
+- When a adventurer reaches 6 [*Stress*](#stress), they gain a Knockout
+- Once a adventurer gains a Knockout, their [*Stress*](#stress) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
+- If you accrue 4, your adventurer must enter [*Retirement*](#retirement)
 
 [*Insights*](#insights)
 
