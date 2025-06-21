@@ -1,10 +1,10 @@
 ---
 layout: default
 title: SRD
-nav_exclude: true
+nav_order: 2
 ---
 
-# ENIGMA SRD V1.1
+# ENIGMA SRD V1.2
 {: .no_toc }
 
 <details close markdown="block">
@@ -18,7 +18,7 @@ nav_exclude: true
 
 ## Licensing
 
-ENIGMA System Reference Document V1.1, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
+ENIGMA System Reference Document V1.2, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
 
 ## Introduction
 
@@ -95,7 +95,7 @@ Select up to two pieces of [*Equipment*](#equipment) that help shape your advent
 
 ### Knacks
 
-This is your chance to say what your adventurer is great at. Sometimes a adventurer's [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
+This is your chance to say what your adventurer is great at. Sometimes an adventurer's [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
 [*Knacks*](#knacks) are meant to be specific. Avoid generics like "Listening" or "Shooting". Instead, your adventurer might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to music". Select up to three [*Knacks*](#knacks) for your adventurer, discussing with the table as you did with [*Equipment*](#equipment).
 
@@ -277,39 +277,55 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 ### Gambles
 
-Whenever a adventurer wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player rolls 1d6.
+Whenever an adventurer wants to do something that has a chance of failure, they make a [*Gamble*](#gambles). To do this, the player first states generally what they want to happen on a [*Success*](#success). The [*Director*](#the-director) then sets the stakes; they can either state themselves what will happen on a [*Blunder*](#blunder), or ask the players for ideas. Then the player rolls 1d6.
 
 #### Success
 
-If the player rolls a 5 or a 6, their action succeeds. The player then describes how this success looks with their adventurer.
+If the player rolls a 5 or a 6, their action succeeds. The player then describes their adventurer's actions with a flourish.
 
 #### Blunder
 
-If the player only rolls 1-4, their action fails. The [*Director*](#the-director) then describes how the action failed and any consequences.
+If the player only rolls 1-4, their action fails. The adventurer automatically gains 1 [*Peril*](#peril), and the [*Director*](#the-director) then describes the failure, building off of the stakes set earlier.
 
-Pulp adventurers never fail forever though, and eventually they'll have their big break. Whenever a gamble results in a blunder, that player adds 1 [*Blammo! Dice*](#blammo-dice) to their sheet.
+Pulp adventurers never fail forever though, and eventually they'll have their big break. Whenever a gamble results in a blunder, that player also adds 1 [*Blammo! Dice*](#blammo-dice) to their sheet.
 
 ### Modifiers
 
-Often times, you won't only be rolling a single dice on a [*Gamble*](#gambles). Depending on what you have at your disposal you may get to add more dice to your pool.
+Often times, you won't only be rolling a single die on a [*Gamble*](#gambles). Depending on what you have at your disposal you may get to add more dice to your pool.
 
 #### Bonus Dice
 
-For each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads) or external factor that provides some advantage to the action being taken, roll one additional dice.
+For each [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Dice*](#blammo-dice), or external factor that provides some advantage to the action being taken, roll one additional die.
 
 #### Penalties
 
-Sometimes a player might have a penalty applied from [*Equipment*](#equipment) or other external factors. For each penalty applied, the player rolls one less dice. Penalties can only ever reduce your dice pool to 1.
+Sometimes a player might have a penalty applied from [*Equipment*](#equipment) or other external factors. For each penalty applied, the player rolls one less die. Penalties can only ever reduce your dice pool to 1.
+
+### Blammo! Dice
+
+Every dog has their day, and every adventuerer has an opportunity to do something daring. Whenever a player fails a [*Gamble*](#gambles), they gain a [*Blammo! Dice*](#blammo-dice). There is no limit to how many [*Blammo! Dice*](#blammo-dice) an adventurer may accrue, and they can be used on any [*Gamble*](#gambles).
+
+For each [*Blammo! Dice*](#blammo-dice) the player wants to spend, they must state a unique onomatopoeia (that hasn't been used yet by any of the players). The player then describes where the sound effects would appear in the event they succeed. For example, if a player is making a [*Gamble*](#gambles) to throw a large vase at a goon, and wishes to spend a [*Blammo! Dice*](#blammo-dice), they might come up with the sound "PLUNK!" and place the sound where the vase hits the goon in the head.
+
+Unlike [*Lucky Saves*](#lucky-saves), these dice cannot be used retroactively; that is, if a [*Gamble*](#gambles) is failed but the adventurer still has [*Blammo! Dice*](#blammo-dice) to spend, they cannot roll more dice. Once the [*Gamble*](#gambles) is made, the die are cast.
+
+### Lending a Hand
+
+Sometimes a player may want to help another player out, especially if they have some skill or expertise. In this case, allow any players who have a [*Knack*](#knacks) or piece of [*Equipment*](#equipment) that would be relevant to grant the helped player a [*Bonus Dice*](#bonus-dice). Each player can only give one [*Bonus Dice*](#bonus-dice) when helping.
+
+### Group Gambles
+
+In other cases, all of the players are working to accomplish (or survive) something. In this case, they can make a [*Group Gamble*](#group-gambles)  the players collectively decide the [*Success*](#success) and [*Blunder*](#blunder) outcomes, and then each make a [*Gamble*](#gambles) as they normally would, applying any relevant [*Bonus Dice*](#bonus-dice). If the majority of the [*Gambles*](#gambles) result in a [*Success*](#success), the adventurers succeed. Otherwise, the [*Group Gamble*](#group-gambles) results in a [*Blunder*](#blunder), and [*Peril*](#peril) increases for all players.
 
 ### Lucky Saves
 
 At the start of each new leg of an adventure, your adventurer generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure adventurers have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) you spend after making a [*Gamble*](#gambles), you may increase the value on a die by one. For example, if you rolled a 3, you could spend a [*Lucky Save*](#lucky-saves) to increase it to a 4. Keep in mind that you won’t get more points until the next [*Leg*](#legs).
 
-### Blammo! Dice
+#### Just The Thing!
 
-Every dog has their day, and every adventuerer has an opportunity to do something daring. Whenever a player fails a [*Gamble*](#gambles), they gain a [*Blammo! Dice*](#blammo-dice). There is no limit to how many [*Blammo! Dice*](#blammo-dice) an adventurer may accrue, and they can be used on any [*Gamble*](#gambles). Unlike [*Lucky Saves*](#lucky-saves), these dice cannot be used retroactively; that is, if a [*Gamble*](#gambles) is failed but the adventurer still has [*Blammo! Dice*](#blammo-dice) to spend, they cannot roll more dice. Once the [*Gamble*](#gambles) is made, the die are cast.
+This is an optional rule which can be used at the [*Director's*](#the-director) discretion. Another way players can spend [*Lucky Saves*](#lucky-saves) is to spend one to produce a piece of equipment or an item that would be useful for them in that moment. Entered a dark cavern and nobody thought to bring a flashlight? Spend a [*Lucky Save*](#lucky-saves) to make that problem go away. 
 
-### Flashpoints
+#### Flashpoints
 
 This is an optional rule which can be used at the [*Director's*](#the-director) discretion. Another way players can spend [*Lucky Saves*](#lucky-saves) is to pool them towards a [*Flashpoint*](#flashpoints). During a [*Tumult*](#tumults) the players may elect to initiate a [*Flashpoint*](#flashpoints) by collectively spending [*Lucky Saves*](#lucky-saves) equal to the number of players, split by their choosing. This happens before the players begin a new round of turns. In doing so, the [*Director*](#the-director) must now introduce a third variable to the situation. Usually a [*Flashpoint*](#flashpoints) is beneficial to the players, by nature of increasing entropy, but that doesn't always mean it's a friendly ally. Below are some samples of [*Flashpoints*](#flashpoints) that might appear:
 
@@ -334,21 +350,21 @@ Each adventurer can only have one [*Thread*](#threads) at a time. If you have on
 
 No adventurer is invincible, as slowly the strain of boldly going into the unknown will catch up to them. This is represented as [*Peril*](#peril) and the resulting [*Knockouts*](#knockouts).
 
-Whenever a adventurer has something negative happen to them, a adventurer often accumulates [*Peril*](#peril). Their [*Peril*](#peril) ranges from 0-6 at any given time and is often gained from a Blunder.
+Whenever an adventurer has something negative happen to them, an adventurer often accumulates [*Peril*](#peril). Their [*Peril*](#peril) ranges from 0-6 at any given time and is often gained from a Blunder.
 
 [*Peril*](#peril) can be managed anytime the adventurers are taking a substantial rest. This may mean a full eight hours of sleep, or just a well-deserved stop for tea in a calming location. When this happens, all adventurers are allowed to make a [*Resting*](#peril).
 
 ### Resting
 
-When [*Resting*](#resting), each player rolls 1d6. If the result is lower than their current [*Peril*](#peril), it decreases by one. For example, if a player has 4 [*Peril*](#peril), and they roll a 2, their [*Peril*](#peril) decreases to 3.
+When [*Resting*](#resting), each player rolls 1d6. If the result is less than or equal to their current [*Peril*](#peril), it decreases by one. For example, if a player has 4 [*Peril*](#peril), and they roll a 2, their [*Peril*](#peril) decreases to 3.
 
 The players should narrate how their adventurer recovers (or doesn’t) when [*Resting*](#resting). Do they meditate? Maybe they shoot cans with their revolver? Perhaps they give a rousing rant about how dire their situation is!
 
 ### Knockouts
 
-When a adventurer reaches 6 [*Peril*](#peril), they gain a [*Knockout*](#knockouts). This represents a adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize a adventurer becoming too tired to continue.
+When an adventurer reaches 6 [*Peril*](#peril), they gain a [*Knockout*](#knockouts). This represents an adventurer finally buckling under the tension and going under. This doesn’t always narratively equate to being knocked out – it may be in a brawl, but it can also just symbolize an adventurer becoming too tired to continue.
 
-Once a adventurer gains a [*Knockout*](#knockouts), their [*Peril*](#peril) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
+Once an adventurer gains a [*Knockout*](#knockouts), their [*Peril*](#peril) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters). The remaining players will have to figure out what to do with them until they wake up during the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. Should your adventurer obtain four [*Knockouts*](#knockouts), they become too weary to go on and must cease adventuring and enter [*Retirement*](#retirement).
 
 ### Retirement
 
@@ -360,7 +376,7 @@ Retired adventurers continue play until the end of the adventure’s [*Leg*](#le
 
 The silver lining to gaining [*Knockouts*](#knockouts) is that you also simultaneously gain an [*Insight*](#insights).
 
-An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Peril*](#peril) by nearly drowning in a rushing river, you gain an [*Insight*](#insights) into staying afloat and buoyancy.
+An [*Insight*](#insights) is another experiential bonus you can obtain only by screwing up. [*Insight*](#insights) reflect the nature of [*Knockouts*](#knockouts); if you gain that 6th point of [*Peril*](#peril) by nearly drowning in a rushing river, the [*Director*](#the-director) will ask you to describe the [*Insight*](#insights) you gain; you might suggest an [*Insight*](#insights) into "staying afloat even when carrying all this gear".
 
 [*Insight*](#insights) can be used whenever you or another player find themselves in a similar situation, granting them a bonus die. You learned your lesson about drowning, and your fellow adventurers also learn by avoiding your same mistakes.
 
@@ -382,15 +398,19 @@ As you can see, each [*Leg*](#legs) is a contained segment of the story, like an
 
 ### Encounters
 
-Each [*Leg*](#legs) is broken up into a series of events, called [*Encounters*](#encounters). In each [*Encounter*](#encounters), there is a setting, cast, obstacles, and often a major objective. We can think of each [*Encounter*](#encounters) as a story beat; some result in high moments for the adventurers, while others plunge them into the depths of dispair.
+Each [*Leg*](#legs) is broken up into a series of events, called [*Encounters*](#encounters). In each [*Encounter*](#encounters), there is a setting, cast, obstacles, and often a major objective. We can think of each [*Encounter*](#encounters) as a story beat; some result in high moments for the adventurers, while others plunge them into the depths of despair.
 
 An [*Encounter*](#encounters) will often involve many [*Gambles*](#gambles) in order to determine the outcome of the players' actions. For example, one [*Encounter*](#encounters) in the example above might be the chase through the city streets. There is a clear goal, setting, cast and a gauntlet of obstacles.
+
+Each [*Encounter*](#encounters) always begins with [*The Wide Shot*](#the-wide-shot) to help paint a better picture of what's going on. Then the [*Director*](#the-director) asks the players what they would like to do first.
 
 Regardless of whether an [*Encounter*](#encounters) ends well for the players, the story must go on. It is up to the [*Director*](#the-director) to provide new threads to follow so that even if the burgler gets away, there is a still a story to tell.
 
 ### Tumults
 
 Sometimes all hell breaks loose and the adventurers find themselves in a high stakes scenario. This is known as a [*Tumult*](#tumults). In a [*Tumult*](#tumults), time is slowed down, and players act on a turn so as to establish some sense of order.
+
+During a [*Tumult*](#tumults), the players always go first and can choose whatever order they want - even changing the order between rounds. On each player's turn, they may do one thing; the one thing will be distinct and if it involves skill, the [*Director*](#the-director) will call for a [*Gamble*](#gambles). Once all the players take their turns, the [*Director*](#the-director) then describes what happens with the enemies and environment.
 
 A [*Tumult*](#tumults) will typically end when one side is knocked out, fleeing, or surrendered. It is up to the [*Director*](#the-director) to ultimately decide when a [*Tumult*](#tumults) is over.
 
@@ -406,11 +426,19 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 - When in doubt, err on the rule of cool. If you don't know whether or not the players' zany plan will actually work, let them try! This doesn't mean you have to grant their every wish, but it never hurts to allow one more dice roll.
 
+### The Wide Shot
+
+This is a crucial tool for the [*Director*](#the-director) to balance the shared narration. At the start of an [*Encounter*](#encounters), you will describe initially what the adventurers might see. Then, allow each player to describe something else in their field of view their adventurer can see. Getting into a taxi? What does each adventurer see that makes them feel uneasy?
+
+Ask leading questions that force them to describe more than just a building or a person. It's very bright here, what might be contributing to the light? The basement is dark and smells strange, what here is making the smell worse?
+
+In addition to making the [*Encounter*](#encounters) more evocative, you are receiving a goldmine of adventurer-oriented worldbuilding that you can then pick up and sling right back at them later!
+
 ### Damage and Peril
 
 In ENIGMA, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
 
-This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall [*Peril*](#peril). If a adventurer twists their ankle, their [*Peril*](#peril) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
+This doesn’t mean that adventurers don’t get injured, but rather, any injuries manifest as an increase of overall [*Peril*](#peril). If an adventurer twists their ankle, their [*Peril*](#peril) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
 
 As the [*Director*](#the-director), it is your job to dole out [*Peril*](#peril) when necessary. Here is a list of some common places this might happen:
 
@@ -430,18 +458,18 @@ That being said, if every adventurer gets knocked out because of mismanaged [*Pe
 
 As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
 
-NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director).
+NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). 
 
-For each enemy, simply count the number of successful rolls made against it and compare to its threshold. For example, if an adventurer attempts to bonk a thug on the head with a frying pan, and succeeds, that is one success scored against it. This would be enough to incapacitate the thug.
+As successes are made against enemies, you can reference the threshold of successes if you are unsure of when the enemy should be bested. In most cases, the narration will dictate when enemies fall, but for major villains if can be useful to count the number of successful "hits".
 
 Each enemy also has a static dice pool they use when rolling against an adventurer to attack or cause harm. The table below has sample pool sizes.
 
-| **Enemy Type** |**Threshold** | **Dice Pool** |
+| **Enemy Type** |**Success Threshold** | **Dice Pool** |
 | Minion | 1 | 1 |
-| Lieutenant | 3 | 2 |
-| Villain | 5 | 4 |
+| Lieutenant | 2 | 3 |
+| Villain | 4 | 5 |
 
-As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manpulating enemy thresholds or dice pools to smooth over the action.
+As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manipulating enemy thresholds or dice pools to smooth over the action, or removing the need for dice rolling entirely.
 
 ### Uncovering Treasure
 
@@ -467,15 +495,15 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Penalties*](#penalties)
 
-- Remove one dice per piece of [*Equipment*](#equipment) or external factor that hinders the adventurer.
+- Remove one die per piece of [*Equipment*](#equipment) or external factor that hinders the adventurer.
 
 [*Lucky Saves*](#lucky-saves)
 
-- For each [*Lucky Save*](#lucky-saves) you spend after making a roll, you may increase the value on a die by one.
+- For each [*Lucky Save*](#lucky-saves) an adventurer spends after making a roll, they may increase the value on a die by one.
 
 [*Blammo! Dice*](#blammo-dice)
 
-- Gained on a failed [*Gamble*](#gambles). Can be spent as [*Bonus Dice*](#bonus-dice). There is no maximum.
+- Gained on a failed [*Gamble*](#gambles). Can be spent as [*Bonus Dice*](#bonus-dice). For each die spent, the player must insert a unique sound effect into their ideal result. There is no maximum.
 
 [*Threads*](#threads)
 
@@ -490,16 +518,16 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Resting*](#resting)
 
-- Roll 1d6, if lower than current [*Peril*](#peril), reduce by 1
+- Roll 1d6, if less than or equal than current [*Peril*](#peril), reduce by 1
 
 [*Knockouts*](#knockouts)
 
-- When a adventurer reaches 6 [*Peril*](#peril), they gain a Knockout
+- When an adventurer reaches 6 [*Peril*](#peril), they gain a Knockout
 - Their [*Peril*](#peril) reset to 0 and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults)
-- If you accrue 4, your adventurer must enter [*Retirement*](#retirement)
+- If an adventurer accrues 4, they must enter [*Retirement*](#retirement)
 
 [*Insights*](#insights)
 
-- Gained when you experience a Knockout
-- Reflects cause of knockout, i.e. “slipping on ice”
-- Grants a [*Bonus Dice*](#bonus-dice) to you and other players when they face a similar situation
+- Gained when ad adventurer experiences a [*Knockout*](#knockouts)
+- Reflects cause of [*Knockout*](#knockouts), i.e. “slipping on ice”
+- Grants a [*Bonus Dice*](#bonus-dice) to all adventurers  when they face a similar situation
