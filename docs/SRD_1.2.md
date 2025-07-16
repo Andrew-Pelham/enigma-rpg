@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 2
+nav_exclude: true
 ---
 
 # ENIGMA SRD V1.2
