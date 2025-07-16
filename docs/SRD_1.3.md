@@ -34,9 +34,9 @@ Enigma takes its players back to a familiar history in the early 20th century. U
 
 ## The Basics
 
-In order to play Enigma, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game. You will be telling a story as a group, faciliated by the [*Director*](#the-director).
+In order to play Enigma, you simply need these rules, some 6 sided dice, pencils, and paper. Designate one person as the [*Director*](#the-director), and have them read the rules on running the game. You will be telling a story as a group, facilitated by the [*Director*](#the-director).
 
-## Making an Character
+## Making a Character
 
 ### The Adventurer Spirit
 
@@ -317,7 +317,7 @@ The player rolls: 3 and 6. Success!
 
 ### Group Gambles
 
-In some cases, all of the players are working to accomplish (or survive) something. In this case, they can make a [*Group Gamble*](#group-gambles)  the players collectively decide the [*Success*](#success) and [*Blunder*](#blunder) outcomes, and then each make a [*Gamble*](#gambles) as they normally would, applying any relevant [*Bonus Dice*](#bonus-dice). If the majority of the [*Gambles*](#gambles) result in a [*Success*](#success), the characters succeed. Otherwise, the [*Group Gamble*](#group-gambles) results in a [*Blunder*](#blunder), and [*Peril*](#peril) increases for all players.
+In some cases, all of the players are working to accomplish (or survive) something. In this case, they can make a [*Group Gamble*](#group-gambles). The players collectively decide the [*Success*](#success) and [*Blunder*](#blunder) outcomes, and then each make a [*Gamble*](#gambles) as they normally would, applying any relevant [*Bonus Dice*](#bonus-dice). If the majority of the [*Gambles*](#gambles) result in a [*Success*](#success), the characters succeed. Otherwise, the [*Group Gamble*](#group-gambles) results in a [*Blunder*](#blunder), and [*Peril*](#peril) increases for all players.
 
 ### Blammo! Dice
 
@@ -325,7 +325,7 @@ Every dog has their day, and every character gets a chance to do something darin
 
 To spend a [*Blammo! Dice*](#blammo-dice), the player must declare a unique onomatopoeia—one that hasn't been used yet by any other player. They then describe where that sound effect appears if the [*Gamble*](#gambles) succeeds. For example, a player throwing a vase at a goon might say, “PLUNK!” and narrate the moment the vase crashes into the goon's head.
 
-Unlike [*Lucky Save*](#lucky-saves), [*Blammo! Dice*](#blammo-dice) must be spent before the roll. If a [*Gamble*](#gambles) is already resolved, it's too late to use them. Once the [*Gamble*](#gambles) is rolled, the die are cast.
+Unlike [*Lucky Save*](#lucky-saves), [*Blammo! Dice*](#blammo-dice) must be spent before the roll. If a [*Gamble*](#gambles) is already resolved, it's too late to use them. Once the [*Gamble*](#gambles) is rolled, the dice are cast.
 
 ### Lucky Saves
 
@@ -440,9 +440,9 @@ As the [*Director*](#the-director) you will present the [*Encounters*](#encounte
 
 ### The Wide Shot
 
-This is a crucial tool for the [*Director*](#the-director) to balance the shared narration. At the start of an [*Encounter*](#encounters), you will describe initially the space around the characters. Then, allow each player to describe something else in their field of view their character can see. Getting into a taxi? What does each character see that makes them feel uneasy?
+This is a crucial tool for the [*Director*](#the-director) to balance the shared narration. At the start of an [*Encounter*](#encounters), you will initially describe the space around the characters. Then, allow each player to describe something else in their field of view their character can see. Getting into a taxi? What does each character see that makes them feel uneasy?
 
-Ask leading questions that force them to describe more than just a building or a person. It's very bright here, what might be contributing to the light? The basement is dark and smells strange, what here is making the smell worse?
+Ask leading questions that force them to describe more than just a building or a person. It's very bright here, what might be contributing to the light? The basement is dark and smells strange, what is making the smell worse?
 
 In addition to making the [*Encounter*](#encounters) more evocative, you are receiving a goldmine of character-oriented worldbuilding that you can then pick up and sling right back at them later!
 
@@ -450,7 +450,7 @@ In addition to making the [*Encounter*](#encounters) more evocative, you are rec
 
 In Enigma, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
 
-This doesn’t mean that characters don’t get injured, but rather, any injuries manifest as an increase of overall [*Peril*](#peril). If an character twists their ankle, their [*Peril*](#peril) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
+This doesn’t mean that characters don’t get injured, but rather, any injuries manifest as an increase of overall [*Peril*](#peril). If a character twists their ankle, their [*Peril*](#peril) increases, but they still narratively stop and bandage the wound or find a stick to walk with.
 
 As the [*Director*](#the-director), it is your job to dole out [*Peril*](#peril) when necessary. Here is a list of some common places this might happen:
 
@@ -468,13 +468,13 @@ That being said, if every character gets knocked out because of mismanaged [*Per
 
 ### Dangers
 
-As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchman or a boulder rolling down the corridor, these barriers make the game exciting.
+As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchmen or a boulder rolling down the corridor, these barriers make the game exciting.
 
 NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). 
 
-As successes are made against enemies, you can reference the threshold of successes if you are unsure of when the enemy should be bested. In most cases, the narration will dictate when enemies fall, but for major villains if can be useful to count the number of successful "hits".
+As successes are made against enemies, you can reference the threshold of successes if you are unsure of when the enemy should be bested. In most cases, the narration will dictate when enemies fall, but for major villains it can be useful to count the number of successful "hits".
 
-Each enemy also has a static dice pool they use when rolling against an character to attack or cause harm. The table below has sample pool sizes.
+Each enemy also has a static dice pool they use when rolling against a character to attack or cause harm. The table below has sample pool sizes.
 
 | **Enemy Type** |**Success Threshold** | **Dice Pool** |
 | Minion | 1 | 1 |
