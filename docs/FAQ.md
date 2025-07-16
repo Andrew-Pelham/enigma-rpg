@@ -1,33 +1,10 @@
 ---
 layout: default
 title: FAQ
-nav_order: 3
+nav_exclude: true
 ---
 
 # F.A.Q
-
-## What bonus dice go where?
-
-In ENIGMA there are two types of dice rolls and the distinction defines how you can apply bonus dice to the roll.
-
-Gamble Rolls:
-
-- Threads
-- Insights
-- Equipment
-- Knacks
-
-Blammo! Dice Rolls:
-
-- More Blammo! Dice
-
-So to clarify, the only dice roll which you can’t apply bonus dice to is when you are rolling Blammo! Dice. However, when you generate your Blammo! Dice at the start of a Tumult, that is a Gamble, and all other bonus dice can be applied.
-
-## So weapons don’t do anything?
-
-Mechanically, sort of. In a Tumult, a piece of relevant equipment grants a bonus dice to your Blammo! Dice generation, giving you more dice to use later on. Keep in mind that Blammo! Dice can be used for any sort of daring act, not just fighting.
-
-Functionally this allows for more creativity in the chaos; for example, if a brawny fighter with lots of weapons generates 10 Blammo! Dice, he can in turn use those to aid in cracking a safe. He can still make attacks and do so with his weapon of choice, but the weapons help grant him those opportunistic dice, which can be used on anything he pleases.
 
 ## Why use a d6 system?
 
