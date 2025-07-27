@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# ENIGMA SRD V1.3
+# ENIGMA SRD V1.3 
 {: .no_toc }
 
 <details close markdown="block">
@@ -156,7 +156,7 @@ For inspiration, look towards figures like Bruce Lee, Rocky Balboa, Captain Hadd
 |  Flask of whiskey | Billy club | Sturdy boots | Chair leg | Rusty pickup truck | Frying Pan |
 | Switchblade | Revolver | Flak vest | Length of chain | Handgrenade | Sandwich |
 | Dice set | Throwing axe | Flat Cap | Bar stool | Glass shard | Roll of duct tape |
-| Brass knuckles | Trench knife | Arm guards | Lead pipe | Cloth wrap | Rope |
+| Wrench | Trench knife | Arm guards | Lead pipe | Cloth wrap | Rope |
 |  Cigar case | Shotgun | Knee pads | Fire extinguisher | Two-by-four | Set of keys |
 
 ### The Researcher
@@ -180,7 +180,7 @@ For inspiration, look towards figures like Dr. Ellie Satler, Professor Phillip M
 
 #### Sample Researcher Equipment
 
-|  Microscope | Encyclopedia set | Magnifying glass | Telegraph key | Reading glasses | Vacuum Tube |
+|  Microscope | Encyclopedia set | Lens | Telegraph key | Reading glasses | Vacuum Tube |
 |  Test tubes and chemicals | Field journal | Slide rule | Notebook and pen | Pocket protector | Chalk and blackboard |
 |  Pocket watch | Rolodex of contacts | Portable generator | Portable radio | Lab coat | Compass |
 |  Small telescope | Scientific journal | Soldering iron | Signal flags | Tweezers | Set of vials |
@@ -241,7 +241,7 @@ For inspiration, look towards figures like Indiana Jones, Lara Croft, Roald Amun
 | Sextant | First aid kit | Utility belt | Lantern | Bow and arrows | Local currency |
 | Altimeter | Hunting knife | Leather backpack | Portable stove | Throwing knives | Tribal mask |
 | Chronometer | Rope | Water purification tablets | Field journal | Whip | Pocketwatch |
-| Signal mirror | Binoculars | Sunblock | Shovel | Kukri | Compass |
+| Signal mirror | Binoculars | Sunblock | Shovel | Kukri | Astrolabe |
 
 ### The Operator
 
