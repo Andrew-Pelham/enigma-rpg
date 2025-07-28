@@ -2,6 +2,7 @@
 layout: default
 title: FAQ
 nav_exclude: true
+search_exclude: true
 ---
 
 # F.A.Q

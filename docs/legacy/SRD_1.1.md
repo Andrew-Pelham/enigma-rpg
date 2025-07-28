@@ -2,6 +2,7 @@
 layout: default
 title: SRD
 nav_exclude: true
+search_exclude: true
 ---
 
 # ENIGMA SRD V1.1
