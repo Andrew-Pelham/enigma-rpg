@@ -4,9 +4,9 @@ title: Music
 nav_order: 3 
 ---
 
-# Soundtrack Inspiration
+# Pulp Soundtracks
 
-These albums help set the tone for high-stakes, globe-trotting pulp adventures in ENIGMA. Click the album cover to open on Spotify.
+These albums help set the tone for high-stakes, globe-trotting pulp adventures in ENIGMA. Feel free to use them in your games for backing tracks or inspiration when creating adventures!
 
 ---
 
