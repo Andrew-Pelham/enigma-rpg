@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Music
-nav_order: 3 
+title: Soundtracks
+nav_order: 5 
 ---
 
 # Pulp Soundtracks
