@@ -30,36 +30,36 @@ These albums help set the tone for high-stakes, globe-trotting pulp adventures i
 
 <div class="album-grid">
 
-<a href="https://open.spotify.com/album/4U7O1fAKB5NaA9YnOYBncD" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d97b8f52cdd1c20dc8b2f1d1" alt="Indiana Jones and the Last Crusade" />
+<a href="https://open.spotify.com/album/57JDZNjlc0W3oQJjOscraH?si=Qs_s6d18QRSW3YTsz3TJEA" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731537c98092c5c6d58986b64d" alt="Indiana Jones and the Last Crusade" />
 </a>
 
-<a href="https://open.spotify.com/album/6bgJYt2gGdQpKPAbL9Mvyl" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc2f72f5ec0a32e2f998273e" alt="The Mummy" />
+<a href="https://open.spotify.com/album/5npe6B2eEGqG4g6jYk71Kb?si=mtcX8AQAQO60iweRhjjgKQ" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ed63cb818820ddb3612f9d79" alt="The Mummy" />
 </a>
 
-<a href="https://open.spotify.com/album/3u95MaohpfZACa1BP8rpsw" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b27350f67dc09a208a705accaa06" alt="Pathway" />
+<a href="https://open.spotify.com/album/79cRKy9bV0Oh3NpzpWCKtn?si=ZyP-6fxbR7ma7iez9BA_Bg" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b27325e7198c9725c6682c94bf0d" alt="Pathway" />
 </a>
 
-<a href="https://open.spotify.com/album/1vhTLd0kuU4fdUjHgLxkt4" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b27336a3f324d4d79b33d6a3f51f" alt="The Adventures of Tintin" />
+<a href="https://open.spotify.com/album/3nZbLNMtn9PLjxewl69Tbn?si=3ReQ-Dn7SBStkrGDuqi2hg" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b27321b4c4daee07435749b83486" alt="The Adventures of Tintin" />
 </a>
 
-<a href="https://open.spotify.com/album/1OHEYo6l5n0xmnH20p0Vl2" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ee69327c92c88c5c2719ac6e" alt="Atlantis: The Lost Empire" />
+<a href="https://open.spotify.com/album/4eFumnnXygQ7sq9f3CPBb6?si=d-0JRZHOQaSjs8R67-8CbQ" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8bb2734df368331213d68ff" alt="Atlantis: The Lost Empire" />
 </a>
 
-<a href="https://open.spotify.com/album/2cYwEVkKwk2mWY5PVo1u0z" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273be099a0594e9ce4448cb70ef" alt="Assassin’s Creed Syndicate" />
+<a href="https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf?si=PxKAZL2JQ6KytuJuUgUD3g" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f4d41f3423642520a37f9e19" alt="Assassin’s Creed Syndicate" />
 </a>
 
-<a href="https://open.spotify.com/album/2hPJSnleXcA74RxB2PrwGf" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737f15df10b8e97e09a7a56d1b" alt="Uncharted 3: Drake’s Deception" />
+<a href="https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7?si=6DKh6V1ATWC62LL60fKTUQ" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f1814e76fafa3cf3016c0d01" alt="Uncharted 3: Drake’s Deception" />
 </a>
 
-<a href="https://open.spotify.com/album/6c37nZLIRbHWwBIIv6QI1p" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273XXXXXXXXXXXXX" alt="Raiders of the Lost Ark" />
+<a href="https://open.spotify.com/album/6c37nZLIRbHWwBIIv6QI1p?si=kAOMT00MRbydSeYPoRRi6Q" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dddd581b75644d0ee9bf0974" alt="Raiders of the Lost Ark" />
 </a>
 
 </div>
