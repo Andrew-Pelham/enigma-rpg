@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Media Archives
-nav_order: 6 
+nav_order: 5 
 ---
 
 # Media Archives
+
+<img src="/assets/img/pulp_banner_4.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
 
 These curated archives house public domain pulp fiction, adventure serials, and golden-age illustrations from the 1910s–50s. Every site listed here offers free, legal access to digitized vintage materials.
 

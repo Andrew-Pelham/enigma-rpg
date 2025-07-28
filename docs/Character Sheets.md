@@ -6,6 +6,8 @@ nav_order: 3
 
 # Character Sheets & Resources
 
+<img src="/assets/img/pulp_banner_2.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
+
 Below are downloadable character sheets and other player aids for your Enigma adventures.
 
 <style>

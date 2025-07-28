@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Soundtracks
-nav_order: 5 
+nav_order: 4 
 ---
 
 # Pulp Soundtracks
+
+<img src="/assets/img/pulp_banner_1.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
 
 These albums help set the tone for high-stakes, globe-trotting pulp adventures in ENIGMA. Feel free to use them in your games for backing tracks or inspiration when creating adventures!
 
@@ -63,3 +65,4 @@ These albums help set the tone for high-stakes, globe-trotting pulp adventures i
 </a>
 
 </div>
+

@@ -1,11 +1,13 @@
 ---
 layout: default
-title: SRD
+title: System Reference Document
 nav_order: 2
 ---
 
 # ENIGMA SRD V1.3 
 {: .no_toc }
+
+<img src="/assets/img/pulp_banner_5.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
 
 <details close markdown="block">
   <summary id="index">
