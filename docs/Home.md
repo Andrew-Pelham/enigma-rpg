@@ -13,4 +13,4 @@ Enigma is a pulp adventure roleplaying game set in the early 1900's, inspired by
 
 Enigma uses a simple yet engaging rules system that emphasizes storytelling, player creativity, and teamwork. Whether you're solving a mystery in the heart of a jungle or navigating the high-stakes world of espionage, every session is filled with action, intrigue, and discovery.
 
-Check out the SRD to get started!
+Check out the SRD to learn the rules, and head to the Downloads for character sheets and an introductory adventure!

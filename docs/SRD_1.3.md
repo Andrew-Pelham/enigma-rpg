@@ -295,11 +295,11 @@ Often, you won’t roll just one die when making a [*Gamble*](#gambles). Dependi
 
 #### Bonus Dice
 
-Add one die for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Dice*](#blammo-dice), or external advantage that applies to the action.
+Add one die for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Die*](#blammo-dice), or external advantage that applies to the action.
 
 #### Penalties
 
-Some E[*Equipment*](#equipment) or external factors may impose penalties. For each penalty, remove one die from your pool. A [*Gamble*](#gambles) can never be reduced below 1 die, no matter how many penalties apply.
+Some [*Equipment*](#equipment) or external factors may impose penalties. For each penalty, remove one die from your pool. A [*Gamble*](#gambles) can never be reduced below 1 die, no matter how many penalties apply.
 
 ### Gamble Example
 
@@ -325,7 +325,7 @@ In some cases, all of the players are working to accomplish (or survive) somethi
 
 Every dog has their day, and every character gets a chance to do something daring. Whenever a character fails a [*Gamble*](#gambles), their player gains a [*Blammo! Die*](#blammo-dice). There is no limit to how many [*Blammo! Dice*](#blammo-dice) a character may accrue, and they can be spent on any [*Gamble*](#gambles).
 
-To spend a [*Blammo! Dice*](#blammo-dice), the player must declare a unique onomatopoeia—one that hasn't been used yet by any other player. They then describe where that sound effect appears if the [*Gamble*](#gambles) succeeds. For example, a player throwing a vase at a goon might say, “PLUNK!” and narrate the moment the vase crashes into the goon's head.
+To spend [*Blammo! Dice*](#blammo-dice), the player must declare a unique onomatopoeia—one that hasn't been used yet by any other player. They then describe where that sound effect appears if the [*Gamble*](#gambles) succeeds. For example, a player throwing a vase at a goon might say, “PLUNK!” and narrate the moment the vase crashes into the goon's head.
 
 Unlike [*Lucky Save*](#lucky-saves), [*Blammo! Dice*](#blammo-dice) must be spent before the roll. If a [*Gamble*](#gambles) is already resolved, it's too late to use them. Once the [*Gamble*](#gambles) is rolled, the dice are cast.
 
@@ -522,7 +522,7 @@ As the party moves along with their journey, they should earn rewards in a varie
 [*Threads*](#threads)
 
 - Gained when prompted by the [*Director*](#the-director).
-- Grants [*Bonus Dice*](#bonus-dice) to any roll directly involving that Thread.
+- Grants a [*Bonus Die*](#bonus-dice) to any roll directly involving that Thread.
 - A character may only have one [*Thread*](#threads) at a time.
 
 [*Peril*](#peril)

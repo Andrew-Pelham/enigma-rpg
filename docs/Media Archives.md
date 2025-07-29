@@ -8,14 +8,11 @@ nav_order: 5
 
 <img src="/assets/img/pulp_banner_4.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
 
-These curated archives house public domain pulp fiction, adventure serials, and golden-age illustrations from the 1910s–50s. Every site listed here offers free, legal access to digitized vintage materials.
+These curated archives house public domain pulp fiction, adventure serials, and golden-age illustrations from the 1910s–50s. Every site listed here offers free access to view digitized vintage materials.
 
 ## Public Domain Note
 
-In the U.S., any work published before 1929 is in the public domain.
-Works published from 1929–1977 can be public domain only if they weren’t renewed or complied with copyright rules.
-Most works published after 1977 are still under copyright unless explicitly released.
-Always check source notes—just because something is old or online doesn’t guarantee it’s free to use.
+In the U.S., any work published before 1929 is in the public domain. Works published from 1929–1977 can be public domain only if they weren’t renewed or complied with copyright rules. Most works published after 1977 are still under copyright unless explicitly released. Always check source notes—just because something is old or online doesn’t guarantee it’s free to use commercially.
 
 <style>
 .resource-tile-container {

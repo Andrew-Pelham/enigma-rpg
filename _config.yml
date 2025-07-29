@@ -1,5 +1,5 @@
 title: ENIGMA
-description: Franco-Belgian Pulp Adventure Roleplaying #TODO: Update with better description
+description: Franco-Belgian Pulp Adventure Roleplaying
 theme: just-the-docs
 
 url: https://www.enigma-rpg.com
@@ -7,6 +7,9 @@ url: https://www.enigma-rpg.com
 favicon_ico: "/assets/favicon.png"
 
 color_scheme: default
+
+ga_tracking: G-LJXPFMF1R4
+ga_tracking_anonymize_ip: true
 
 # Load custom SCSS file
 just_the_docs:
