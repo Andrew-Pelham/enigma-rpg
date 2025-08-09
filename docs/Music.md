@@ -33,7 +33,7 @@ These albums help set the tone for high-stakes, globe-trotting pulp adventures i
 <div class="album-grid">
 
 <a href="https://open.spotify.com/album/57JDZNjlc0W3oQJjOscraH?si=Qs_s6d18QRSW3YTsz3TJEA" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731537c98092c5c6d58986b64d" alt="Indiana Jones and the Last Crusade" />
+  <img src="https://m.media-amazon.com/images/I/81fHNgZQvsL._UF1000,1000_QL80_.jpg" alt="Indiana Jones and the Last Crusade" />
 </a>
 
 <a href="https://open.spotify.com/album/5npe6B2eEGqG4g6jYk71Kb?si=mtcX8AQAQO60iweRhjjgKQ" target="_blank">
