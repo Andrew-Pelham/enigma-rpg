@@ -52,16 +52,32 @@ These albums help set the tone for high-stakes, globe-trotting pulp adventures i
   <img src="https://i.scdn.co/image/ab67616d0000b273b8bb2734df368331213d68ff" alt="Atlantis: The Lost Empire" />
 </a>
 
-<a href="https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf?si=PxKAZL2JQ6KytuJuUgUD3g" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f4d41f3423642520a37f9e19" alt="Assassin’s Creed Syndicate" />
-</a>
-
 <a href="https://open.spotify.com/album/2Dc3L17J41tbywnJdJRPi7?si=6DKh6V1ATWC62LL60fKTUQ" target="_blank">
   <img src="https://i.scdn.co/image/ab67616d0000b273f1814e76fafa3cf3016c0d01" alt="Uncharted 3: Drake’s Deception" />
 </a>
 
 <a href="https://open.spotify.com/album/6c37nZLIRbHWwBIIv6QI1p?si=kAOMT00MRbydSeYPoRRi6Q" target="_blank">
   <img src="https://i.scdn.co/image/ab67616d0000b273dddd581b75644d0ee9bf0974" alt="Raiders of the Lost Ark" />
+</a>
+
+<a href="https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX?si=ABIOw5QXRpq3FdK5uQ_BJg" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733d2ff02d83be9464cb4666f1" alt="Ethiopiques" />
+</a>
+
+<a href="https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP?si=mGvFgM34TySkbCsvbrWTSw" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b2b4b12565a8c7c8118cb8ab" alt="Fais comme l'oiseau" />
+</a>
+
+<a href="https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6?si=UPgNOKcUS9a2apyIPrGGJg" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f80fe67d0f4293be5b8f5251" alt="L'aventurier" />
+</a>
+
+<a href="https://open.spotify.com/album/1jy0QBIfJO4ZcIruUKmCMM?si=28pp4TgGSWGX91Toh_7akA" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d00001e0219c85932b3e26c8f996eeefc" alt="Le Samourai" />
+</a>
+
+<a href="https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf?si=PxKAZL2JQ6KytuJuUgUD3g" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f4d41f3423642520a37f9e19" alt="Assassin’s Creed Syndicate" />
 </a>
 
 </div>
