@@ -4,8 +4,10 @@ title: System Reference Document
 nav_order: 2
 ---
 
-# ENIGMA SRD V1.3 
+# ENIGMA SRD V1.4
 {: .no_toc }
+
+[View full changelog »](Changelog)
 
 <img src="/assets/img/pulp_banner_5.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
 
@@ -20,19 +22,17 @@ nav_order: 2
 
 ## Licensing
 
-ENIGMA System Reference Document V1.3, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
+ENIGMA System Reference Document V1.4, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
 
 ## Introduction
 
 ### Background
 
-Enigma is a roleplaying game designed for high-stakes escapades. Inspired by old pulp adventure novels and Franco-Belgian comics with cliche villains, the system allows players to go on flashy quests and foil dastardly plots. Just like legendary heroes, players usually triumph and rarely ever die; Enigma embraces this, focusing on how the adventurers interact and the results that linger with them for the rest of their careers.
-
-Enigma was designed to create the feel of high octane adventures where players can become death defying, luck toting, cartoon pulp heros. It is an engine to tell fantastic stories with your friends.
+Enigma is a roleplaying game designed for high octane adventures. Inspired by old pulp adventure novels and Franco-Belgian comics, players lead their characters into the unknown to foil cliche villains and their dastardly plots.
 
 ### Setting
 
-Enigma takes its players back to a familiar history in the early 20th century. Ultimately it is up to the Gamemaster (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps advanced technologies are common. Regardless, there are usually villains acting upon some secret (or not-so-secret) agenda, and it is up to the players to meddle in as many ways as possible.
+Enigma takes its players back to a familiar history in the early 20th century. Ultimately it is up to the game master (or [*Director*](#the-director)) to decide what has changed. Are there new continents or countries? Perhaps advanced technologies are now common. Regardless, sinister villains run amuck, waiting for the death defying, luck toting cartoon pulp heroes to meddle in their plans.
 
 ## The Basics
 
@@ -40,15 +40,13 @@ In order to play Enigma, you simply need these rules, some 6 sided dice, pencils
 
 ## Making a Character
 
-### The Adventurer Spirit
+### The Adventuring Spirit
 
-Your character isn't a villain, a ruthless killer, or a cruel mercenary. You're an adventurer; the type of hero who would throw a punch in a bar brawl but wouldn't murder someone in cold blood. You might smash a chair over a goon's head or wallop someone's gun out of their hand, but your spirit is good-hearted. You are bold, brave, imperfect, but fundamentally heroic. When you create your character, ask yourself: Would a child cheer for this person? Would they seem larger-than-life, colorful, and brave, even when they stumble?
-
-You can be tough. You can be scrappy. But you should always feel like a "good guy".
+In Enigma, your character isn't a villain or ruthless killer; they are an adventurer. They might throw a punch in a bar brawl but they wouldn't murder somebody in cold blood. They might wallop a goon with a nearby chair but they are still good-hearted. They are imperfect, have flaws, and will stumble, but are fundamentally heroic. When you create your character ask yourself: do I feel like my character is a "good guy"?
 
 ### Archetypes
 
-In Enigma there are 6 different archetypes that are used to represent the typical characters that appear. An archetype defines the outline of your character, but by no means limits it. They help to guide you when choosing [*Equipment*](#equipment), identifying [*Knacks*](#knacks), and finding your fit in the crew.
+In Enigma there are 6 different archetypes that represent the typical characters in pulp adventure. An archetype defines the outline of your character, but by no means limits it. They help to guide you when choosing [*Equipment*](#equipment), identifying [*Knacks*](#knacks), and finding your fit in the crew.
 
 The six archetypes are as follows:
 
@@ -59,9 +57,7 @@ The six archetypes are as follows:
 - [*The Explorer*](#the-explorer)
 - [*The Operator*](#the-operator)
 
-Although a balanced group of characters keeps things diverse, by no means should the archetypes limit your choices. A group of five entertainers can be just as fun as a mix of roles.
-
-Furthermore, your character doesn’t have to be a human, and often the best companions aren’t! Whether you are a detective robot or a snowy white dog, you'll fit right in.
+Although a balanced group of characters keeps things diverse, by no means should the archetypes limit your choices. Furthermore, your character doesn’t have to be a human, and often the best companions aren’t!
 
 ### Description
 
@@ -73,15 +69,15 @@ This is what your character does on a day-to-day basis. It could be a paid job l
 
 #### Biography
 
-This is all the statistical information on your character. How old are you? Where were you born? Where do you live now? What is your full-given birth name? Either respond with stark form answers or write an elegant description.
+This is all the statistical information on your character. How old are you? Where were you born? Where do you live now? What is your full-given birth name?
 
 #### Appearance
 
 This is where you can truly describe your character's look. What’s their resting expression? How do they stand? Do they look disheveled or refined? What stands out as unique? You can also use this section to add clothes and other non-trivial items, whatever makes sense for your character.
 
-#### Drives
+#### Drive
 
-This is what keeps your character going. They may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" since the nature of an adventure might never lead you towards that. However, "The hunt for my lost father" could be a drive to keep your character adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives*](#drives) you can use if you get stuck.
+This is what keeps your character going. They may have an estate back home to take care of, a yearn for another breaking news story, or even just untreated wanderlust. This shouldn't necessarily be a specific goal to complete, like "find my lost father" but "The hunt for my lost father" could be a drive to keep your character adventuring. Each [*Archetype*](#archetypes) has a list of sample [*Drives*](#drive) you can use if you get stuck.
 
 #### Relationships
 
@@ -89,19 +85,23 @@ Select one other player at the table, and form a connection between your charact
 
 ### Equipment
 
-Every character needs tools to help them brave the unknown. This is where [*Equipment*](#equipment) comes into play. Every character can carry the necessary items they need for survival on their person - clothes, food, and the like - but [*Equipment*](#equipment) describes the items that are iconic for them. These are the things that your character is never seen without: a trusty whip, your grandfather's revolver, a professor's folding trowel.
+Every character needs tools to help them brave the unknown. This is where [*Equipment*](#equipment) comes into play. Every character can carry the necessary items they need for survival on their person but [*Equipment*](#equipment) describes the items that are iconic for them. These are the things that your character is never seen without: a trusty whip, your grandfather's revolver, a professor's folding trowel.
 
-Each piece of [*Equipment*](#equipment) your character has should help tell their story. It can be anything, not just a tool: a moldy sandwich, a dirty washrag, and an ancient stick, etc. Select up to two pieces of [*Equipment*](#equipment) that help shape your character. Think of evocative descriptions - the more specific the better.
+Each piece of [*Equipment*](#equipment) your character has should help tell their story. It can be anything, not just a tool: a moldy sandwich, a dirty washrag, and an ancient stick, etc. Select up to two pieces of [*Equipment*](#equipment) that help shape your character.
 
 ### Knacks
 
 This is your chance to say what your character is great at. Sometimes an character's [*Knack*](#knacks) might be in line with their [*Equipment*](#equipment) or profession, but it just as easily can be outside.
 
-[*Knacks*](#knacks) are meant to be specific. Avoid generics like "Listening" or "Shooting". Instead, your character might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to organ music". Select up to three [*Knacks*](#knacks) for your character, again, the more specific the better.
+[*Knacks*](#knacks) are meant to be specific. Avoid generics like "Listening" or "Shooting". Instead, your character might have a [*Knack*](#knacks) in "Throwing large nets", "Climbing over walls", or even "Listening to organ music". Select up to three [*Knacks*](#knacks) for your character.
+
+### Catchphrase
+
+Every hero also has a recognizable way of speaking, which culminates in a catchphrase. Come up with a phrase or term your character might use; once per adventure you can speak your Catchphrase to automatically succeed on a [*Gamble*](#Gambles).
 
 ### Next Steps
 
-Once you’ve built out your character, generate your character's Lucky Saves by rolling 1d6. Then, you’re done! [*Peril*](#peril), [*Threads*](#threads), and [*Insight*](#insights) will grow and change as you progress on your adventure!
+Once you’ve built out your character, generate your character's Lucky Saves by rolling 1d6. Then, you’re done! [*Peril*](#peril), [*Threads*](#threads), and [*Blammo! Die*](#blammo-dice) will grow and change as you progress on your adventure!
 
 ## The Archetypes
 
@@ -277,17 +277,21 @@ For inspiration, look towards figures like Tony Stark, Spike Spiegel, Piotr Skut
 
 ### Gambles
 
-Whenever an character wants to do something that might fail, they make a [*Gamble*](#gambles). To do this, the player first states what they hope will happen on a [*Success*](#success). The [*Director*](#the-director) then sets the stakes by explaining what will happen on a  [*Blunder*](#blunder), or by inviting the group to contribute ideas. The player then rolls 1d6.
+Whenever an character wants to do something that might fail, they make a [*Gamble*](#gambles). To do this, the player first states what they hope will happen on a [*Success*](#success). The [*Director*](#the-director) then sets the stakes by explaining what will happen on a  [*Blunder*](#blunder), or by inviting the group to contribute ideas. The player then rolls 1d6, adding any relevant [*Bonus Dice*](#bonus-dice).
 
 #### Success
 
-If the result is a 5 or 6, the action succeeds. The player narrates their character’s success with flair.
+If any die results in a 5 or 6, the action succeeds. The player narrates their character’s success with flair.
 
 #### Blunder
 
-If the result is a 1–4, the action fails. The character gains 1 [*Peril*](#peril), and the [*Director*](#the-director) describes the failure based on the previously established stakes.
+If the result is a 1–4, the action fails. The [*Director*](#the-director) describes the failure based on the previously established stakes.
 
 Pulp heroes don’t fail forever. Whenever a [*Gamble*](#gambles) results in a blunder, the player adds 1 [*Blammo! Die*](#blammo-dice) to their sheet.
+
+#### Peril Increases
+
+Regardless of the outcome, a character's [*Peril*](#peril) increases by 1 for every 1 rolled. This increase is incorporated narratively into the result.
 
 ### Modifiers
 
@@ -295,11 +299,11 @@ Often, you won’t roll just one die when making a [*Gamble*](#gambles). Dependi
 
 #### Bonus Dice
 
-Add one die for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Die*](#blammo-dice), or external advantage that applies to the action.
+Add 1d6 for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Die*](#blammo-dice), or external advantage that applies to the action.
 
 #### Penalties
 
-Some [*Equipment*](#equipment) or external factors may impose penalties. For each penalty, remove one die from your pool. A [*Gamble*](#gambles) can never be reduced below 1 die, no matter how many penalties apply.
+Some [*Equipment*](#equipment) or external factors may impose penalties. For each penalty, remove one die from your pool. A [*Gamble*](#gambles) can never be reduced below 1d6, no matter how many penalties apply.
 
 ### Gamble Example
 
@@ -311,21 +315,25 @@ Nara Quinn, the daring archaeologist, is attempting to leap across a collapsing 
 
 **Player:** Perfect.
 
-Nara has a [*Knack*](#knacks) for understanding ancient stonework. She also carries her Dad's trusty grappling hook as one of her pieces of [*Equipment*](#equipment). The [*Director*](#the-director) imposes one penalty for Nara's known fear of heights. This results in 2 dice total.
+Nara has a [*Knack*](#knacks) for understanding ancient stonework. She also carries her Dad's trusty grappling hook as one of her pieces of [*Equipment*](#equipment). The [*Director*](#the-director) imposes one penalty for Nara's known fear of heights. This results in 2d6 total.
 
-The player rolls: 3 and 6. Success!
+The player rolls: 1 and 5. Nara succeeds but increases her peril by 1.
 
-**Player:** Nara dashes forward, and just before the stone crumbles away, she leaps and rolls to safety on the other side - grinning at the chasm below.
+**Player:** Nara dashes forward, and just before the stone crumbles away, she narrowly leaps across and grabs the ledge with one hand.
+
+### Helping Out
+
+Sometimes a player might want to lend a hand when someone else is making a gamble. In this case, allow a helping player to roll a single [*Bonus Dice*](#bonus-dice) from their [*Knacks*](#knacks) or [*Equipment*](#equipment) and add the result to the helped player's pool.
 
 ### Group Gambles
 
-In some cases, all of the players are working to accomplish (or survive) something. In this case, they can make a [*Group Gamble*](#group-gambles). The players collectively decide the [*Success*](#success) and [*Blunder*](#blunder) outcomes, and then each make a [*Gamble*](#gambles) as they normally would, applying any relevant [*Bonus Dice*](#bonus-dice). If the majority of the [*Gambles*](#gambles) result in a [*Success*](#success), the characters succeed. Otherwise, the [*Group Gamble*](#group-gambles) results in a [*Blunder*](#blunder), and [*Peril*](#peril) increases for all players.
+In some cases, all of the players are working to accomplish (or survive) something. In this case, they can make a [*Group Gamble*](#group-gambles). The players collectively decide the [*Success*](#success) and [*Blunder*](#blunder) outcomes, and then each make a [*Gamble*](#gambles) as they normally would, applying any relevant [*Bonus Dice*](#bonus-dice). If the majority of the [*Gambles*](#gambles) result in a [*Success*](#success), the characters succeed. Otherwise, the [*Group Gamble*](#group-gambles) results in a [*Blunder*](#blunder).
 
 ### Blammo! Dice
 
 Every dog has their day, and every character gets a chance to do something daring. Whenever a character fails a [*Gamble*](#gambles), their player gains a [*Blammo! Die*](#blammo-dice). There is no limit to how many [*Blammo! Dice*](#blammo-dice) a character may accrue, and they can be spent on any [*Gamble*](#gambles).
 
-To spend [*Blammo! Dice*](#blammo-dice), the player must declare a unique onomatopoeia—one that hasn't been used yet by any other player. They then describe where that sound effect appears if the [*Gamble*](#gambles) succeeds. For example, a player throwing a vase at a goon might say, “PLUNK!” and narrate the moment the vase crashes into the goon's head.
+To spend [*Blammo! Dice*](#blammo-dice), the player must declare a unique sound effect, one that hasn't been used yet by any other player. They then describe where that sound effect appears if the [*Gamble*](#gambles) succeeds. They then add 1d6 for each [*Blammo! Die*](#blammo-dice) spent. For example, a player throwing a vase at a goon might say, “PLUNK!” and narrate the moment the vase crashes into the goon's head.
 
 Unlike [*Lucky Save*](#lucky-saves), [*Blammo! Dice*](#blammo-dice) must be spent before the roll. If a [*Gamble*](#gambles) is already resolved, it's too late to use them. Once the [*Gamble*](#gambles) is rolled, the dice are cast.
 
@@ -333,9 +341,9 @@ Unlike [*Lucky Save*](#lucky-saves), [*Blammo! Dice*](#blammo-dice) must be spen
 
 At the start of each new leg of an adventure, each character generates 1d6 Lucky Saves. These represent the sheer dumb luck pulp adventure characters have, which can get them out of a bind. For each [*Lucky Save*](#lucky-saves) a player spends after making a [*Gamble*](#gambles), they may increase the value on a die by one. For example, if a player rolled a 3, they could spend two [*Lucky Saves*](#lucky-saves) to increase it to a 5. These must be rationed though, as characters won’t get more points until the next [*Leg*](#legs).
 
-#### Just The Thing!
+#### Just The Thing
 
-This is an optional rule which can be used at the [*Director's*](#the-director) discretion. Another way players can spend [*Lucky Saves*](#lucky-saves) is to spend one to produce a piece of equipment or an item that would be useful for them in that moment. Entered a dark cavern and nobody thought to bring a flashlight? Spend a [*Lucky Save*](#lucky-saves) to make that problem go away. 
+This is an optional rule which can be used at the [*Director's*](#the-director) discretion. Another way players can spend [*Lucky Saves*](#lucky-saves) is to spend one to produce a piece of equipment or an item that would be useful for them in that moment. Entered a dark cavern and nobody thought to bring a flashlight? Spend a [*Lucky Save*](#lucky-saves) to make that problem go away.
 
 #### Flashpoints
 
@@ -360,7 +368,7 @@ Each character can only have one [*Thread*](#threads) at a time. If a character 
 
 ### Peril
 
-No character is invincible—slowly, the strain of boldly going into the unknown will catch up to them. This is represented as [*Peril*](#peril) and the resulting [*Knockouts*](#knockouts).
+No character is invincible. Slowly, the strain of boldly going into the unknown will catch up to them. This is represented as [*Peril*](#peril) and the resulting [*Knockouts*](#knockouts).
 
 Whenever a character experiences a negative consequence, they often accumulate [*Peril*](#peril). A character’s [*Peril*](#peril) ranges from 0–6 at any given time and is often gained from a [*Blunder*](#blunder).
 
@@ -368,9 +376,13 @@ Whenever a character experiences a negative consequence, they often accumulate [
 
 ### Resting
 
-When [*Resting*](#resting), each player rolls 1d6. If the result is less than or equal to their current [*Peril*](#peril), it decreases by one. For example, if a player has 4 [*Peril*](#peril) and rolls a 2, their [*Peril*](#peril) decreases to 3.
+When [*Resting*](#resting), each player first declares a [*Relationship*](#relationships) they would like to leverage. Maybe the two war dogs take a smoke break, or the scientists compare notes together.
 
-Players should narrate how their character recovers (or doesn’t) while [*Resting*](#resting). Do they meditate? Shoot cans with their revolver? Give a rousing rant about how dire the situation is?
+Each resting character then rolls 1d6. If the result is less than or equal to their current [*Peril*](#peril), it decreases by one. For example, if a player has 4 [*Peril*](#peril) and rolls a 2, their [*Peril*](#peril) decreases to 3.
+
+If two characters who don't have a prior relationship choose to rest together, they add the new relationship to their sheet. If successful on their rolls, they decrease [*Peril*](#peril) by 2.
+
+A character can also rest alone, as if they were resting with an existing relationship, but they may not rest alone two rests in a row.
 
 ### Knockouts
 
@@ -378,20 +390,31 @@ When a character reaches 6 [*Peril*](#peril), they gain a [*Knockout*](#knockout
 
 Once a character gains a [*Knockout*](#knockouts), their [*Peril*](#peril) resets to 0, and they are incapacitated for the rest of the current [*Encounter*](#encounters). The remaining players will need to decide what to do with them until they recover in the next [*Encounter*](#encounters). [*Knockouts*](#knockouts) are permanent. If a character gains four [*Knockouts*](#knockouts), they become too weary to go on and must enter [*Retirement*](#retirement).
 
+### Moments
+
+Each time a character gains a [*Knockout*](#knockouts), they select one of four [*Moments*](#moments) to trigger. Each character can only trigger each [*Moment*](#moments) once.
+
+#### Last Stand
+
+Before your character drops, make one final [*Gamble*](#gambles) as normal but with an additional [*Bonus Die*](#bonus-dice). Regardless of the result, you go down.
+
+#### Rousing Speech
+
+Before meeting your demise, you impart some words to your friends. All allies reduce [*Peril*](#peril) by 1.
+
+#### Parting Gift
+
+Select one ally to throw an item or piece of [*Equipment*](#equipment) to. They will gain two [*Bonus Dice*](#bonus-dice) in their next [*Gamble*](#gambles).
+
+#### Final Vision
+
+In a fading moment, your character notices something important about the scene. Describe the vision in a few sentences. When your character recovers from the [*Knockout*](#knockouts), any player add the vision as a new [*Thread*](#threads).
+
 ### Retirement
 
 Not even pulp heroes are invincible, and eventually they meet their end. If a character reaches 4 [*Knockouts*](#knockouts), fear not—they are not removed from the game immediately.
 
 Retired characters continue to play until the end of the current adventure’s [*Leg*](#legs). Until then, their [*Peril*](#peril) no longer increases, but they cannot gain [*Bonus Dice*](#bonus-dice) from modifiers on any roll.
-
-### Insights
-
-The silver lining to gaining [*Knockouts*](#knockouts) is that a character also gains an [*Insight*](#insights).
-
-An [*Insight*](#insights) is an experiential bonus earned through hardship. It reflects the nature of the [*Knockout*](#knockouts). For example, if a character hits 6 [*Peril*](#peril) by nearly drowning in a rushing river, the [*Director*](#the-director) asks the player to describe the [*Insight*](#insights) they gained. The player might suggest something like: “Staying afloat even while weighed down with gear.”
-
-[*Insights*](#insights) can be used whenever a player—or another player—faces a similar situation, granting a bonus die. You learned the hard way, and now others can benefit from your pain.
-
 
 ## Running The Show
 
@@ -427,10 +450,9 @@ During a [*Tumult*](#tumults), the players always act first and can choose any t
 
 A [*Tumult*](#tumults) typically ends when one side is knocked out, flees, or surrenders. It’s ultimately up to the [*Director*](#the-director) to decide when a [*Tumult*](#tumults) is over.
 
-
 ### The Director
 
-In order to facilitate the massive adventures the players will take on, someone must take on the role of the [*Director*](#the-director). They help to weave the players’ story together, creating a good time for all.
+In order to facilitate the adventures the characters will take on, someone must take on the role of the [*Director*](#the-director).
 
 As the [*Director*](#the-director) you will present the [*Encounters*](#encounters) and adjudicate the [*Gambles*](#gambles) made by the players. Here are some things to keep in mind while running a game:
 
@@ -446,8 +468,6 @@ This is a crucial tool for the [*Director*](#the-director) to balance the shared
 
 Ask leading questions that force them to describe more than just a building or a person. It's very bright here, what might be contributing to the light? The basement is dark and smells strange, what is making the smell worse?
 
-In addition to making the [*Encounter*](#encounters) more evocative, you are receiving a goldmine of character-oriented worldbuilding that you can then pick up and sling right back at them later!
-
 ### Damage and Peril
 
 In Enigma, there is no physical damage or wounds for the players to worry about; in nearly any pulp adventure, pain isn’t what stops the plot from moving forward.
@@ -456,8 +476,8 @@ This doesn’t mean that characters don’t get injured, but rather, any injurie
 
 As the [*Director*](#the-director), it is your job to dole out [*Peril*](#peril) when necessary. Here is a list of some common places this might happen:
 
-- When a player rolls a Blunder on a [*Gamble*](#gambles)
-- When an enemy rolls a Success on a [*Gamble*](#gambles)
+- Any 1's rolled on a [*Gamble*](#gambles)
+- When an enemy targets a character
 - When the environment is particularly unforgiving, weather, etc.
 - When they encounter the weird, strange, odd, or eldritch
 - When you feel like it
@@ -472,18 +492,20 @@ That being said, if every character gets knocked out because of mismanaged [*Per
 
 As the [*Director*](#the-director), you must present the players with obstacles, enemies, and the other sort. Whether that be henchmen or a boulder rolling down the corridor, these barriers make the game exciting.
 
-NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director). 
+NPC’s and other figures you control typically don’t manage [*Peril*](#peril) or dice rolls in the exact same way as players; that would simply put too much strain on the [*Director*](#the-director).
 
 As successes are made against enemies, you can reference the threshold of successes if you are unsure of when the enemy should be bested. In most cases, the narration will dictate when enemies fall, but for major villains it can be useful to count the number of successful "hits".
 
-Each enemy also has a static dice pool they use when rolling against a character to attack or cause harm. The table below has sample pool sizes.
+Each enemy also has a danger rating which is used to dole out [*Peril*](#peril) on their turn. The amount can be split amongst certain characters or directed entirely towards one.
 
-| **Enemy Type** |**Success Threshold** | **Dice Pool** |
+For example, a lieutenant gunning down the characters from a biplane has a danger rating of 3. On their turn they unload hot lead towards the characters; depending on where the characters are standing, it might increase three of their peril by 1, or one of their peril by 3.
+
+| **Enemy Type** |**Success Threshold** | **Danger Rating** |
 | Minion | 1 | 1 |
 | Lieutenant | 2 | 3 |
 | Villain | 4 | 5 |
 
-As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manipulating enemy thresholds or dice pools to smooth over the action, or removing the need for dice rolling entirely.
+As the [*Director*](#the-director) you also can take whatever creative liberties you see fit in any given scenario. This can mean manipulating enemy thresholds or danger ratings as needed or removing them entirely.
 
 ### Uncovering Treasure
 
@@ -499,11 +521,11 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Gamble*](#gambles)
 
-- Success on a 5 or 6. Otherwise, the character’s action fails and their player gains one [*Blammo! Die*](#blammo-dice).
+- Success if any die reads a 5 or 6. Otherwise, the character’s action fails and their player gains one [*Blammo! Die*](#blammo-dice). [*Peril*](#peril) increases by 1 for every 1 rolled.
 
 [*Bonus Dice*](#bonus-dice)
 
-- Roll one additional die for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Insight*](#insights), [*Thread*](#threads), [*Blammo! Die*](#blammo-dice) spent, or any other external advantage.
+- Roll one additional die for each relevant [*Knack*](#knacks), piece of [*Equipment*](#equipment), [*Thread*](#threads), [*Blammo! Die*](#blammo-dice) spent, or any other external advantage.
 
 [*Penalties*](#penalties)
 
@@ -532,16 +554,18 @@ As the party moves along with their journey, they should earn rewards in a varie
 
 [*Resting*](#resting)
 
+- Select another character your character has a [*Relationship*](#relationships) with and describe how they spend time resting.
 - Roll 1d6. If the result is less than or equal to the character’s current [*Peril*](#peril), reduce [*Peril*](#peril) by 1.
+- If resting with a character your's doesn't have a relationship with, add one to your sheet and [*Peril*](#peril) is reduced by 2 on success.
+- If resting alone, the result is the same as resting with a current relationship. Characters can't rest alone twice in a row.
 
 [*Knockouts*](#knockouts)
 
 - When a character reaches 6 [*Peril*](#peril), they gain a [*Knockout*](#knockouts).
+- The player selects a [*Moment*](#moments) to trigger before they go down.
 - Their [*Peril*](#peril) resets to 0, and they are incapacitated for the rest of the [*Encounter*](#encounters) or [*Tumult*](#tumults).
 - If a character gains 4 [*Knockouts*](#knockouts), they must enter [*Retirement*](#retirement).
 
-[*Insights*](#insights)
+[*Catchphrases*](#catchphrase)
 
-- Gained when a character experiences a [*Knockout*](#knockouts).
-- Represents what the character has learned from the ordeal (e.g., “slipping on ice”).
-- Grants a [*Bonus Dice*](#bonus-dice) to any player when a character faces a similar situation.
+- Can be spent once per adventure to automatically succeed on a [*Gamble*](#gambles).
