@@ -5,7 +5,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# ENIGMA SRD V1.1
+# ENIGMA SRD V0.2.0
 {: .no_toc }
 
 <details close markdown="block">
@@ -19,7 +19,7 @@ search_exclude: true
 
 ## Licensing
 
-ENIGMA System Reference Document V1.1, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
+ENIGMA System Reference Document V0.2.0, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
 
 ## Introduction
 

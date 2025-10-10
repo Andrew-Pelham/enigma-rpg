@@ -5,7 +5,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# ENIGMA SRD V1.3
+# ENIGMA SRD V0.4.0
 {: .no_toc }
 
 <img src="/assets/img/pulp_banner_5.png" alt="Vintage pulp header" style="width:100%; margin: 1rem 0;" />
@@ -21,7 +21,7 @@ search_exclude: true
 
 ## Licensing
 
-ENIGMA System Reference Document V1.3, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
+ENIGMA System Reference Document V0.4.0, by Andrew Pelham, is licensed under the Creative Commons Attribution 4.0  with no commercial use (<https://creativecommons.org/licenses/by-nc/4.0/>).
 
 ## Introduction
 
