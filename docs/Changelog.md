@@ -7,7 +7,7 @@ search_exclude: true
 
 # Changelog
 
-## What's New in 1.4 – Quick Summary
+## What's New in 0.5.0 – Quick Summary
 - **Catchphrases:** Once per adventure, auto-succeed on a *Gamble* by speaking your catchphrase.
 - **Peril on 1’s:** +1 *Peril* for every die showing a 1 on any *Gamble*.
 - **Helping Out:** Other players can contribute 1 bonus die from a *Knack* or *Equipment*.
@@ -18,7 +18,7 @@ search_exclude: true
 
 ---
 
-## Rules & Feature Changes – SRD 1.3 → 1.4
+## Rules & Feature Changes – SRD 0.4.0 → 0.5.0
 
 ### Character Creation
 
