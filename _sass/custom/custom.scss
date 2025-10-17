@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap'); // added PT Sans Narrow 400 & 700
 
 
 @font-face {
@@ -12,14 +13,19 @@
     src: url('/assets/fonts/Remi Script.ttf') format('truetype')
 }
 
-$body-font-family: 'Merriweather', serif;
-$heading-font-family: 'Carter One', system-ui;
+$body-font-family: 'PT Sans Narrow', serif;
+$heading-font-family: 'PT Sans Narrow', system-ui;
 
 // Apply custom fonts
 input, body {
     font-family: $body-font-family;
 }
 
-.site-title, nav, h1, h2, h3, h4, h5, h6 {
+.site-title {
+    font-family: 'Carter One', sans-serif;
+}
+
+nav, h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
+    font-weight: 700;
 }
