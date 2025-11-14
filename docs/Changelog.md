@@ -7,6 +7,13 @@ search_exclude: true
 
 # Changelog
 
+## 0.6.1
+- **Terminology:** "The Crew" renamed to "The Cast" to keep in line with the genre.
+- **Encounters:** Renamed to **Scenes** in order to keep parity with future Director Toolkit.
+- **Snooping:** Added 1d6 dice roll when searching for clues or information. No bonuses applied; closer to 1 is less info, 6 is more info.
+
+---
+
 ## 0.6.0
 - **Catchphrases:** Now **once per Leg**; **re-roll a Gamble** and replace the old result. Replaces “auto-success once per adventure.”
 - **Resting:** Simplified. Each player **rolls 1d6; on ≤ current Peril, reduce Peril by 1**. Relationship rules removed.
