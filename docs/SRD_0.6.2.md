@@ -4,7 +4,7 @@ title: System Reference Document
 nav_order: 2
 ---
 
-# ENIGMA SRD V0.6.1
+# ENIGMA SRD V0.6.2
 {: .no_toc }
 
 [View full changelog »](Changelog)
