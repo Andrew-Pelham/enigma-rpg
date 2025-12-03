@@ -7,6 +7,12 @@ search_exclude: true
 
 # Changelog
 
+## 0.6.2
+- **Gambles:** Removed the need to set stakes before rolling to preserve game momentum
+- **Snooping:** Reworded rolling 1d6 for snooping so it seemed less like a mechanic and more like a gm tool
+
+---
+
 ## 0.6.1
 - **Terminology:** "The Crew" renamed to "The Cast" to keep in line with the genre.
 - **Encounters:** Renamed to **Scenes** in order to keep parity with future Director Toolkit.

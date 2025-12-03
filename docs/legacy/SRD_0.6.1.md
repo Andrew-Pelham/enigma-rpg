@@ -1,7 +1,8 @@
 ---
 layout: default
 title: System Reference Document
-nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
 
 # ENIGMA SRD V0.6.1
