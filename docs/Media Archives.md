@@ -12,7 +12,7 @@ These curated archives house public domain pulp fiction, adventure serials, and 
 
 ## Public Domain Note
 
-In the U.S., any work published before 1929 is in the public domain. Works published from 1929–1977 can be public domain only if they weren’t renewed or complied with copyright rules. Most works published after 1977 are still under copyright unless explicitly released. Always check source notes—just because something is old or online doesn’t guarantee it’s free to use commercially.
+In the U.S., any work published before Jan 1st 1931 is in the public domain. Works published from 1931–1977 can be public domain only if they weren’t renewed or complied with copyright rules. Most works published after 1977 are still under copyright unless explicitly released. Always check source notes—just because something is old or online doesn’t guarantee it’s free to use commercially.
 
 <style>
 .resource-tile-container {
@@ -67,7 +67,7 @@ In the U.S., any work published before 1929 is in the public domain. Works publi
 
 <div class="resource-tile">
   <a href="https://luminist.org/archives" target="_blank">Luminist Archives</a>
-  <p>Deep archive of scanned digests, journals, and obscure pulp-era literature. Raw but useful.</p>
+  <p>Deep archive of scanned digests, journals, and obscure pulp-era literature.</p>
 </div>
 
 <div class="resource-tile">
